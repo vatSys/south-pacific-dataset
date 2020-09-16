@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <SSRAssignment>
 <!-- Code "Bins" define available codes and their assigned Regex rules. 
 		Priority is applied by the order they appear in this file. -->
@@ -24,7 +24,7 @@
   </Bin>
     <!-- Military Flights -->
   <Bin>
-    <Rule Remarks="(\/|\b)(RAAF|MILITARY|USAF|RAF|RAN|ARMY)\b"/>
+    <Rule Remarks="(\/|\b)(RAAF|MILITARY|USAF|RAF|RAN|ARMY|RNZAF|RNZN)\b"/>
     <Codes Start="2501" End="2577"/>
 	<Codes Start="7301" End="7307"/>
 	<Codes Start="2001" End="2077"/>
@@ -32,7 +32,7 @@
   </Bin>
   <!-- Domestic Flights -->
   <Bin>
-    <Rule Departure="A[GY]\w{2}|N[FVW]\w{2}|PKWA" Destination="A[GY]\w{2}|N[FVW]\w{2}|PKWA"/>
+    <Rule Departure="N\w{3}" Destination="N\w{3}"/>
     <Codes Start="3601" End="3677"/>
 	<Codes Start="3701" End="3777"/>
 	<Codes Start="4001" End="4077"/>
