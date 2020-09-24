@@ -1,420 +1,642 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="Morseby CTR" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
-    <Sectors>
-      <Sector Name="AYPM" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="ALL_NAVAIDS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Time">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="9000" />
-    <ArrivalLists>
-      <Airport Name="AYPY" />
-      <Airport Name="AYNZ" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Morseby Control</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500">
-    <Sectors>
-      <Sector Name="NFFF" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Alpha">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="20000" />
-    <ControllerInfo>
-      <Line>Nadi Radio</Line>
-      <Line>Oceanic Reporting  www.vatpac.org/pilots/pilot-tools/oceanic-reporting-tool</Line>
-      <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
-    </ControllerInfo>
-  </Position>
-  <Position Name="Goroka Tower" Type="ASD" DefaultCenter="-06.082600+145.391283" DefaultRange="80" MagneticVariation="-4.9">
-    <Sectors>
-      <Sector Name="AYGA ADC" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Goroka/AYGA_COAST" />
-      <Map Name="Goroka/AYGA_TCU" />
-      <Map Name="Goroka/AYGA_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYGA" Frequency="134.0" />
-      <Window Airport="AYGA" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYGA" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="10000" />
-    <ArrivalLists>
-      <Airport Name="AYGA" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Goroka Tower</Line>
-      <Line>ATIS available on 134.0</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Madang Tower" Type="ASD" DefaultCenter="-05.208300+145.787667" DefaultRange="80" MagneticVariation="-4.8">
-    <Sectors>
-      <Sector Name="AYMD ADC" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Madang/AYMD_COAST" />
-      <Map Name="Madang/AYMD_TCU" />
-      <Map Name="Madang/AYMD_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYMD" Frequency="127.8" />
-      <Window Airport="AYMD" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYMD" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="5000" />
-    <ArrivalLists>
-      <Airport Name="AYMD" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Madang Tower</Line>
-      <Line>ATIS available on 127.8</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Mt Hagen Tower" Type="ASD" DefaultCenter="-05.827806+144.299528" DefaultRange="80" MagneticVariation="-4.6">
-    <Sectors>
-      <Sector Name="AYMH ADC" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Mt Hagen/AYMH_COAST" />
-      <Map Name="Mt Hagen/AYMH_TCU" />
-      <Map Name="Mt Hagen/AYMH_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYMH" Frequency="128.4" />
-      <Window Airport="AYMH" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYMH" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="10000" />
-    <ArrivalLists>
-      <Airport Name="AYMH" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Mount Hagen Tower</Line>
-      <Line>ATIS available on 128.4</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Nadzab TCU" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="200" MagneticVariation="-5.3">
-    <Sectors>
-      <Sector Name="AYNZA" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Nadzab/AYNZ_COAST" />
-      <Map Name="Nadzab/AYNZ_TCU" />
-      <Map Name="Nadzab/AYNZ_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYNZ" Frequency="128.6" />
-      <Window Airport="AYNZ" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="6000" />
-    <ArrivalLists>
-      <Airport Name="AYNZ" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Nadzab Approach</Line>
-      <Line>ATIS available on 128.6</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="200" MagneticVariation="-5.8">
-    <Sectors>
-      <Sector Name="AYPYA" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Port Moresby/AYPY_COAST" />
-      <Map Name="Port Moresby/AYPY_TCU" />
-      <Map Name="Port Moresby/AYPY_RWY14" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYPY" Frequency="128.0" />
-      <Window Airport="AYPY" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYPY" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="15000" />
-    <ArrivalLists>
-      <Airport Name="AYPY" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Port Moresby Approach</Line>
-      <Line>ATIS available on 128.0</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Tokua Tower" Type="ASD" DefaultCenter="-04.341028+152.379222" DefaultRange="80" MagneticVariation="-6.3">
-    <Sectors>
-      <Sector Name="AYTK ADC" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Tokua/AYTK_COAST" />
-      <Map Name="Tokua/AYTK_TCU" />
-      <Map Name="Tokua/AYTK_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYTK" Frequency="128.0" />
-      <Window Airport="AYTK" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYTK" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="5000" />
-    <ArrivalLists>
-      <Airport Name="AYTK" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Tokua Tower</Line>
-      <Line>ATIS available on 128.0</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Wewak Tower" Type="ASD" DefaultCenter="-03.584139+143.668783" DefaultRange="80" MagneticVariation="-4.1">
-    <Sectors>
-      <Sector Name="AYWK ADC" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Wewak/AYWK_COAST" />
-      <Map Name="Wewak/AYWK_TCU" />
-      <Map Name="Wewak/AYWK_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="AYWK" Frequency="128.2" />
-      <Window Airport="AYWK" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="AYWK" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="5000" />
-    <ArrivalLists>
-      <Airport Name="AYWK" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Wewak Tower</Line>
-      <Line>ATIS available on 128.2</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="400" MagneticVariation="-12.5">
-    <Sectors>
-      <Sector Name="NFFNA" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Nadi/NFFN_COAST" />
-      <Map Name="Nadi/NFFN_TCU" />
-      <Map Name="Nadi/NFFN_RWY02" />
-      <Map Name="Nadi/NFNA_RWY10" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="NFFN" Frequency="127.9" />
-      <Window Airport="NFFN" />
-      <Window Airport="NFNA" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="NFFN" Visible="true" />
-      <Window Type="ADEP" Beacon="NFNA" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="20000" />
-    <ArrivalLists>
-      <Airport Name="NFFN" />
-      <Airport Name="NFNA" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Nadi Approach</Line>
-      <Line>ATIS available on 127.9</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-  </Position>
-  <Position Name="Port Vila CTR" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200">
-    <Sectors>
-      <Sector Name="NVVV" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="ALL_NAVAIDS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Time">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="10000" />
-    <ArrivalLists>
-      <Airport Name="NVVV" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Vila Centre</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-  </Position>
-  <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="80" MagneticVariation="-11.6">
-    <Sectors>
-      <Sector Name="NVVV ADC" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Port Vila/NVVV_COAST" />
-      <Map Name="Port Vila/NVVV_TCU" />
-      <Map Name="Port Vila/NVVV_RWY11" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="NVVV" Frequency="126.4" />
-      <Window Airport="NVVV" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="NVVV" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="10000" />
-    <ArrivalLists>
-      <Airport Name="NVVV" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Port Vila Tower</Line>
-      <Line>ATIS available on 126.4</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-  </Position>
-  <Position Name="Noumea TCU" Type="ASD" DefaultCenter="-22.258333+166.472778" DefaultRange="500" MagneticVariation="-12.5">
-    <Sectors>
-      <Sector Name="NWWWA" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Noumea/NWWW_COAST" />
-      <Map Name="Noumea/NWWW_TCU" />
-      <Map Name="Noumea/NWWW_RWY11" />
-      <Map Name="Noumea/NWWM_RWY17" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="NWWW" Frequency="126.2" />
-      <Window Airport="NWWW" />
-      <Window Airport="NWWM" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="NWWW" Visible="true" />
-      <Window Type="ADEP" Beacon="NWWM" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="7000" />
-    <ArrivalLists>
-      <Airport Name="NWWW" />
-      <Airport Name="NWWM" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Tontouta Approach</Line>
-      <Line>ATIS available on 126.2</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-  </Position>
-  <Position Name="Bucholz TCU" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="400" MagneticVariation="-7.6">
-    <Sectors>
-      <Sector Name="PKWAA" />
-    </Sectors>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="Bucholz/PKWA_COAST" />
-      <Map Name="Bucholz/PKWA_TCU" />
-      <Map Name="Bucholz/PKWA_ALLRWYS" />
-    </Maps>
-    <ATIS>
-      <Editor Airport="PKWA" Frequency="119.5" />
-      <Window Airport="PKWA" />
-    </ATIS>
-    <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="PKWA" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="9000" />
-    <ArrivalLists>
-      <Airport Name="PKWA" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Kwaj Approach</Line>
-      <Line>ATIS available on 119.5</Line>
-      <Line>ATC feedback - feedback.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="18000" />
-  </Position>
-<Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
-    <Maps>
-      <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_TWY" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
-    </Maps>
-  </Position>
- <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.756389+177.443611" DefaultRange="2" MagneticVariation="-12.5" Rotation="-2">
-    <Maps>
-      <Map Name="Nadi/ASMGCS_NFFN_RWY" />
-      <Map Name="Nadi/ASMGCS_NFFN_APR" />
-      <Map Name="Nadi/ASMGCS_NFFN_TWY" />
-      <Map Name="Nadi/ASMGCS_NFFN_BLD" />
-    </Maps>
-  </Position>
-  <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.720122+167.731661" DefaultRange="2" MagneticVariation="-7.6" Rotation="206">
-    <Maps>
-      <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
-      <Map Name="Bucholz/ASMGCS_PKWA_APR" />
-      <Map Name="Bucholz/ASMGCS_PKWA_TWY" />
-      <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
-    </Maps>
-  </Position>
-</Positions>
+<Positions>
+    <Position Name="Tahiti Oceanic" Type="ASD" DefaultCenter="-100000.000-1500000.000" DefaultRange="4500">
+      <Sectors>
+        <Sector Name="NTTT"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="ALL_SECTORS"/>
+        <Map Name="COAST_ALL"/>
+        <Map Name="ALL_ROUTES_HIGH"/>
+        <Map Name="ALL_POINTS_HIGH"/>
+        <Map Name="FIR_BDRY"/>
+        <Map Name="UPPER_SECTOR_FREQS"/>
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true"/>
+        <Window Type="State" State="Announced" Visible="true"/>
+        <Window Type="State" State="Preactive" Visible="true"/>
+      </Strips>
+      <ArrivalLists>
+        <Airport Name="NTAA"/>
+      </ArrivalLists>
+      <CFL QuickLevel="29000"/>
+      <ControllerInfo>
+        <Line>Tahiti Control | CPDLC available on NTTT</Line>
+        <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
+        <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+      </ControllerInfo>
+    </Position>
+      <Position Name="Auckland Oceanic" Type="ASD" DefaultCenter="-300000.000-1750000.000" DefaultRange="4500">
+      <Sectors>
+        <Sector Name="NZZO"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="ALL_SECTORS"/>
+        <Map Name="COAST_ALL"/>
+        <Map Name="ALL_ROUTES_HIGH"/>
+        <Map Name="ALL_POINTS_HIGH"/>
+        <Map Name="FIR_BDRY"/>
+        <Map Name="UPPER_SECTOR_FREQS"/>
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true"/>
+        <Window Type="State" State="Announced" Visible="true"/>
+        <Window Type="State" State="Preactive" Visible="true"/>
+      </Strips>
+      <ArrivalLists>
+        <Airport Name="NZAA"/>
+        <Airport Name="NZCH"/>
+        <Airport Name="NZWN"/>
+        <Airport Name="NZQN"/>
+      </ArrivalLists>
+      <CFL QuickLevel="29000"/>
+      <ControllerInfo>
+        <Line>Auckland Radio | CPDLC available on NZZO</Line>
+        <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
+        <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+      </ControllerInfo>
+    </Position>
+      <Position Name="McMurdo" Type="ASD" DefaultCenter="-690000.000+1710000.000" DefaultRange="4500">
+      <Sectors>
+        <Sector Name="NZCM"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="ALL_SECTORS"/>
+        <Map Name="COAST_ALL"/>
+        <Map Name="ALL_ROUTES_HIGH"/>
+        <Map Name="ALL_POINTS_HIGH"/>
+        <Map Name="FIR_BDRY"/>
+        <Map Name="UPPER_SECTOR_FREQS"/>
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true"/>
+        <Window Type="State" State="Announced" Visible="true"/>
+        <Window Type="State" State="Preactive" Visible="true"/>
+      </Strips>
+      <ArrivalLists>
+        <Airport Name="NZWD"/>
+        <Airport Name="NZIR"/>
+      </ArrivalLists>
+      <CFL QuickLevel="29000"/>
+      <ControllerInfo>
+        <Line>McMurdo Radio| CPDLC available on NZCM</Line>
+        <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
+        <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Williams Tower" Type="ASD" DefaultCenter="-775203.000+1670324.000" DefaultRange="80" MagneticVariation="-140.9">
+      <Sectors>
+        <Sector Name="WD ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Williams/WD_COAST"/>
+        <Map Name="Williams/WD_TCU"/>
+        <Map Name="Williams/WD_RWY07"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NZWD" Frequency="122.6"/>
+        <Window Airport="NZWD"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NZWD" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="5500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NZWD"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Williams Tower</Line>
+        <Line>ATIS available on 122.6</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Tahiti Control" Type="ASD" DefaultCenter="-173324.000-1493641.000" DefaultRange="450">
+      <Sectors>
+        <Sector Name="TAC"/>
+        <Sector Name="TAA"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="ALL_SECTORS"/>
+        <Map Name="COAST_ALL"/>
+        <Map Name="ALL_ROUTES_HIGH"/>
+        <Map Name="ALL_POINTS_HIGH"/>
+        <Map Name="FIR_BDRY"/>
+        <Map Name="UPPER_SECTOR_FREQS"/>
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true"/>
+        <Window Type="State" State="Announced" Visible="true"/>
+        <Window Type="State" State="Preactive" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="10000"/>
+      <ArrivalLists>
+        <Airport Name="NTAA"/>
+        <Airport Name="NTTM"/>
+        <Airport Name="NTTB"/>
+       <Airport Name="NTTR"/>
+        <Airport Name="NTTH"/>
+        <Airport Name="NTTG"/>
+        <Airport Name="NTTO"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Tahiti Control</Line>
+      </ControllerInfo>
+    </Position>	
+    <Position Name="Tahiti TCU" Type="ASD" DefaultCenter="-173324.000-1493641.000" DefaultRange="150" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TAC"/>
+        <Sector Name="TAA"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Tahiti/TF_COAST"/>
+        <Map Name="Tahiti/TF_TCU"/>
+        <Map Name="Tahiti/TF_RWY04"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NTAA" Frequency="134.5" />
+        <Window Airport="NTAA"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTAA" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="15000">
+        <AdditionalLevels>1600,1800,2100,2800,3100,3200,3300,3800</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTAA"/>
+        <Airport Name="NTTM"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Tahiti Approach</Line>
+        <Line>ATIS available on 128.8</Line>
+      </ControllerInfo>
+    </Position>
+     <Position Name="NTAA" Type="ASMGCS" ASMGCSAirport="NTAA" DefaultCenter="-37.673+144.843" DefaultRange="3" MagneticVariation="-13" Rotation="-70">
+      <Maps>
+        <Map Name="Tahiti/ASMGCS_NTAA_RWY" />
+        <Map Name="Tahiti/ASMGCS_NTAA_TWY" />
+        <Map Name="Tahiti/ASMGCS_NTAA_BLD" />
+        <Map Name="Tahiti/ASMGCS_NTAA_APR" />
+      </Maps>
+    </Position>
+    <Position Name="Bora Bora Tower" Type="ASD" DefaultCenter="-162637.000-1514509.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TB ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Bora/TB_COAST"/>
+        <Map Name="Bora/TB_TCU"/>
+        <Map Name="Bora/TB_RWY11"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NTTB" Frequency="121.5"/>
+        <Window Airport="NTTB"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTTB" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="1500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTTB"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Bora Bora Tower</Line>
+        <Line>ATIS available on 121.5</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Raietea Tower" Type="ASD" DefaultCenter="-164323.000-1512801.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TR ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Raietea/TR_COAST"/>
+        <Map Name="Raietea/TR_TCU"/>
+        <Map Name="Raietea/TR_RWY07"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NTTR" Frequency="119.6"/>
+        <Window Airport="NTTR"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTTB" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="1500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTTR"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Raietea Tower</Line>
+        <Line>ATIS available on 119.6</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Huahine Tower" Type="ASD" DefaultCenter="-164118.000-1510143.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TH ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Huahine/TH_COAST"/>
+        <Map Name="Huahine/TH_TCU"/>
+        <Map Name="Huahine/TH_RWY07"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NTTH" Frequency="123.3"/>
+        <Window Airport="NTTH"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTTH" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="1500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTTH"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Huahine Tower</Line>
+        <Line>ATIS available on 123.3</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Rangiaroa Tower" Type="ASD" DefaultCenter="-145719.000-1473928.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TG ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Rangiaroa/TG_COAST"/>
+        <Map Name="Rangiaroa/TG_TCU"/>
+        <Map Name="Rangiaroa/TG_RWY09"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NTTG" Frequency="122.7"/>
+        <Window Airport="NTTG"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTTG" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="1500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTTG"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Rangiaroa Tower</Line>
+        <Line>ATIS available on 122.7</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Moorea Tower" Type="ASD" DefaultCenter="-172922.000-1494544.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TM ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Moorea/TM_COAST"/>
+        <Map Name="Moorea/TM_TCU"/>
+        <Map Name="Moorea/TM_RWY12"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NTTM" Frequency="118.4"/>
+        <Window Airport="NTTM"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTTB" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="1500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTTM"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Moorea Tower</Line>
+        <Line>ATIS available on 118.4</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Hao Tower" Type="ASD" DefaultCenter="-180351.000-1405726.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="TO ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Hao/TO_COAST"/>
+        <Map Name="Hao/TO_TCU"/>
+        <Map Name="Hao/TO_RWY12"/>
+      </Maps>
+     <ATIS>
+        <Editor Airport="NTTO" Frequency="119.8"/>
+        <Window Airport="NTTO"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NTTOB" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="1500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NTTO"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Hao Tower</Line>
+        <Line>ATIS available on 119.8</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Rarotonga  TCU" Type="ASD" DefaultCenter="-211204.520-1594756.560" DefaultRange="250" MagneticVariation="-14">
+      <Sectors>
+        <Sector Name="RGA"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Rarotonga/RG_COAST"/>
+        <Map Name="Rarotonga/RG_TCU"/>
+        <Map Name="Rarotonga/RG_RWY04"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NCRG" Frequency="121.9"/>
+        <Window Airport="NCRG"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NCRG" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="24000">
+        <AdditionalLevels>1600,1800,2100,2800,3100,3200,3300,3800</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="YPAD"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Adelaide Approach</Line>
+        <Line>ATIS available on 121.9</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Rarotonga Tower" Type="ASD" DefaultCenter="-211204.520-1594756.560" DefaultRange="80" MagneticVariation="-14">
+      <Sectors>
+        <Sector Name="RG ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Rarotonga/RG_COAST"/>
+        <Map Name="Rarotonga/RG_TCU"/>
+        <Map Name="Rarotonga/RG_RWY08"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NCRG" Frequency="121.9"/>
+        <Window Airport="NCRG"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NCRG" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="4500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NCRG"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Rarotonga Tower</Line>
+        <Line>ATIS available on 121.9</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Fua 'amotu TCU" Type="ASD" DefaultCenter="-211430.700-1750825.590" DefaultRange="250" MagneticVariation="-13.6">
+      <Sectors>
+        <Sector Name="TBUA"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Fuaamotu/TBU_COAST"/>
+        <Map Name="Fuaamotu/TBU_TCU"/>
+        <Map Name="Fuaamotu/TBU_RWY11"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFTF" Frequency="121.9"/>
+        <Window Airport="NFTF"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFTF" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="24000">
+        <AdditionalLevels>1600,1800,2100,2800,3100,3200,3300,3800</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NFTF"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Fua 'amotu Approach</Line>
+        <Line>ATIS available on 121.9</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Fua 'amotu Tower" Type="ASD" DefaultCenter="-211430.700-1750825.590" DefaultRange="80" MagneticVariation="-13.6">
+      <Sectors>
+        <Sector Name="TBU ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Fuaamotu/TBU_COAST"/>
+        <Map Name="Fuaamotu/TBU_TCU"/>
+        <Map Name="Fuaamotu/TBU_RWY11"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFTF" Frequency="121.9"/>
+        <Window Airport="NFTF"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFTF" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="4500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NFTF"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Fua 'amotu Tower</Line>
+        <Line>ATIS available on 121.9</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Vava'u Tower" Type="ASD" DefaultCenter="-183508.090-1735804.960" DefaultRange="80" MagneticVariation="-13.6">
+      <Sectors>
+        <Sector Name="TV ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Vavau/TV_COAST"/>
+        <Map Name="Vavau/TV_TCU"/>
+        <Map Name="Vavau/TV_RWY08"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFTV" Frequency="127.0"/>
+        <Window Airport="NFTV"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFTV" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="4500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NFTV"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Vava 'u Tower</Line>
+        <Line>ATIS available on 127.0</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Niue Tower" Type="ASD" DefaultCenter="-190441.000-1695336.000" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="NU ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Niue/NU_COAST"/>
+        <Map Name="Niue/NU_TCU"/>
+        <Map Name="Niue/NU_RWY10"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NIUE" Frequency="127.5"/>
+        <Window Airport="NIUE"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NIUE" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="4500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NIUE"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Niue Tower</Line>
+        <Line>ATIS available on 127.5</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Faleolo TCU" Type="ASD" DefaultCenter="-134954.620-1715952.850" DefaultRange="150" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="FAA"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Faleolo/FA_COAST"/>
+        <Map Name="Faleolo/FA_TCU"/>
+        <Map Name="Faleolo/FA_RWY08"/>
+        <Map Name="Faleolo/TUT_RWY05"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NSFA" Frequency="129.9"/>
+        <Window Airport="NSFA"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NSFA" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="24000">
+        <AdditionalLevels>1600,1800,2100,2800,3100,3200,3300,3800</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NSFA"/>
+        <Airport Name="NSTU"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Faleolo Approach</Line>
+        <Line>ATIS available on 126.9</Line>
+      </ControllerInfo>
+    </Position>
+   <Position Name="Faleolo Tower" Type="ASD" DefaultCenter="-134954.620-1715952.850" DefaultRange="80" MagneticVariation="-13">
+      <Sectors>
+        <Sector Name="FA ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Faleolo/FA_COAST"/>
+        <Map Name="Faleolo/FA_TCU"/>
+        <Map Name="Faleolo/FA_RWY08"/>
+        <Map Name="Faleolo/TUT_RWY05"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NSFA" Frequency="126.9"/>
+        <Window Airport="NSFA"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NSFA" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="4500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NSFA"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Faleolo Tower</Line>
+        <Line>ATIS available on 126.9</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Pago Pago Tower" Type="ASD" DefaultCenter="-141953.984-1704241.411" DefaultRange="80" MagneticVariation="-12">
+      <Sectors>
+        <Sector Name="TUT ADC"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="Faleolo/FA_COAST"/>
+        <Map Name="Faleolo/FA_TCU"/>
+        <Map Name="Faleolo/FA_RWY08"/>
+        <Map Name="Faleolo/TUT_RWY05"/>
+      </Maps>
+      <ATIS>
+        <Editor Airport="NSTU" Frequency="127.9"/>
+        <Window Airport="NSTU"/>
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NSTU" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="4500">
+        <AdditionalLevels>3200,5800,6300</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="NSTU"/>
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Pago Pago Tower</Line>
+        <Line>ATIS available on 127.9</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Tasman" Type="ASD" DefaultCenter="-281500.0+1590545.0" DefaultRange="4500">
+      <Sectors>
+        <Sector Name="TSN"/>
+        <Sector Name="HWE"/>
+        <Sector Name="FLD"/>
+        <Sector Name="COL"/>
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA"/>
+        <Map Name="ALL_SECTORS"/>
+        <Map Name="COAST_ALL"/>
+        <Map Name="ALL_ROUTES_HIGH"/>
+        <Map Name="ALL_POINTS_HIGH"/>
+        <Map Name="FIR_BDRY"/>
+        <Map Name="UPPER_SECTOR_FREQS"/>
+      </Maps>
+      <Strips Mode="State" Sort="Alpha">
+        <Window Type="State" State="Jurisdiction" Visible="true"/>
+        <Window Type="State" State="Announced" Visible="true"/>
+        <Window Type="State" State="Preactive" Visible="true"/>
+      </Strips>
+      <CFL QuickLevel="29000"/>
+      <ControllerInfo>
+        <Line>Brisbane Radio | CPDLC available on YBBB</Line>
+        <Line>Oceanic Reporting  www.vatpac.org/pilots/pilot-tools/oceanic-reporting-tool</Line>
+        <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+      </ControllerInfo>
+    </Position>
+	</Positions>
