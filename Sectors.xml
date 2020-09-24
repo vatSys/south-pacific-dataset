@@ -36,6 +36,9 @@
   <Sector FullName="McMurdo Oceanic" Frequency="128.700" Callsign="NZCM_FSS" Name="NZCM">
     <Volumes>MCMURDO</Volumes>
   </Sector>
+    <Sector FullName="Williams Tower" Frequency="126.200" Callsign="NZWD_TWR" Name="WD ADC">
+    <Volumes>NZWD_CTZ</Volumes>
+</Sector>
 <Sector FullName="Tahiti Oceanic" Frequency="125.500" Callsign="NTTT_FSS" Name="NTTT">
     <Volumes>NTTT</Volumes>
 </Sector>
@@ -58,13 +61,16 @@
 <Sector FullName="Huahine Tower" Frequency="119.300" Callsign="NTTH_TWR" Name="TH ADC">
     <Volumes>NTTH_CTZ</Volumes>
 </Sector>
+ <Sector FullName="Moorea Tower" Frequency="118.700" Callsign="NTTM_TWR" Name="TM ADC">
+    <Volumes>NTTB_CTZ</Volumes>
+</Sector>
 <Sector FullName="Rangiaroa Tower" Frequency="118.300" Callsign="NTTG_TWR" Name="TG ADC">
     <Volumes>NTTG_CTZ</Volumes>
 </Sector>
 <Sector FullName="Hao Tower" Frequency="119.100" Callsign="NTTO_TWR" Name="TO ADC">
     <Volumes>NTTO_CTZ</Volumes>
 </Sector>
-<Sector FullName="Rarotonga Approach" Frequency="121.9" Callsign="NCRG_APP" Name="RGA">
+<Sector FullName="Rarotonga Control" Frequency="121.9" Callsign="NCRG_APP" Name="RGA">
     <Volumes>NCRG_CTA2,NCRG_CTA3,NCRG_CTA4</Volumes>
 </Sector>
 <Sector FullName="Rarotonga Tower" Frequency="118.100" Callsign="NCRG_TWR" Name="RG ADC">
@@ -77,6 +83,12 @@
     <Volumes>NFTF_CTZ</Volumes>
 </Sector>
 <Sector FullName="Fua 'amotu Ground" Frequency="121.900" Callsign="NFTF_GND" Name="TBU SMC"/>
+<Sector FullName="Vava 'u Tower" Frequency="118.100" Callsign="NFTV_TWR" Name="TV ADC">
+    <Volumes>NFTV_CTZ</Volumes>
+</Sector>
+<Sector FullName="Niue Tower" Frequency="118.100" Callsign="NIUE_TWR" Name="NU ADC">
+    <Volumes>NIUE_CTZ</Volumes>
+</Sector>
   <Sector FullName="Faleolo Approach" Frequency="126.900" Callsign="NSFA_APP" Name="FAA">
     <Volumes>NSFA_CTA</Volumes>
 </Sector>
