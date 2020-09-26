@@ -376,10 +376,10 @@
         <AdditionalLevels>1600,1800,2100,2800,3100,3200,3300,3800</AdditionalLevels>
       </CFL>
       <ArrivalLists>
-        <Airport Name="YPAD"/>
+        <Airport Name="NCRG"/>
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Adelaide Approach</Line>
+        <Line>Rarotonga Control</Line>
         <Line>ATIS available on 121.9</Line>
       </ControllerInfo>
     </Position>
