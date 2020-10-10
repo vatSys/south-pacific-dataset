@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Messages>
   <Category name="QUICK_OPTIONS">
     <Message Response="WU">CLIMB TO AND MAINTAIN [LEVEL]</Message>
@@ -7,7 +7,7 @@
     <Message Response="WU">MAINTAIN [SPEED] OR GREATER</Message>
     <Message Response="WU">MAINTAIN [SPEED] OR LESS</Message>
     <Message Response="WU">CONTACT [UNIT] [FREQUENCY]</Message>
-    <Message Response="R">REQUEST RECIEVED RESPONSE WILL BE VIA VOICE</Message>
+    <Message Response="R">REQUEST RECEIVED RESPONSE WILL BE VIA VOICE</Message>
   </Category>
   <Category name="Level">
     <Message Response="NE">WHEN CAN YOU ACCEPT [LEVEL]</Message>
@@ -30,7 +30,7 @@
     <Message Response="WU">CLIMB TO AND MAINTAIN BLOCK [LEVEL] TO [LEVEL]</Message>
     <Message Response="WU">DESCEND TO AND MAINTAIN BLOCK [LEVEL] TO [LEVEL]</Message>
     <Message Response="R">LEAVE CONTROL AREA DESCENDING</Message>
-    <Message Response="R">CRUISE CLIMB NOT AVAILABLE IN AUSTRALIAN ADMINISTRED AIRSPACE</Message>
+    <Message Response="R">CRUISE CLIMB NOT AVAILABLE IN AUSTRALIAN ADMINISTERED AIRSPACE</Message>
     <Message Response="WU">CRUISE [LEVEL]</Message>
     <Message Response="WU">CRUISE CLIMB TO [LEVEL]</Message>
     <Message Response="WU">CRUISE CLIMB ABOVE [LEVEL]</Message>
