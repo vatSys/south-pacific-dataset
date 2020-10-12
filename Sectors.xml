@@ -44,6 +44,7 @@
 </Sector>
  <Sector FullName="Tahiti Control" Frequency="134.700" Callsign="NTAA_CTR" Name="TAC">
     <Volumes>NTAA_CTL</Volumes>
+    <Volumes>NTTL</Volumes>
 </Sector>
   <Sector FullName="Tahiti Approach" Frequency="121.300" Callsign="NTAA_APP" Name="TAA">
     <Volumes>NTAA_TMA</Volumes>
