@@ -1,230 +1,230 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SystemRunways>
-   <Airport Name="NTAA">
-     <Runway Name="04" DataRunway="04">
-       <SID Name="VAIT4E"/>
-       <SID Name="IKEL4E"/>
-       <SID Name="BENK4E"/>
-       <SID Name="PAST4E"/>
-       <SID Name="ARIT4E"/>
-       <SID Name="MOSM4E"/>
-       <SID Name="VAIT3E"/>
-       <SID Name="IKEL3E"/>
-       <SID Name="BENK3E"/>
-       <SID Name="PAST3E"/>
-       <STAR Name="IDUT3V"/>
-       <STAR Name="AROB3V"/>
-       <STAR Name="ASOK3V"/>
-     </Runway>
-     <Runway Name="22" DataRunway="22">
-      <SID Name="VAIT4W"/>
-      <SID Name="IKEL4W"/>
-      <SID Name="ONID4W"/>
-      <SID Name="BEBI4W"/>
-      <SID Name="ARIT4W"/>
-      <SID Name="MOSM4W"/>
-       <SID Name="VAIT3W"/>
-      <SID Name="IKEL3W"/>
-      <SID Name="ONID3W"/>
-      <SID Name="BEBI3W"/>
-      <STAR Name="IDUT3M"/>
-      <STAR Name="AROB3M"/>
-      <STAR Name="ASOK3M"/>
-     </Runway>
-   </Airport>
-   <Airport Name="NTTB">
-     <Runway Name="11" DataRunway="11">
-       <SID Name="RU3A"/>
-       <SID Name="HHN3A"/>
-       <SID Name="MA3A"/>
-       <SID Name="ROBN1A"/>
-       <SID Name="SUDO1A"/>
-       <SID Name="UDIN1A"/>
-       <SID Name="RUTI1A"/>
-       <STAR Name="HHN1B"/>
-       <STAR Name="MA1B"/>
-       <STAR Name="RAN1B"/>
-       <STAR Name="RU1B"/>
-     </Runway>
-     <Runway Name="29" DataRunway="29">
-       <SID Name="RU3B"/>
-       <SID Name="HHN3B"/>
-       <SID Name="MA3B"/>
-       <SID Name="RELA1B"/>
-       <SID Name="SUDO1B"/>
-       <SID Name="UBKI1B"/>
-       <SID Name="RULO1B"/>
-       <STAR Name="HHN1B"/>
-       <STAR Name="MA1B"/>
-       <STAR Name="RAN1B"/>
-       <STAR Name="RU1B"/>
-     </Runway>
-   </Airport>
-   <Airport Name="NTTE">
-     <Runway Name="06" DataRunway="06">
-       <SID Name="TAVI1E"/>
-     </Runway>
-     <Runway Name="24" DataRunway="24">
-       <SID Name="TAVI1W"/>
-     </Runway>
-   </Airport>
-   <Airport Name="NTTH">
-     <Runway Name="07" DataRunway="07">
-       <SID Name="IDUT1E"/>
-       <SID Name="RULO1E"/>
-       <SID Name="BAMB1E"/>
-       <SID Name="BB3E"/>
-       <SID Name="ORAM3E"/>
-       <SID Name="TEAN3E"/>
-       <SID Name="RU3E"/>
-     </Runway> 
-     <Runway Name="25" DataRunway="25">
-       <SID Name="IDUT1F"/>
-       <SID Name="REVR1F"/>
-       <SID Name="BATO1F"/>
-       <SID Name="BB3F"/>
-       <SID Name="ORAM3F"/>
-       <SID Name="TEAN3F"/>
-       <SID Name="RU3F"/>
-     </Runway>
+    <Airport Name="NTAA">
+      <Runway Name="04" DataRunway="04">
+        <SID Name="VAIT4E"/>
+        <SID Name="IKEL4E"/>
+        <SID Name="BENK4E"/>
+        <SID Name="PAST4E"/>
+        <SID Name="ARIT4E"/>
+        <SID Name="MOSM4E"/>
+        <SID Name="VAIT3E"/>
+        <SID Name="IKEL3E"/>
+        <SID Name="BENK3E"/>
+        <SID Name="PAST3E"/>
+        <STAR Name="IDUT3V"/>
+        <STAR Name="AROB3V"/>
+        <STAR Name="ASOK3V"/>
+      </Runway>
+      <Runway Name="22" DataRunway="22">
+        <SID Name="VAIT4W"/>
+        <SID Name="IKEL4W"/>
+        <SID Name="ONID4W"/>
+        <SID Name="BEBI4W"/>
+        <SID Name="ARIT4W"/>
+        <SID Name="MOSM4W"/>
+        <SID Name="VAIT3W"/>
+        <SID Name="IKEL3W"/>
+        <SID Name="ONID3W"/>
+        <SID Name="BEBI3W"/>
+        <STAR Name="IDUT3M"/>
+        <STAR Name="AROB3M"/>
+        <STAR Name="ASOK3M"/>
+      </Runway>
+    </Airport>
+    <Airport Name="NTTB">
+      <Runway Name="11" DataRunway="11">
+        <SID Name="RU3A"/>
+        <SID Name="HHN3A"/>
+        <SID Name="MA3A"/>
+        <SID Name="ROBN1A"/>
+        <SID Name="SUDO1A"/>
+        <SID Name="UDIN1A"/>
+        <SID Name="RUTI1A"/>
+        <STAR Name="HHN1B"/>
+        <STAR Name="MA1B"/>
+        <STAR Name="RAN1B"/>
+        <STAR Name="RU1B"/>
+      </Runway>
+      <Runway Name="29" DataRunway="29">
+        <SID Name="RU3B"/>
+        <SID Name="HHN3B"/>
+        <SID Name="MA3B"/>
+        <SID Name="RELA1B"/>
+        <SID Name="SUDO1B"/>
+        <SID Name="UBKI1B"/>
+        <SID Name="RULO1B"/>
+        <STAR Name="HHN1B"/>
+        <STAR Name="MA1B"/>
+        <STAR Name="RAN1B"/>
+        <STAR Name="RU1B"/>
+      </Runway>
+    </Airport>
+    <Airport Name="NTTE">
+      <Runway Name="06" DataRunway="06">
+        <SID Name="TAVI1E"/>
+      </Runway>
+      <Runway Name="24" DataRunway="24">
+        <SID Name="TAVI1W"/>
+      </Runway>
+    </Airport>
+    <Airport Name="NTTH">
+      <Runway Name="07" DataRunway="07">
+        <SID Name="IDUT1E"/>
+        <SID Name="RULO1E"/>
+        <SID Name="BAMB1E"/>
+        <SID Name="BB3E"/>
+        <SID Name="ORAM3E"/>
+        <SID Name="TEAN3E"/>
+        <SID Name="RU3E"/>
+      </Runway>
+      <Runway Name="25" DataRunway="25">
+        <SID Name="IDUT1F"/>
+        <SID Name="REVR1F"/>
+        <SID Name="BATO1F"/>
+        <SID Name="BB3F"/>
+        <SID Name="ORAM3F"/>
+        <SID Name="TEAN3F"/>
+        <SID Name="RU3F"/>
+      </Runway>
     </Airport>
     <Airport Name="NTTM">
-     <Runway Name="12" DataRunway="12">
-       <SID Name="IKEL3S"/>
-       <SID Name="VAIT3S"/>
-       <SID Name="KARN4S"/>
-       <SID Name="SALU4S"/>
-     </Runway>
-     <Runway Name="30" DataRunway="30">
-      <SID Name="IKEL3N"/>
-       <SID Name="VAIT3N"/>
-       <SID Name="KARN4N"/>
-       <SID Name="SALU4N"/>
-     </Runway>
+      <Runway Name="12" DataRunway="12">
+        <SID Name="IKEL3S"/>
+        <SID Name="VAIT3S"/>
+        <SID Name="KARN4S"/>
+        <SID Name="SALU4S"/>
+      </Runway>
+      <Runway Name="30" DataRunway="30">
+        <SID Name="IKEL3N"/>
+        <SID Name="VAIT3N"/>
+        <SID Name="KARN4N"/>
+        <SID Name="SALU4N"/>
+      </Runway>
     </Airport>
     <Airport Name="NTTP">
-     <Runway Name="08" DataRunway="08">
-       <SID Name="BB3G"/>
-       <SID Name="RU3G"/>
-     </Runway>
-     <Runway Name="26" DataRunway="26">
-       <SID Name="BB3H"/>
-       <SID Name="RU3H"/>
-     </Runway>
+      <Runway Name="08" DataRunway="08">
+        <SID Name="BB3G"/>
+        <SID Name="RU3G"/>
+      </Runway>
+      <Runway Name="26" DataRunway="26">
+        <SID Name="BB3H"/>
+        <SID Name="RU3H"/>
+      </Runway>
     </Airport>
     <Airport Name="NTTR">
-     <Runway Name="07" DataRunway="07">
-       <SID Name="IDUT1C"/>
-       <SID Name="UXNO1C"/>
-       <SID Name="BAMB1C"/>
-       <SID Name="ONUR3C"/>
-       <SID Name="TEAN3C"/>
-       <SID Name="HHN3C"/>
-       <SID Name="BB3C"/>
-       <SID Name="MA3C"/>
-       <STAR Name="BB1R"/>
-       <STAR Name="HHN1R"/>
-       <STAR Name="MA1R"/>
-     </Runway> 
-     <Runway Name="25" DataRunway="25">
+      <Runway Name="07" DataRunway="07">
+        <SID Name="IDUT1C"/>
+        <SID Name="UXNO1C"/>
+        <SID Name="BAMB1C"/>
+        <SID Name="ONUR3C"/>
+        <SID Name="TEAN3C"/>
+        <SID Name="HHN3C"/>
+        <SID Name="BB3C"/>
+        <SID Name="MA3C"/>
+        <STAR Name="BB1R"/>
+        <STAR Name="HHN1R"/>
+        <STAR Name="MA1R"/>
+      </Runway>
+      <Runway Name="25" DataRunway="25">
         <SID Name="SALA1D"/>
-       <SID Name="BELB1D"/>
-       <SID Name="UBKI1D"/>
-       <SID Name="ONUR3D"/>
-       <SID Name="TEAN3D"/>
-       <SID Name="HHN3D"/>
-       <SID Name="BB3D"/>
-       <SID Name="MA3D"/>
-       <STAR Name="BB1R"/>
-       <STAR Name="HHN1R"/>
-       <STAR Name="MA1R"/>
-     </Runway>
+        <SID Name="BELB1D"/>
+        <SID Name="UBKI1D"/>
+        <SID Name="ONUR3D"/>
+        <SID Name="TEAN3D"/>
+        <SID Name="HHN3D"/>
+        <SID Name="BB3D"/>
+        <SID Name="MA3D"/>
+        <STAR Name="BB1R"/>
+        <STAR Name="HHN1R"/>
+        <STAR Name="MA1R"/>
+      </Runway>
     </Airport>
     <Airport Name="NCRG">
-     <Runway Name="08" DataRunway="08">
-       <SID Name="TOKE1P"/>
-       <SID Name="BELI1R"/>
-       <SID Name="BAVE1T"/>
-       <STAR Name="BAVE1A"/>
-       <STAR Name="ANIV1A"/>
-       <STAR Name="OSPI1A"/>
-     </Runway>
-     <Runway Name="26" DataRunway="26">
-       <SID Name="ASTO1Q"/>
-       <STAR Name="SAKA1B"/>
-       <STAR Name="KARS1B"/>
-       <STAR Name="NOLA1B"/>
-     </Runway>
+      <Runway Name="08" DataRunway="08">
+        <SID Name="TOKE1P"/>
+        <SID Name="BELI1R"/>
+        <SID Name="BAVE1T"/>
+        <STAR Name="BAVE1A"/>
+        <STAR Name="ANIV1A"/>
+        <STAR Name="OSPI1A"/>
+      </Runway>
+      <Runway Name="26" DataRunway="26">
+        <SID Name="ASTO1Q"/>
+        <STAR Name="SAKA1B"/>
+        <STAR Name="KARS1B"/>
+        <STAR Name="NOLA1B"/>
+      </Runway>
     </Airport>
     <Airport Name="NSFA">
-     <Runway Name="08" DataRunway="08">
-       <SID Name="LAVE1R"/>
-       <SID Name="IKEN1R"/>
-       <SID Name="ALAP1R"/>
-       <SID Name="UVUT1R"/>
-       <SID Name="ODUM1R"/>
-       <SID Name="PONA1R"/>
-       <SID Name="AROX1R"/>
-       <SID Name="GOTS1R"/>
-       <STAR Name="SAMV2B"/>
-       <STAR Name="LAVE2B"/>
-       <STAR Name="PONA2B"/>
-       <STAR Name="DORO2B"/>
-       <STAR Name="BIGE2B"/>
-       <STAR Name="ISDO2B"/>
-       <STAR Name="LANA2B"/>
-       <STAR Name="ODUM2B"/>
-       <STAR Name="UVUT2B"/>
-       <STAR Name="SAMV2D"/>
-       <STAR Name="LAVE2D"/>
-       <STAR Name="PONA2D"/>
-       <STAR Name="DORO2D"/>
-       <STAR Name="BIGE2D"/>
-       <STAR Name="ISDO2D"/>
-       <STAR Name="LANA2D"/>
-       <STAR Name="ODUM2D"/>
-       <STAR Name="UVUT2D"/>
-     </Runway>
-     <Runway Name="26" DataRunway="26">
-       <SID Name="LAVE1S"/>
-       <SID Name="IKEN1S"/>
-       <SID Name="ALAP1S"/>
-       <SID Name="UVUT1S"/>
-       <SID Name="ODUM1S"/>
-       <SID Name="PONA1S"/>
-       <SID Name="AROX1S"/>
-       <SID Name="GOTS1S"/>
-       <STAR Name="SAMV2C"/>
-       <STAR Name="PONA2C"/>
-       <STAR Name="DORO2C"/>
-       <STAR Name="BIGE2C"/>
-       <STAR Name="ISDO2C"/>
-       <STAR Name="LANA2C"/>
-       <STAR Name="ODUM2C"/>
-       <STAR Name="UVUT2C"/>
-     </Runway>
+      <Runway Name="08" DataRunway="08">
+        <SID Name="LAVE1R"/>
+        <SID Name="IKEN1R"/>
+        <SID Name="ALAP1R"/>
+        <SID Name="UVUT1R"/>
+        <SID Name="ODUM1R"/>
+        <SID Name="PONA1R"/>
+        <SID Name="AROX1R"/>
+        <SID Name="GOTS1R"/>
+        <STAR Name="SAMV2B"/>
+        <STAR Name="LAVE2B"/>
+        <STAR Name="PONA2B"/>
+        <STAR Name="DORO2B"/>
+        <STAR Name="BIGE2B"/>
+        <STAR Name="ISDO2B"/>
+        <STAR Name="LANA2B"/>
+        <STAR Name="ODUM2B"/>
+        <STAR Name="UVUT2B"/>
+        <STAR Name="SAMV2D"/>
+        <STAR Name="LAVE2D"/>
+        <STAR Name="PONA2D"/>
+        <STAR Name="DORO2D"/>
+        <STAR Name="BIGE2D"/>
+        <STAR Name="ISDO2D"/>
+        <STAR Name="LANA2D"/>
+        <STAR Name="ODUM2D"/>
+        <STAR Name="UVUT2D"/>
+      </Runway>
+      <Runway Name="26" DataRunway="26">
+        <SID Name="LAVE1S"/>
+        <SID Name="IKEN1S"/>
+        <SID Name="ALAP1S"/>
+        <SID Name="UVUT1S"/>
+        <SID Name="ODUM1S"/>
+        <SID Name="PONA1S"/>
+        <SID Name="AROX1S"/>
+        <SID Name="GOTS1S"/>
+        <STAR Name="SAMV2C"/>
+        <STAR Name="PONA2C"/>
+        <STAR Name="DORO2C"/>
+        <STAR Name="BIGE2C"/>
+        <STAR Name="ISDO2C"/>
+        <STAR Name="LANA2C"/>
+        <STAR Name="ODUM2C"/>
+        <STAR Name="UVUT2C"/>
+      </Runway>
     </Airport>
     <Airport Name="NFTF">
-     <Runway Name="11" DataRunway="11">
-      <SID Name="ADNE1P"/>
-      <STAR Name="AGEX1A"/>
-      <STAR Name="DALD1A"/>
-      <STAR Name="EKED1A"/>
-      <STAR Name="GOBI1A"/>
-      <STAR Name="HOBA1A"/>
-      <STAR Name="IBAK1A"/>
-      <STAR Name="KETU1A"/>
-     </Runway> 
-     <Runway Name="29" DataRunway="29">
-       <SID Name="ANGO1Q"/>
-       <STAR Name="AGEX1B"/>
-       <STAR Name="DALD1B"/>
-       <STAR Name="EKED1B"/>
-       <STAR Name="GOBI1B"/>
-       <STAR Name="HOBA1B"/>
-       <STAR Name="IBAK1B"/>
-       <STAR Name="KETU1B"/>
+      <Runway Name="11" DataRunway="11">
+        <SID Name="ADNE1P"/>
+        <STAR Name="AGEX1A"/>
+        <STAR Name="DALD1A"/>
+        <STAR Name="EKED1A"/>
+        <STAR Name="GOBI1A"/>
+        <STAR Name="HOBA1A"/>
+        <STAR Name="IBAK1A"/>
+        <STAR Name="KETU1A"/>
+      </Runway>
+      <Runway Name="29" DataRunway="29">
+        <SID Name="ANGO1Q"/>
+        <STAR Name="AGEX1B"/>
+        <STAR Name="DALD1B"/>
+        <STAR Name="EKED1B"/>
+        <STAR Name="GOBI1B"/>
+        <STAR Name="HOBA1B"/>
+        <STAR Name="IBAK1B"/>
+        <STAR Name="KETU1B"/>
       </Runway>
     </Airport>
   </SystemRunways>
@@ -250,7 +250,7 @@
      DADLU/
      ADKOS 
     </Airway>
-   <Airway Name="L508">
+    <Airway Name="L508">
      OMKIN/
      SUPRA/
      EKODA/
@@ -265,51 +265,51 @@
      PABGO/
      ISPAK/
      RG VOR
-   </Airway> 
-   <Airway Name="M625">
+   </Airway>
+    <Airway Name="M625">
      TOMAR/
      UVUPO/
      IDBAD/
      GOPLU/
      WN VOR
-   </Airway> 
-   <Airway Name="L513">
+   </Airway>
+    <Airway Name="L513">
      MIDAT/
      UNTET/
      VELMO/
      AA VOR
-   </Airway> 
-   <Airway Name="N750">
+   </Airway>
+    <Airway Name="N750">
      SULON/
      VANDA/
      CH VOR
-   </Airway>    
-     <Airway Name="P880">
+   </Airway>
+    <Airway Name="P880">
      NUMSA/
      LIBLA/
      QN VOR
-   </Airway> 
-   <Airway Name="M636">
+   </Airway>
+    <Airway Name="M636">
      SASRO/
      TANEN/
      WN VOR
-   </Airway>     
+   </Airway>
     <Airway Name="N759">
      SASRO/
      PEBLU/
      AA VOR
-   </Airway>    
-   <Airway Name="L521">
+   </Airway>
+    <Airway Name="L521">
      LEGAN/
      LUNBI/
      AA VOR
-   </Airway> 
-   <Airway Name="N774">
+   </Airway>
+    <Airway Name="N774">
      OLREL/
      MADEP/
      AA VOR
-   </Airway> 
-   <Airway Name="M639">
+   </Airway>
+    <Airway Name="M639">
      VEPAS/
      GULUT/
      WN VOR
@@ -326,12 +326,12 @@
      RAXER/
      SABUB/
      TAF VOR
-   </Airway> 
+   </Airway>
     <Airway Name="A464">
      RIGMI/
      UPLAR/
      AA VOR
-   </Airway> 
+   </Airway>
     <Airway Name="A346">
       TEKEP/
       IGLET/
@@ -346,17 +346,17 @@
       KILAN/
       DODUX/
       TUT VOR
-    </Airway>    
+    </Airway>
     <Airway Name="B451">
       DOLSI/
       GURDI
-    </Airway>  
+    </Airway>
     <Airway Name="G329">
       DOVOM/
       UBDAK/
       DALOS/
       NF VOR
-    </Airway>    
+    </Airway>
     <Airway Name="A579">
       UBLIN/
       VIRAR/
@@ -374,12 +374,12 @@
       CROBY/
       CHEEM/
       CARRP
-    </Airway>  
+    </Airway>
     <Airway Name="B333">
       RUMIX/
       LEBOL/
       SALAG
-    </Airway>    
+    </Airway>
     <Airway Name="B601">
       VESUN/
       LAMOK/
@@ -1023,7 +1023,7 @@
       TV NDB/
       NFTP
     </Airway>
-      <Airway Name="T3">
+    <Airway Name="T3">
       NFTP/
       NFTO
     </Airway>
@@ -1109,12 +1109,12 @@
       TATIA/
       VETEA/
       MURUA
-    </Airway> 
+    </Airway>
     <Airway Name="Q19">
       BENKO/
       VETEA/
       MURUA
-    </Airway> 
+    </Airway>
     <Airway Name="J29">
       ASOKI/
       VETEA/
@@ -1164,13 +1164,13 @@
       BB NDB/
       MA NDB
     </Airway>
-      <Airway Name="J22">
+    <Airway Name="J22">
       MA NDB/
       MEREV/
       RU NDB/
       TEANO
     </Airway>
-      <Airway Name="J23">
+    <Airway Name="J23">
       BB NDB/
       RU NDB/
       HHN VOR/
@@ -6299,20 +6299,20 @@
     <SID Name="PAST4E" Airport="NTAA" Runways="04">
       <Route Runway="04">MOANA AA501 PASTI</Route>
     </SID>
-   <SID Name="VAIT3E" Airport="NTAA" Runways="04">
-     <Route Runway="04">VAITE</Route>
+    <SID Name="VAIT3E" Airport="NTAA" Runways="04">
+      <Route Runway="04">VAITE</Route>
     </SID>
     <SID Name="IKEL3E" Airport="NTAA" Runways="04">
       <Route Runway="04">IKELO</Route>
     </SID>
     <SID Name="BENK3E" Airport="NTAA" Runways="04">
-     <Route Runway="04">MOANA BENKO</Route>
+      <Route Runway="04">MOANA BENKO</Route>
     </SID>
     <SID Name="PAST3E" Airport="NTAA" Runways="04">
       <Route Runway="04">MOANA PASTI</Route>
     </SID>
     <SID Name="ARIT4E" Airport="NTAA" Runways="04">
-     <Route Runway="04">ARITI</Route>
+      <Route Runway="04">ARITI</Route>
     </SID>
     <SID Name="MOSM4E" Airport="NTAA" Runways="04">
       <Route Runway="04">BOBIX MOSMA</Route>
@@ -6433,7 +6433,7 @@
       <Route Runway="07">TH501 IDUTA</Route>
     </SID>
     <SID Name="RULO1E" Airport="NTTH" Runways="07">
-     <Route Runway="07">TH503 RULOM</Route>
+      <Route Runway="07">TH503 RULOM</Route>
     </SID>
     <SID Name="BAMB1E" Airport="NTTH" Runways="07">
       <Route Runway="07">RUPAL BAMBI</Route>
@@ -6445,7 +6445,7 @@
       <Route Runway="07">ORAMA</Route>
     </SID>
     <SID Name="TEAN3E" Airport="NTTH" Runways="07">
-     <Route Runway="07">ORAMA TEANO</Route>
+      <Route Runway="07">ORAMA TEANO</Route>
     </SID>
     <SID Name="RU3E" Airport="NTTH" Runways="07">
       <Route Runway="07">RU</Route>
@@ -6472,8 +6472,8 @@
       <Route Runway="25">RU</Route>
     </SID>
     <SID Name="IKEL3S" Airport="NTTM" Runways="12">
-        <Route Runway="12">IKELO</Route>
-      </SID>
+      <Route Runway="12">IKELO</Route>
+    </SID>
     <SID Name="VAIT3S" Airport="NTTM" Runways="12">
       <Route Runway="12">VAITE</Route>
     </SID>
@@ -6481,14 +6481,14 @@
       <Route Runway="12">ATANU TM502 KARNO</Route>
     </SID>
     <SID Name="SALU4S" Airport="NTTM" Runways="12">
-     <Route Runway="12">BOBIX TORAL SALUT</Route>
+      <Route Runway="12">BOBIX TORAL SALUT</Route>
     </SID>
     <SID Name="IKEL3N" Airport="NTTM" Runways="30">
       <Route Runway="30">IKELO</Route>
     </SID>
     <SID Name="VAIT3N" Airport="NTTM" Runways="30">
       <Route Runway="30">VAITE</Route>
-   </SID>
+    </SID>
     <SID Name="KARN4N" Airport="NTTM" Runways="30">
       <Route Runway="30">TM501 ATANU TM502 KARNO</Route>
     </SID>
@@ -6512,7 +6512,7 @@
     </SID>
     <SID Name="UXNO1C" Airport="NTTR" Runways="07">
       <Route Runway="07">TR501 UXINO</Route>
-    </SID> 
+    </SID>
     <SID Name="BAMB1C" Airport="NTTR" Runways="07">
       <Route Runway="07">TR501 RUPAL BAMBI</Route>
     </SID>
@@ -6655,7 +6655,7 @@
       <Route Runway="08">FA388 FA386 UVUTI</Route>
     </SID>
     <SID Name="ODUM1R" Airport="NSFA" Runways="08">
-     <Route Runway="08">FA388 FA386 ODUMA</Route>
+      <Route Runway="08">FA388 FA386 ODUMA</Route>
     </SID>
     <SID Name="PONA1R" Airport="NSFA" Runways="08">
       <Route Runway="08">FA388 FALFA PONAT</Route>
@@ -6670,8 +6670,8 @@
       <Route Runway="08">SAMVU SHMPA</Route>
     </STAR>
     <STAR Name="LAVE2B" Airport="NSFA" Runways="08">
-  <Route Runway="08">LAVEK SHMPA</Route>
-</STAR>
+      <Route Runway="08">LAVEK SHMPA</Route>
+    </STAR>
     <STAR Name="PONA2B" Airport="NSFA" Runways="08">
       <Route Runway="08">PONAT TAFUA</Route>
     </STAR>
@@ -6833,326 +6833,326 @@
   </SIDSTARs>
   <Airports>
     <Airport ICAO="NZWD" Position="-775203.000+1670324.000" Elevation="68"/>
-   <Airport ICAO="NCAI" Position="-184951.970-1594550.490" Elevation="20">
-     <Runway Name="14" Position="-184946.710-1594553.180"/>
-     <Runway Name="32" Position="-185040.050-1594525.920"/>
+    <Airport ICAO="NCAI" Position="-184951.970-1594550.490" Elevation="20">
+      <Runway Name="14" Position="-184946.710-1594553.180"/>
+      <Runway Name="32" Position="-185040.050-1594525.920"/>
     </Airport>
     <Airport ICAO="NCAT" Position="-195759.540-1580730.770" Elevation="46">
-     <Runway Name="09" Position="-195800.310-1580732.140"/>
-     <Runway Name="27" Position="-195807.820-1580649.730"/>
+      <Runway Name="09" Position="-195800.310-1580732.140"/>
+      <Runway Name="27" Position="-195807.820-1580649.730"/>
     </Airport>
-     <Airport ICAO="NCMG" Position="-215337.480-1575430.630" Elevation="48">
-       <Runway Name="13" Position="-215331.740-1575433.660"/>
-       <Runway Name="31" Position="-215358.600-1575413.370"/>
+    <Airport ICAO="NCMG" Position="-215337.480-1575430.630" Elevation="48">
+      <Runway Name="13" Position="-215331.740-1575433.660"/>
+      <Runway Name="31" Position="-215358.600-1575413.370"/>
     </Airport>
     <Airport ICAO="NCMH" Position="-102246.020-1610002.660" Elevation="11">
-     <Runway Name="14" Position="-102232.400-1610008.99"/>
-     <Runway Name="32" Position="-102311.400-1605945.650"/>
+      <Runway Name="14" Position="-102232.400-1610008.99"/>
+      <Runway Name="32" Position="-102311.400-1605945.650"/>
     </Airport>
     <Airport ICAO="NCMK" Position="-200814.350-1572037.870" Elevation="38">
-     <Runway Name="10" Position="-200801.220-1572106.830"/>
-     <Runway Name="28" Position="-200821.460-1572016.360"/>
+      <Runway Name="10" Position="-200801.220-1572106.830"/>
+      <Runway Name="28" Position="-200821.460-1572016.360"/>
     </Airport>
     <Airport ICAO="NCMR" Position="-195027.89-1574237.420" Elevation="33">
-     <Runway Name="09" Position="-195027.530-1574231.380"/>
-     <Runway Name="27" Position="-195039.220-1574152.020"/>
+      <Runway Name="09" Position="-195027.530-1574231.380"/>
+      <Runway Name="27" Position="-195039.220-1574152.020"/>
     </Airport>
     <Airport ICAO="NCPY" Position="-090021.780-1580210.810" Elevation="11">
-     <Runway Name="14" Position="-090023.010-1580211.420"/>
-     <Runway Name="32" Position="-090125.030-1580138.300"/>
+      <Runway Name="14" Position="-090023.010-1580211.420"/>
+      <Runway Name="32" Position="-090125.030-1580138.300"/>
     </Airport>
     <Airport ICAO="NCPK" Position="-105447.840-1654959.020" Elevation="18">
       <Runway Name="07" Position="-105454.530-1655044.490"/>
       <Runway Name="27" Position="-105449.620-1654959.150"/>
     </Airport>
     <Airport ICAO="NCRG" Position="-211204.520-1594756.560" Elevation="19">
-     <Runway Name="08" Position="-211209.300-1594856.550"/>
-     <Runway Name="26" Position="-211209.310-1594743.610"/>
+      <Runway Name="08" Position="-211209.300-1594856.550"/>
+      <Runway Name="26" Position="-211209.310-1594743.610"/>
     </Airport>
     <Airport ICAO="NIUE" Position="-190441.000-1695336.000" Elevation="211">
-     <Runway Name="10" Position="-190431.410-1695610.250"/>
-     <Runway Name="28" Position="-190457.170-1695455.090"/>
+      <Runway Name="10" Position="-190431.410-1695610.250"/>
+      <Runway Name="28" Position="-190457.170-1695455.090"/>
     </Airport>
     <Airport ICAO="NSAU" Position="-133020.755-1723740.670" Elevation="28">
       <Runway Name="08" Position="-133019.150-1723751.310"/>
       <Runway Name="26" Position="-133017.870-1723729.870"/>
     </Airport>
     <Airport ICAO="NSMA" Position="-134434.130-1721531.960" Elevation="98">
-     <Runway Name="08" Position="-134432.140-1721540.200"/>
-     <Runway Name="26" Position="-134432.350-1721516.870"/>
+      <Runway Name="08" Position="-134432.140-1721540.200"/>
+      <Runway Name="26" Position="-134432.350-1721516.870"/>
     </Airport>
     <Airport ICAO="NSFA" Position="-134954.620-1715952.850" Elevation="58">
-     <Runway Name="08" Position="-134948.770-1720120.200"/>
-     <Runway Name="26" Position="-134947.59-1715940.130"/>
+      <Runway Name="08" Position="-134948.770-1720120.200"/>
+      <Runway Name="26" Position="-134947.59-1715940.130"/>
     </Airport>
     <Airport ICAO="NSFQ" Position="-141258.000-1692524.800" Elevation="110">
       <Runway Name="12" Position="-141246.970-1692536.710"/>
       <Runway Name="30" Position="-141309.110-1692513.290"/>
     </Airport>
     <Airport ICAO="NSAS" Position="-141103.600-1694012.400" Elevation="12">
-     <Runway Name="08" Position="-141102.250-1694022.420"/>
-     <Runway Name="26" Position="-141104.820-1694002.600"/>
+      <Runway Name="08" Position="-141102.250-1694022.420"/>
+      <Runway Name="26" Position="-141104.820-1694002.600"/>
     </Airport>
     <Airport ICAO="NSTU" Position="-141953.984-1704241.411" Elevation="31">
-     <Runway Name="05" Position="-142025.831-1704330.845"/>
-     <Runway Name="23" Position="-141936.476-1704202612"/>
-     <Runway Name="08" Position="-141935.126-1704246.756"/>
-     <Runway Name="26" Position="-141935.111-1704208.096"/>
+      <Runway Name="05" Position="-142025.831-1704330.845"/>
+      <Runway Name="23" Position="-141936.476-1704202612"/>
+      <Runway Name="08" Position="-141935.126-1704246.756"/>
+      <Runway Name="26" Position="-141935.111-1704208.096"/>
     </Airport>
     <Airport ICAO="NTHE" Position="-142539.000-1461519.000" Elevation="19">
-     <Runway Name="06" Position="-142548.220-1461543.650"/>
-     <Runway Name="24" Position="-142533.590-1461505.060"/>
+      <Runway Name="06" Position="-142548.220-1461543.650"/>
+      <Runway Name="24" Position="-142533.590-1461505.060"/>
     </Airport>
     <Airport ICAO="NTGA" Position="-172118.000-1453030.000" Elevation="21">
-     <Runway Name="14" Position="-172048.240-1453048.610"/>
-     <Runway Name="32" Position="-172130.460-1453023.020"/>
-   </Airport>
-   <Airport ICAO="NTGD" Position="-153425.000-1462454.000" Elevation="14">
-     <Runway Name="12" Position="-153421.790-1462457.720"/>
-     <Runway Name="30" Position="-153441.140-1462436.430"/>
+      <Runway Name="14" Position="-172048.240-1453048.610"/>
+      <Runway Name="32" Position="-172130.460-1453023.020"/>
+    </Airport>
+    <Airport ICAO="NTGD" Position="-153425.000-1462454.000" Elevation="14">
+      <Runway Name="12" Position="-153421.790-1462457.720"/>
+      <Runway Name="30" Position="-153441.140-1462436.430"/>
     </Airport>
     <Airport ICAO="NTKK" Position="-152906.000-1452812.000" Elevation="10">
-     <Runway Name="08" Position="-152905.990-1452814.730"/>
-     <Runway Name="26" Position="-152910.180-1452732.490"/>
+      <Runway Name="08" Position="-152905.990-1452814.730"/>
+      <Runway Name="26" Position="-152910.180-1452732.490"/>
     </Airport>
     <Airport ICAO="NTGR" Position="-153800.000-1453000.000" Elevation="7">
-     <Runway Name="07" Position="-153724.760-1453000.650"/>
-     <Runway Name="25" Position="-153723.530-1452954.340"/>
+      <Runway Name="07" Position="-153724.760-1453000.650"/>
+      <Runway Name="25" Position="-153723.530-1452954.340"/>
     </Airport>
     <Airport ICAO="NTGU" Position="-151447.000-1463713.000" Elevation="16">
-     <Runway Name="10" Position="-151444.110-1463719.36"/>
-     <Runway Name="28" Position="-151503.000-1463640.370"/>
+      <Runway Name="10" Position="-151444.110-1463719.36"/>
+      <Runway Name="28" Position="-151503.000-1463640.370"/>
     </Airport>
     <Airport ICAO="NTBB" Position="-162637.000-1514509.000" Elevation="11">
-     <Runway Name="11" Position="-162625.760-1514525.530"/>
-     <Runway Name="29" Position="-162653.490-1514443.710"/>
+      <Runway Name="11" Position="-162625.760-1514525.530"/>
+      <Runway Name="29" Position="-162653.490-1514443.710"/>
     </Airport>
     <Airport ICAO="NTKF" Position="-164112.000-1451958.000" Elevation="12">
-     <Runway Name="08" Position="-164111.730-1452005.350"/>
-     <Runway Name="26" Position-="164111.310-1451925.540"/>
+      <Runway Name="08" Position="-164111.730-1452005.350"/>
+      <Runway Name="26" Position-="164111.310-1451925.540"/>
     </Airport>
     <Airport ICAO="NTKH" Position="-155931.000-1400953.000" Elevation="10">
-     <Runway Name="10" Position="-155926.280-1401007.510"/>
-     <Runway Name="28" Position="-155936.270-1400939.060"/>
+      <Runway Name="10" Position="-155926.280-1401007.510"/>
+      <Runway Name="28" Position="-155936.270-1400939.060"/>
     </Airport>
     <Airport ICAO="NTGF" Position="-160309.000-1453911.000" Elevation="16">
-     <Runway Name="05" Position="-160326.440-1453949.870"/>
-     <Runway Name="23" Position="-160306890-1453907.280"/>
+      <Runway Name="05" Position="-160326.440-1453949.870"/>
+      <Runway Name="23" Position="-160306890-1453907.280"/>
     </Airport>
     <Airport ICAO="NTGB" Position="-154912.000-1405309.000" Elevation="13">
-     <Runway Name="07" Position="-154914.170-1405341.030"/>
-     <Runway Name="25" Position="-154910.370-1405254.140"/>
+      <Runway Name="07" Position="-154914.170-1405341.030"/>
+      <Runway Name="25" Position="-154910.370-1405254.140"/>
     </Airport>
     <Airport ICAO="NTTO" Position="-180351.000-1405726.000" Elevation="15">
-     <Runway Name="12" Position="-180351.270-1405725.550"/>
-     <Runway Name="30" Position="-180507.860-1405604.840"/>
+      <Runway Name="12" Position="-180351.270-1405725.550"/>
+      <Runway Name="30" Position="-180507.860-1405604.840"/>
     </Airport>
     <Airport ICAO="NTGH" Position="-173252.000-1423647.000" Elevation="12">
-     <Runway Name="10" Position="-173245.470-1423702.730"/>
-     <Runway Name="29" Position="-173300.920-1423625.370"/>
+      <Runway Name="10" Position="-173245.470-1423702.730"/>
+      <Runway Name="29" Position="-173300.920-1423625.370"/>
     </Airport>
     <Airport ICAO="NTMN" Position="-094605.000-1390040.000" Elevation="1521">
-     <Runway Name="02" Position="-094619.470-1300047.510"/>
-     <Runway Name="20" Position="-094534.090-1390021.760"/>
+      <Runway Name="02" Position="-094619.470-1300047.510"/>
+      <Runway Name="20" Position="-094534.090-1390021.760"/>
     </Airport>
     <Airport ICAO="NTTH" Position="-164118.000-1510143.000" Elevation="14">
-     <Runway Name="07" Position="-164117.920-1510143.210"/>
-     <Runway Name="25" Position="-164109.030-1510053.040"/>
+      <Runway Name="07" Position="-164117.920-1510143.210"/>
+      <Runway Name="25" Position="-164109.030-1510053.040"/>
     </Airport>
     <Airport ICAO="NTKT" Position="-162022.000-1442411.000" Elevation="12">
-     <Runway Name="08" Position="-162023.530-1442447.290"/>
-     <Runway Name="26" Position="-162021.990-1442407.550"/>
+      <Runway Name="08" Position="-162023.530-1442447.290"/>
+      <Runway Name="26" Position="-162021.990-1442407.550"/>
     </Airport>
     <Airport ICAO=" NTKA" Position="-154651.000-1450726.000" Elevation="18">
-     <Runway Name="08" Position="-154649.000-1450801.350"/>
-     <Runway Name="26" Position="-154651.440-1450721.110"/>
+      <Runway Name="08" Position="-154649.000-1450801.350"/>
+      <Runway Name="26" Position="-154651.440-1450721.110"/>
     </Airport>
     <Airport ICAO="NTGK" Position="-154001.000-1465313.000" Elevation="16">
-     <Runway Name="02" Position="-154002.130-1465313.150"/>
-     <Runway Name="20" Position="-153931.210-1465255.850"/>
+      <Runway Name="02" Position="-154002.130-1465313.150"/>
+      <Runway Name="20" Position="-153931.210-1465255.850"/>
     </Airport>
     <Airport ICAO="NTGM" Position="-163512.000-1433914.000" Elevation="11">
-     <Runway Name="11" Position="-163448.290-1433951.250"/>
-     <Runway Name="29" Position="-163515.130-1433908.980"/>
+      <Runway Name="11" Position="-163448.290-1433951.250"/>
+      <Runway Name="29" Position="-163515.130-1433908.980"/>
     </Airport>
     <Airport ICAO="NTGI" Position="-142556.000-1460349.000" Elevation="22">
-     <Runway Name="04" Position="-142618.920-1460424.120"/>
-     <Runway Name="22" Position="-142555.330-1460347.890"/>
+      <Runway Name="04" Position="-142618.920-1460424.120"/>
+      <Runway Name="22" Position="-142555.330-1460347.890"/>
     </Airport>
     <Airport ICAO="NTGV" Position="-145210.000-1484246.000" Elevation="18">
-     <Runway Name="01" Position="-145239.150-1484255.750"/>
-     <Runway Name="19" Position="-145201.910-1484243.680"/>
+      <Runway Name="01" Position="-145239.150-1484255.750"/>
+      <Runway Name="19" Position="-145201.910-1484243.680"/>
     </Airport>
     <Airport ICAO="NTTP" Position="-162535.000-1521433.000" Elevation="22">
-     <Runway Name="08" Position="-162535.770-1521453.330"/>
-     <Runway Name="26" Position="-162535.010-1521421.140"/>
+      <Runway Name="08" Position="-162535.770-1521453.330"/>
+      <Runway Name="26" Position="-162535.010-1521421.140"/>
     </Airport>
     <Airport ICAO="NTTM" Position="-172922.000-1494544.000" Elevation="16">
-     <Runway Name="12" Position="-172908.960-1494556.900"/>
-     <Runway Name="30" Position="-172937.380-1494527.590"/>
+      <Runway Name="12" Position="-172908.960-1494556.900"/>
+      <Runway Name="30" Position="-172937.380-1494527.590"/>
     </Airport>
     <Airport ICAO="NTGN" Position="-141037.000-1411601.000" Elevation="13">
-     <Runway Name="10" Position="-141029.670-1411615.690"/>
-     <Runway Name="28" Position="-141047.670-1411539.990"/>
+      <Runway Name="10" Position="-141029.670-1411615.690"/>
+      <Runway Name="28" Position="-141047.670-1411539.990"/>
     </Airport>
     <Airport ICAO="NTKN" Position="-160715.000-1462225.000" Elevation="21">
-     <Runway Name="06" Position="-160714.870-1462225.260"/>
-     <Runway Name="24" Position="160702.770-1462147.560"/>
+      <Runway Name="06" Position="-160714.870-1462225.260"/>
+      <Runway Name="24" Position="160702.770-1462147.560"/>
     </Airport>
     <Airport ICAO="NTKU" Position="-204201.000-1430244.000" Elevation="15">
-     <Runway Name="14" Position="-204143.420-1430253.010"/>
-     <Runway Name="32" Position="-204218.860-1430235.650"/>
+      <Runway Name="14" Position="-204143.420-1430253.010"/>
+      <Runway Name="32" Position="-204218.860-1430235.650"/>
     </Airport>
     <Airport ICAO="NTMD" Position="-084736.000-1401323.000" Elevation="230">
-     <Runway Name="06" Position="-084754.560-1401409.660"/>
-     <Runway Name="24" Position="-084734.050-1401319.070"/>
+      <Runway Name="06" Position="-084754.560-1401409.660"/>
+      <Runway Name="24" Position="-084734.050-1401319.070"/>
     </Airport>
     <Airport ICAO="NTGW" Position="-191706.000-1384618.000" Elevation="17">
-     <Runway Name="07" Position="-191706.530-1384624.300"/>
-     <Runway Name="25" Position="-191702.970-1384549.240"/>
+      <Runway Name="07" Position="-191706.530-1384624.300"/>
+      <Runway Name="25" Position="-191702.970-1384549.240"/>
     </Airport>
     <Airport ICAO="NTGP" Position="-144836.000-1384840.000" Elevation="13">
-     <Runway Name="10" Position="-144828.060-1384900.430"/>
-     <Runway Name="28" Position="-144839.670-1384831.600"/>
+      <Runway Name="10" Position="-144828.060-1384900.430"/>
+      <Runway Name="28" Position="-144839.670-1384831.600"/>
     </Airport>
     <Airport ICAO="NTGQ" Position="-181743.000-137.0100.000" Elevation="13">
-     <Runway Name="12" Position="-181731.570-1370112.690"/>
-     <Runway Name="30" Position="-181758.290-1370043.850"/>
+      <Runway Name="12" Position="-181731.570-1370112.690"/>
+      <Runway Name="30" Position="-181758.290-1370043.850"/>
     </Airport>
     <Airport ICAO="NTTR" Position="-164323.000-1512801.000" Elevation="6">
-     <Runway Name="07" Position="-164324.980-1512820.540"/>
-     <Runway Name="25" Position="-164320.110-1512733.590"/>
+      <Runway Name="07" Position="-164324.980-1512820.540"/>
+      <Runway Name="25" Position="-164320.110-1512733.590"/>
     </Airport>
     <Airport ICAO="NTAV" Position="-235311.000-1473955.000" Elevation="15">
-     <Runway Name="06" Position="-235313.840-1474006.380"/>
-     <Runway Name="24" Position="-235300.280-1473919.130"/>
+      <Runway Name="06" Position="-235313.840-1474006.380"/>
+      <Runway Name="24" Position="-235300.280-1473919.130"/>
     </Airport>
     <Airport ICAO="NTTG" Position="-145719.000-1473928.000" Elevation="10">
-     <Runway Name="09" Position="-145705.000-1474012.850"/>
-     <Runway Name="27" Position="-145719.980-1473923.540"/>
+      <Runway Name="09" Position="-145705.000-1474012.850"/>
+      <Runway Name="27" Position="-145719.980-1473923.540"/>
     </Airport>
     <Airport ICAO="NTKO" Position="-160242.000-1422838.000" Elevation="12">
-     <Runway Name="16" Position="-160242.120-1422837.670"/>
-     <Runway Name="34" Position="-160320.330-1422833.820"/>
+      <Runway Name="16" Position="-160242.120-1422837.670"/>
+      <Runway Name="34" Position="-160320.330-1422833.820"/>
     </Airport>
     <Airport ICAO="NTGE" Position="-182748.000-1362635.000" Elevation="12">
-     <Runway Name="11" Position="-182748.250-1362635.500"/>
-     <Runway Name="29" Position="-182810.710-1362602.890"/>
+      <Runway Name="11" Position="-182748.250-1362635.500"/>
+      <Runway Name="29" Position="-182810.710-1362602.890"/>
     </Airport>
     <Airport ICAO="NTAM" Position="-223814.000-1524819.000" Elevation="50">
-     <Runway Name="07" Position="-223814.670-1524846.070"/>
-     <Runway Name="25" Position="-223813.540-1524757.050"/>
+      <Runway Name="07" Position="-223814.670-1524846.070"/>
+      <Runway Name="25" Position="-223813.540-1524757.050"/>
     </Airport>
     <Airport ICAO="NTAR" Position="-222554.000-1512202.000" Elevation="27">
-     <Runway Name="09" Position="-222553.800-1512201.950"/>
-     <Runway Name="27" Position="-222608.000-1512113.700"/>
+      <Runway Name="09" Position="-222553.800-1512201.950"/>
+      <Runway Name="27" Position="-222608.000-1512113.700"/>
     </Airport>
     <Airport ICAO="NTAA" Position="-173324.000-1493641.000" Elevation="5">
-     <Runway Name="02" Position="-173345.710-1493712.760"/>
-     <Runway Name="22" Position="-173240.720-1493538.600"/>
+      <Runway Name="02" Position="-173345.710-1493712.760"/>
+      <Runway Name="22" Position="-173240.720-1493538.600"/>
     </Airport>
     <Airport ICAO="NTGT" Position="-144235.000-1451452.000" Elevation="17">
-     <Runway Name="07" Position="-144236.800-1451500.220"/>
-     <Runway Name="25" Position="-144231.740-1451429.840"/>
+      <Runway Name="07" Position="-144236.800-1451500.220"/>
+      <Runway Name="25" Position="-144231.740-1451429.840"/>
     </Airport>
     <Airport ICAO="NTKR" Position="-142722.000-1450135.000" Elevation="19">
-     <Runway Name="07" Position="-142722.330-1450145.840"/>
-     <Runway Name="25" Position="-142719.990-1450110.790"/>
+      <Runway Name="07" Position="-142722.330-1450145.840"/>
+      <Runway Name="25" Position="-142719.990-1450110.790"/>
     </Airport>
     <Airport ICAO="NTKM" Position="-155120.000-1421606.000" Elevation="13">
-     <Runway Name="13" Position="-155115.240-1421609.580"/>
-     <Runway Name="31" Position="-155137.070-1421549.360"/>
+      <Runway Name="13" Position="-155115.240-1421609.580"/>
+      <Runway Name="31" Position="-155137.070-1421549.360"/>
     </Airport>
     <Airport ICAO="NTGO" Position="-172119.000-1382642.000" Elevation="17">
-     <Runway Name="08" Position="-172119.000-1382710.990"/>
-     <Runway Name="26" Position="-172118.920-1382630.670"/>
+      <Runway Name="08" Position="-172119.000-1382710.990"/>
+      <Runway Name="26" Position="-172118.920-1382630.670"/>
     </Airport>
     <Airport ICAO="NTTE" Position="-170053.000-1493520.000" Elevation="10">
-     <Runway Name="06" Position="-170056.980-1493533.470"/>
-     <Runway Name="24" Position="-170050.440-1493508.360"/>
+      <Runway Name="06" Position="-170056.980-1493533.470"/>
+      <Runway Name="24" Position="-170050.440-1493508.360"/>
     </Airport>
     <Airport ICAO="NTGC" Position="-150713.000-1481401.000" Elevation="13">
-     <Runway Name="06" Position="-150716.360-1481413.160"/>
-     <Runway Name="24" Position="-150705.700-1481330.970"/>
+      <Runway Name="06" Position="-150716.360-1481413.160"/>
+      <Runway Name="24" Position="-150705.700-1481330.970"/>
     </Airport>
     <Airport ICAO="NTGJ" Position="-230458.000-1345314.000" Elevation="15">
-     <Runway Name="12" Position="-230429.320-1345343.510"/>
-     <Runway Name="30" Position="-230510.400-1345301.460"/>
+      <Runway Name="12" Position="-230429.320-1345343.510"/>
+      <Runway Name="30" Position="-230510.400-1345301.460"/>
     </Airport>
     <Airport ICAO="NTAT" Position="-232211.000-1493147.000" Elevation="17">
-     <Runway Name="03" Position="-232211.430-1493146.980"/>
-     <Runway Name="21" Position="-232138.930-1493107.590"/>
+      <Runway Name="03" Position="-232211.430-1493146.980"/>
+      <Runway Name="21" Position="-232138.930-1493107.590"/>
     </Airport>
     <Airport ICAO="NTGY" Position="-204648.000-1383401.000" Elevation="">
-     <Runway Name="18" Position="-204643.570-1383400.090"/>
-     <Runway Name="36" Position="-204724.930-1383409.390"/>
+      <Runway Name="18" Position="-204643.570-1383400.090"/>
+      <Runway Name="36" Position="-204724.930-1383409.390"/>
     </Airport>
     <Airport ICAO="NTMU" Position="-085610.000-1393318.000" Elevation="173">
-     <Runway Name="09" Position="-085608.500-1393326.500"/>
-     <Runway Name="27" Position="-085612.470-1393302.100"/>
+      <Runway Name="09" Position="-085608.500-1393326.500"/>
+      <Runway Name="27" Position="-085612.470-1393302.100"/>
     </Airport>
     <Airport ICAO="NTMP" Position="-092102.000-1400441.000" Elevation="123">
-     <Runway Name="14" Position="-092036.950-1400453.680"/>
-     <Runway Name="32" Position="-092101.550-1400441.210"/>
+      <Runway Name="14" Position="-092036.950-1400453.680"/>
+      <Runway Name="32" Position="-092101.550-1400441.210"/>
     </Airport>
     <Airport ICAO="NTUV" Position="-184647.000-1385111.000" Elevation="11">
-     <Runway Name="06" Position="-184655.750-1385135.580"/>
-     <Runway Name="24" Position="-184645.390-1385105.020"/>
+      <Runway Name="06" Position="-184655.750-1385135.580"/>
+      <Runway Name="24" Position="-184645.390-1385105.020"/>
     </Airport>
     <Airport ICAO="NTUU" Position="-161424.000-1515012.000" Elevation="34">
-     <Runway Name="11" Position="-161426.700-1515010.610"/>
-     <Runway Name="29" Position="-161440.510-1514948.640"/>
+      <Runway Name="11" Position="-161426.700-1515010.610"/>
+      <Runway Name="29" Position="-161440.510-1514948.640"/>
     </Airport>
     <Airport ICAO="NTHF" Position="-173301.000-1494724.000" Elevation="5"/>
     <Airport ICAO="NTHP" Position="-173141.000-1493247.000" Elevation="96"/>
     <Airport ICAO="NTHV" Position="-174358.000-1491816.000" Elevation="101"/>
     <Airport ICAO="NLWF" Position="-141842.000-1780359.000" Elevation="16">
-     <Runway Name="07" Position="-141844.080-1780417.340"/>
-     <Runway Name="25" Position="-141839.440-1780340.950"/>
+      <Runway Name="07" Position="-141844.080-1780417.340"/>
+      <Runway Name="25" Position="-141839.440-1780340.950"/>
     </Airport>
     <Airport ICAO="NLWW" Position="-131418.000-1761157.000" Elevation="79">
-     <Runway Name="08" Position="-131417.990-1761232.150"/>
-     <Runway Name="26" Position="-131417.900-1761122.400"/>
+      <Runway Name="08" Position="-131417.990-1761232.150"/>
+      <Runway Name="26" Position="-131417.900-1761122.400"/>
     </Airport>
-     <Airport ICAO="NFTE" Position="-212239.880-1745726.520" Elevation="357">
-     <Runway Name="16" Position="-212226.230-1745729.920"/>
-     <Runway Name="34" Position="-212249.800-1745725.800"/>
+    <Airport ICAO="NFTE" Position="-212239.880-1745726.520" Elevation="357">
+      <Runway Name="16" Position="-212226.230-1745729.920"/>
+      <Runway Name="34" Position="-212249.800-1745725.800"/>
     </Airport>
-     <Airport ICAO="NFTF" Position="-211430.700-1750825.590" Elevation="129">
-     <Runway Name="11" Position="-211404.050-1750939.250"/>
-     <Runway Name="29" Position="-211449.950-1750820.610"/>
-     <Runway Name="17" Position="-211423.470-1750819.740"/>
-     <Runway Name="35" Position="-211453.210-1750820.730"/>
+    <Airport ICAO="NFTF" Position="-211430.700-1750825.590" Elevation="129">
+      <Runway Name="11" Position="-211404.050-1750939.250"/>
+      <Runway Name="29" Position="-211449.950-1750820.610"/>
+      <Runway Name="17" Position="-211423.470-1750819.740"/>
+      <Runway Name="35" Position="-211453.210-1750820.730"/>
     </Airport>
-     <Airport ICAO="NFTL" Position="-194637.410-1742025.350" Elevation="29">
-     <Runway Name="11" Position="-194627.230-1742046.340"/>
-     <Runway Name="29" Position="-194646.950-1742010.760"/>
+    <Airport ICAO="NFTL" Position="-194637.410-1742025.350" Elevation="29">
+      <Runway Name="11" Position="-194627.230-1742046.340"/>
+      <Runway Name="29" Position="-194646.950-1742010.760"/>
     </Airport>
     <Airport ICAO="NFTO" Position="-153418.440-1753745.970" Elevation="149">
-     <Runway Name="08" Position="-153414.160-1753805.750"/>
-     <Runway Name="26" Position="-153414.190-1753730.210"/>
-    </Airport> 
+      <Runway Name="08" Position="-153414.160-1753805.750"/>
+      <Runway Name="26" Position="-153414.190-1753730.210"/>
+    </Airport>
     <Airport ICAO="NFTP" Position="-155838.710-1734729.560" Elevation="23">
-     <Runway Name="11" Position="-155825.580-1734745.570"/>
-     <Runway Name="29" Position="-155844.720-1734718.420"/>
-    </Airport> 
-      <Airport ICAO="NFTV" Position="-183508.090-1735804.960" Elevation="233">
-     <Runway Name="08" Position="-183506.600-1735758.030"/>
-     <Runway Name="26" Position="-183509.750-1735727.640"/>
-    </Airport> 
-   <Airport ICAO="NTTX" Position="-214856.517-1384859.265" Elevation="12">
-     <Runway Name="08" Position="-214834.030-1384929.330"/>
-     <Runway Name="26" Position="-214835.720-1384808.960"/>
-   </Airport>
-   <Airport ICAO="PLCH" Position="+015930.000-1572130.000" Elevation="5">
-     <Runway Name="08" Position="+015910.800-1572133.730"/>
-     <Runway Name="26" Position="+015910.640-1572025.650"/>
-   </Airport>
-   <Airport ICAO="YSNF" Position="-290248.000+1675618.000" Elevation="371">
-     <Runway Name="04" Position="-290248.091+1675559.560"/>
-     <Runway Name="22" Position="-290217.610+1675640.222"/>
-     <Runway Name="11" Position="-290211.710_1675548.011"/>
-     <Runway Name="29" Position="-290244470+1675647.120"/>
-   </Airport>
-</Airports>
+      <Runway Name="11" Position="-155825.580-1734745.570"/>
+      <Runway Name="29" Position="-155844.720-1734718.420"/>
+    </Airport>
+    <Airport ICAO="NFTV" Position="-183508.090-1735804.960" Elevation="233">
+      <Runway Name="08" Position="-183506.600-1735758.030"/>
+      <Runway Name="26" Position="-183509.750-1735727.640"/>
+    </Airport>
+    <Airport ICAO="NTTX" Position="-214856.517-1384859.265" Elevation="12">
+      <Runway Name="08" Position="-214834.030-1384929.330"/>
+      <Runway Name="26" Position="-214835.720-1384808.960"/>
+    </Airport>
+    <Airport ICAO="PLCH" Position="+015930.000-1572130.000" Elevation="5">
+      <Runway Name="08" Position="+015910.800-1572133.730"/>
+      <Runway Name="26" Position="+015910.640-1572025.650"/>
+    </Airport>
+    <Airport ICAO="YSNF" Position="-290248.000+1675618.000" Elevation="371">
+      <Runway Name="04" Position="-290248.091+1675559.560"/>
+      <Runway Name="22" Position="-290217.610+1675640.222"/>
+      <Runway Name="11" Position="-290211.710_1675548.011"/>
+      <Runway Name="29" Position="-290244470+1675647.120"/>
+    </Airport>
+  </Airports>
 </Airspace>
