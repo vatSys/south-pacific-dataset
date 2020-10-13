@@ -6895,7 +6895,7 @@
     </Airport>
     <Airport ICAO="NSTU" Position="-141953.984-1704241.411" Elevation="31">
       <Runway Name="05" Position="-142025.831-1704330.845"/>
-      <Runway Name="23" Position="-141936.476-1704202612"/>
+      <Runway Name="23" Position="-141936.476-1704202.612"/>
       <Runway Name="08" Position="-141935.126-1704246.756"/>
       <Runway Name="26" Position="-141935.111-1704208.096"/>
     </Airport>
