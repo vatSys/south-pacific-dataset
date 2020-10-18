@@ -7048,7 +7048,7 @@
       <Runway Name="27" Position="-222608.000-1512113.700"/>
     </Airport>
     <Airport ICAO="NTAA" Position="-173324.000-1493641.000" Elevation="5">
-      <Runway Name="02" Position="-173345.710-1493712.760"/>
+      <Runway Name="04" Position="-173345.710-1493712.760"/>
       <Runway Name="22" Position="-173240.720-1493538.600"/>
     </Airport>
     <Airport ICAO="NTGT" Position="-144235.000-1451452.000" Elevation="17">
