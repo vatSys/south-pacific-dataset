@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TM_RWY30" Priority="1" Centre="-172922.000-1494544.000">
+    <!--NTTM-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-172908.960-1494556.900" />
+      <Threshold Name="30" Position="-172937.380-1494527.590" ExtendedCentrelineTrack="315.471" ExtendedCentrelineLength="7" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--NTTM 30 SALUT-->
+      TM501/
+     BOBIX/
+     TORAL/
+      SALUT
+    </Line>
+    <Line>
+      <!--NTTM 30 KARNO-->
+      TM501/
+      ATANU/
+      TM502/
+      KARNO
+    </Line>
+    
+    <Symbol Type="HollowStar">
+      <Point>TM501</Point>
+      <Point>TM502</Point>
+      <Point>ATANU</Point>
+      <Point>BOBIX</Point>
+      <Point>TORAL</Point>
+      <Point>SALUT</Point>
+      <Point>KARNO</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TM_RWY30_NAMES" Priority="2" Centre="-172922.000-1494544.000">
+    <Label>
+      <Point>TM501</Point>
+      <Point>TM502</Point>
+      <Point>ATANU</Point>
+      <Point>BOBIX</Point>
+      <Point>TORAL</Point>
+      <Point>SALUT</Point>
+      <Point>KARNO</Point>
+      <Point>MO NDB</Point>
+      <Point>FA NDB</Point>
+      <Point>TAF VOR</Point>
+    </Label>
+  </Map>
+</Maps>
