@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TG_RWY09" Priority="1" Centre="-145719.000-1473928.000">
+    <!--NTTG-->
+    <Runway Name="09/27">
+      <Threshold Name="09" Position="-145705.000-1474012.850" ExtendedCentrelineTrack="107.547" ExtendedCentrelineLength="7" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="27" Position="-145719.980-1473923.540" />
+    </Runway>
+    <!--SIDs-->
+
+    <Symbol Type="SolidStar">
+      <Point>GODOL</Point>
+      <Point>GUMTI</Point>
+      <Point>GITUL</Point>    
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TG401</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TG_RWY09_NAMES" Priority="2" Centre="-145719.000-1473928.000">
+    <Label>
+     <Point>GODOL</Point>
+      <Point>GUMTI</Point>
+      <Point>GITUL</Point>
+      <Point>TG401</Point>
+      <Point>OA NDB</Point>
+      <Point>RAN VOR</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TG_TCU" Priority="1" Centre="lat long">
+    <!--NTTG-->
+    <Runway Name="09/27">
+      <Threshold Name="09" Position="-145705.000-1474012.850" />
+      <Threshold Name="27" Position="-145719.980-1473923.540" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+     <!-- Airway G595-->
+     ORARE/
+     RAN VOR/
+     ROBKO
+    </Line>
+    </Map>
+    <Map Type="System" Name="NTTG_ALLRWYS" Priority="2" Centre="lat long">
+    <!--NTTG-->
+    <Runway Name="09/27">
+      <Threshold Name="09" Position="-145705.000-1474012.850" ExtendedCentrelineTrack="107.547" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="1" />
+     <Runway Name="27" Position="-145719.980-1473923.540" ExtendedCentrelineTrack="287.547" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+  </Map>
+</Maps>

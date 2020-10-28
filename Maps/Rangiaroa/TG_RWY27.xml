@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TG_RWY27" Priority="1" Centre="-145719.000-1473928.000">
+    <!--NTTG-->
+    <Runway Name="09/27">
+      <Threshold Name="09" Position="-145705.000-1474012.850" />
+      <Threshold Name="27" Position="-145719.980-1473923.540" ExtendedCentrelineTrack="287.547" ExtendedCentrelineLength="7" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+
+    <Symbol Type="SolidStar">
+      <Point>GULEM</Point>
+      <Point>GOBER</Point>
+      <Point>GIVIX</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TG402</Point>
+      <Point>TG404</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TG_RWY27_NAMES" Priority="2" Centre="-145719.000-1473928.000">
+    <Label>
+      <Point>GULEM</Point>
+      <Point>GOBER</Point>
+      <Point>GIVIX</Point>
+      <Point>TG402</Point>
+      <Point>TG404</Point>
+      <Point>OA NDB</Point>
+      <Point>RAN VOR</Point>
+    </Label>
+  </Map>
+</Maps>
