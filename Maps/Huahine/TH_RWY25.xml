@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TH_RWY25" Priority="1" Centre="-164118.000-1510143.000">
+    <!--NTTH-->
+    <Runway Name="07/25">
+      <Threshold Name="07" Position="-164117.920-1510143.210" />
+      <Threshold Name="25" Position="-164109.030-1510053.040" ExtendedCentrelineTrack="259.517" ExtendedCentrelineLength="7" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--NTTH 07 REVRI-->
+     TH502/
+    REVRI
+    </Line>
+    <Line>
+      <!--NTTH 07IDUTA-->
+      TH502/
+      TH504/
+      IDUTA
+    </Line>
+    <Line>
+      <!--NTTH 07 BATOP-->
+      TH502/
+      UDOLO/
+      BATOP
+    </Line>
+    <!-- STARs -->
+    <Line>
+      <!-- NTTH BB-->
+      BB NDB/
+      HHN VOR
+    </Line>
+    <Line>
+       <!--NTTH VAITE-->
+       VAITE/
+       HHN VOR
+    </Line>
+    <Line>
+      <!--NTTH RU-->
+      RU NDB/
+      HHN VOR
+    </Line>
+
+    <Symbol Type="SolidStar">
+      <Point>RULOM</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>VAITE</Point>
+      <Point>IDUTA</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TH502</Point>
+      <Point>TH504</Point>
+      <Point>REVRI</Point>
+      <Point>UDOLO</Point>
+      <Point>BATOP</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TH_RWY25_NAMES" Priority="2" Centre="-164118.000-1510143.000">
+    <Label>
+      <Point>RULOM</Point>
+      <Point>VAITE</Point>
+      <Point>IDUTA</Point>
+      <Point>TH502</Point>
+      <Point>TH504</Point>
+      <Point>REVRI</Point>
+      <Point>BB NDB</Point>
+      <Point>RU MDB</Point>
+      <Point>MA NDB</Point>
+      <Point>HH NDB</Point>
+      <Point>HHN VOR</Point>
+    </Label>
+  </Map>
+</Maps>
