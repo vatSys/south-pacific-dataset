@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SystemRunways>
     <Airport Name="NTAA">
@@ -6285,6 +6285,8 @@
     <Point Name="WR" Type="Navaid" NavaidType="VOR" Frequency="117.300">-351443.201+1742242.901</Point>
     <Point Name="ZFX" Type="Navaid" NavaidType="TAC" Frequency="113.800">-770310.670+1664549.240</Point>
     <Point Name="ZWD" Type="Navaid" NavaidType="TAC" Frequency="114.300">-770738.020+1670651.990</Point>
+    <Point Name="ZIR" Type="Navaid" NavaidType="TAC" Frequency="112.800">-775114.400+1662808.400</Point>
+    <Point Name="ZPG" Type="Navaid" NavaidType="TAC" Frequency="113.300">-775717.640+1663046.800</Point>
   </Intersections>
   <SIDSTARs>
     <SID Name="VAIT4E" Airport="NTAA" Runways="04">

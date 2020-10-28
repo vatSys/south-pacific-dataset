@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Positions>
   <Position Name="Tahiti Oceanic" Type="ASD" DefaultCenter="-100000.000-1500000.000" DefaultRange="4500">
     <Sectors>
@@ -94,9 +94,7 @@
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA"/>
-      <Map Name="Williams/WD_COAST"/>
-      <Map Name="Williams/WD_TCU"/>
-      <Map Name="Williams/WD_RWY07"/>
+      <Map Name="Williams/IR_TCU"/>
     </Maps>
     <ATIS>
       <Editor Airport="NZWD" Frequency="122.6"/>
@@ -110,6 +108,9 @@
     </CFL>
     <ArrivalLists>
       <Airport Name="NZWD"/>
+      <Airport Name="NZIR"/>
+      <Airport Name="NZPG"/>
+      <Airport Name="NZPX"/>
     </ArrivalLists>
     <ControllerInfo>
       <Line>Williams Tower</Line>
