@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="RG_TCU" Priority="1" Centre="-211204.520-1594756.560">
+    <!--NCRG-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-211209.300-1594856.550" />
+      <Threshold Name="26" Position="-211209.310-1594743.610" />
+    </Runway> 
+    <!--Airway Routes-->
+    <Line>
+      <!-- Airway  B454-->
+      GOPSA/
+      RG VOR/
+      LOTRA
+    </Line>
+      <Line>
+      <!-- Airway G593-->
+      MIBOR/
+     RG VOR
+    </Line>
+      <Line>
+      <!-- Airway B598-->
+      GUTMA/
+      RG VOR
+    </Line>
+      <Line>
+      <!-- Airway R582-->
+      OMBOL/
+     RG VOR/
+     KRILL
+    </Line>
+    <Line>
+      <!-- Airway G594-->
+      BIXIT/
+      RG VOR/
+      DALUN
+        <!-- Airway G594-->
+      BIXIT/
+      RG VOR
+      <!-- Airway B596-->
+      PULOS/
+      BIGAN/
+      RG VOR
+    </Line>
+    </Map>
+    <Map Type="System" Name="NCRG_ALLRWYS" Priority="2" Centre="-211204.520-1594756.560">
+    <!--NCRG-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-211209.300-1594856.550" ExtendedCentrelineTrack="90.013" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="26" Position="-211209.310-1594743.610"  ExtendedCentrelineTrack="270.005" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+
+  </Map>
+</Maps>

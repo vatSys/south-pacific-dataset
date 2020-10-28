@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+    <Map Type="System" Name="RG_RWY08" Priority="1" Centre="-211204.520-1594756.560">
+    <!--NCRG-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-211209.300-1594856.550" ExtendedCentrelineTrack="90.013" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="26" Position="-211209.310-1594743.610" />
+    </Runway> 
+    <!--SIDs-->
+    <Line>
+      <!--RG 08 TOKET-->
+     -211209.310-1594743.610/
+     TOKET
+    </Line>
+    <Line>
+      <!--RG 08 DALUN-->
+      TOKET/
+      NIKOS/
+      DALUN
+    </Line>
+    <Line>
+      <!--RG 08 LOTRA-->
+      TOKET/
+      LAXON/
+      LOTRA
+    </Line>
+    <Line>
+      <!--RG 08 PULOS-->
+      TOKET/
+      DARDO/
+      PULOS
+    </Line>
+    <Line>
+      <!--RG 08 BIGAN-->
+      TOKET/
+      BIGAN
+    </Line>
+    <Line>
+      <!--RG 08 GOPSA-->
+      TOKET/
+      IGLOR/
+      GOPSA
+    </Line>
+    <Line>
+      <!--RG 08 MIBOR-->
+      TOKET/
+      IGLOR/
+      MIBOR
+    </Line>
+    <Line>
+      <!--RG 08 GUTMA-->
+      TOKET/
+      KAKIE/
+      GUTMA
+    </Line>
+    <Line>
+      <!--RG 08 OMBOL-->
+      TOKET/
+      DAPRI/
+      OMBOL
+    </Line>
+    <Line>
+      <!--RG 08 BIXIT-->
+      DAPRI/
+      BIXIT
+    </Line>
+    <Line>
+      <!--RG 08 ISPAK-->
+      DAPRI/
+      ISPAK
+    </Line>
+    <Line>
+      <!--RG 08 BAVEK-->
+      -211209.310-1594743.610/
+      DAMIX/
+      BAVEK
+    </Line>
+    <Line>
+      <!--RG 08 OMBOL 1R-->
+      DAMIX/
+      BELIT/
+      KASMO/
+      OMBOL
+    </Line>
+    <Line>
+      <!--RG 08 BIXIT 1R-->
+      BELIT/
+      TURPA/
+      BIXIT
+    </Line>
+    <Line>
+      <!--RG 08 ISPAK 1R-->
+      BELIT/
+      LASOM/
+      ISPAK
+    </Line>
+    <!-- STARs -->
+    <Line>
+      <!--RG 08 GOPSA-->
+      GOPSA/
+      PIKER/
+      ANIVA
+    </Line>
+    <Line>
+     <!--RG 08 MIBOR-->
+     MIBOR/
+     MAKSO/
+     ANIVA
+    </Line>
+    <Line>
+     <!--RG 08 GUTMA-->
+      GUTMA/
+      EMSOX/
+      ANIVA
+    </Line>
+    <Line>
+      <!--RG 08 OMBOL-->
+      OMBOL/
+      ARUGA/
+      ANIVA
+    </Line>
+    <Line>
+      <!--RG 08 BIXIT-->
+      BIXIT/
+      ISISA/
+      ANIVA
+    </Line>
+    <Line>
+   <!--RG 08 ISPAK-->
+      ISPAK/
+      GUSIP/
+      ANIVA
+    </Line>
+    <Line>
+      <!--RG 08 BAVEK-->
+      BAVEK/
+      TOSOL/
+      ANIVA/
+      OPUNA
+    </Line>
+    <Line>
+      <!--RG 08 PULOS-->
+      PULOS/
+      SUKAN/
+      OSPID/
+      ANIVA
+    </Line>
+    <Line>
+      <!--RG 08 BIGAN-->
+      BIGAN/
+      OSPID
+    </Line>
+    <Line>
+      <!--RG 08 LOTRA-->
+      LOTRA/
+      LAXID/
+      OSPID
+    </Line>
+      <Line>
+      <!--RG 08 DALUN-->
+      DALUN/
+      KABEN/
+      OSPID
+    </Line>
+   
+    <!--STARs-->
+    <Symbol Type="HollowTriangle">
+    
+    </Symbol>
+    <Symbol Type="SolidStar">
+      <Point>ISPAK</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>BIXIT</Point>
+      <Point>OMBOL</Point>
+      <Point>GUTMA</Point>
+      <Point>MIBOR</Point>
+      <Point>GOPSA</Point>
+      <Point>PULOS</Point>
+      <Point>LOTRA</Point>
+      <Point>DALUN</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+     <Point>TOKET</Point>
+     <Point>NIKOS</Point>
+     <Point>LAXON</Point>
+     <Point>DARDO</Point>
+     <Point>BIGAN</Point>
+     <Point>APUNI</Point>
+     <Point>IGLOR</Point>
+     <Point>KAKIE</Point>
+     <Point>GURKO</Point>
+     <Point>BOSMA</Point>
+     <Point>DARLU</Point>
+     <Point>BAVEK</Point>
+     <Point>LASOM</Point>
+     <Point>TURPA</Point>
+     <Point>KASMO</Point>
+     <Point>PIKER</Point>
+     <Point>MASKO</Point>
+     <Point>EMSOX</Point>
+     <Point>ARUGA</Point>
+     <Point>IDISA</Point>
+     <Point>GUSIP</Point>
+     <Point>TOSOL</Point>
+     <Point>ANIVA</Point>
+     <Point>OPUNA</Point>
+     <Point>SUKAN</Point>
+     <Point>OSPID</Point>
+     <Point>LAXID</Point>
+     <Point>KABEN</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RG_RWY08_NAMES" Priority="2" Centre="lat long">
+    <Label>
+      <Point>ISPAK</Point>
+      <Point>BIXIT</Point>
+      <Point>OMBOL</Point>
+      <Point>GUTMA</Point>
+      <Point>MIBOR</Point>
+      <Point>GOPSA</Point>
+      <Point>PULOS</Point>
+      <Point>LOTRA</Point>
+      <Point>DALUN</Point>
+     <Point>TOKET</Point>
+     <Point>NIKOS</Point>
+     <Point>LAXON</Point>
+     <Point>DARDO</Point>
+     <Point>BIGAN</Point>
+     <Point>APUNI</Point>
+     <Point>IGLOR</Point>
+     <Point>KAKIE</Point>
+     <Point>GURKO</Point>
+     <Point>BOSMA</Point>
+     <Point>DARLU</Point>
+     <Point>BAVEK</Point>
+     <Point>LASOM</Point>
+     <Point>TURPA</Point>
+     <Point>KASMO</Point>
+     <Point>PIKER</Point>
+     <Point>MASKO</Point>
+     <Point>EMSOX</Point>
+     <Point>ARUGA</Point>
+     <Point>IDISA</Point>
+     <Point>GUSIP</Point>
+     <Point>TOSOL</Point>
+     <Point>ANIVA</Point>
+     <Point>OPUNA</Point>
+     <Point>SUKAN</Point>
+     <Point>OSPID</Point>
+     <Point>LAXID</Point>
+     <Point>KABEN</Point>
+     <Point>RG VOR</Point>
+     <Point>RG NDB</Point>
+    </Label>
+  </Map>
+</Maps>

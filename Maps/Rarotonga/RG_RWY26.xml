@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+    <Map Type="System" Name="RG_RWY26" Priority="1" Centre="-211204.520-1594756.560">
+    <!--NCRG-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-211209.300-1594856.550" />
+     <Threshold Name="26" Position="-211209.310-1594743.610"  ExtendedCentrelineTrack="270.005" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway> 
+    <!--SIDs-->
+    <Line>
+      <!--RG 26 ATSOR-->
+     -211209.300-1594856.550/
+     ATSOR
+    </Line>
+    <Line>
+      <!--RG 26 DALUN-->
+      ATSOR/
+      NURTA/
+      DALUN
+    </Line>
+    <Line>
+      <!--RG 26 LOTRA-->
+      ATSOR/
+      ATROK/
+      LOTRA
+    </Line>
+    <Line>
+      <!--RG 26 PULOS-->
+      ATSOR/
+      DAGLA/
+      PULOS
+    </Line>
+    <Line>
+      <!--RG 26 BIGAN-->
+      ATSOR/
+      BIGAN
+    </Line>
+    <Line>
+      <!--RG 26 GOPSA-->
+      ATSOR/
+     TELER/
+      GOPSA
+    </Line>
+    <Line>
+      <!--RG 26 MIBOR-->
+      ATSOR/
+     REMAS/
+      MIBOR
+    </Line>
+    <Line>
+      <!--RG 26 GUTMA-->
+      ATSOR/
+     NOBIL/
+      GUTMA
+    </Line>
+    <Line>
+      <!--RG 26 OMBOL-->
+      ATSOR/
+      OKERO/
+      OMBOL
+    </Line>
+    <Line>
+      <!--RG 26 BIXIT-->
+      ATSOR/
+      ESMUN/
+      BIXIT
+    </Line>
+    <Line>
+      <!--RG 26 ISPAK-->
+      ATSOR/
+      URKEN/
+      ISPAK
+    </Line>
+    <Line>
+      <!--RG 26 BAVEK-->
+     ATSOR/
+      SADVU/
+      BAVEK
+    </Line>
+    <!-- STARs -->
+    <Line>
+      <!--RG 26 GOPSA-->
+      GOPSA/
+      MULAR/
+      KARSA/
+      NOLAR/
+      ANGAI
+    </Line>
+    <Line>
+     <!--RG 26 MIBOR-->
+     MIBOR/
+     DUNAT/
+     ENDOS/
+     KARSA
+    </Line>
+    <Line>
+     <!--RG 26 GUTMA-->
+      GUTMA/
+      EMSOX/
+      ANIVA
+    </Line>
+    <Line>
+      <!--RG 26 OMBOL-->
+      OMBOL/
+      ARIRI/
+      ENDOS
+    </Line>
+    <Line>
+      <!--RG 26 BIXIT-->
+      BIXIT/
+      ISISA/
+      ANIVA
+    </Line>
+    <Line>
+   <!--RG 26 ISPAK-->
+      ISPAK/
+      GUSIP/
+      ANIVA
+    </Line>
+    <Line>
+      <!--RG 26 BAVEK-->
+      BAVEK/
+      NOLAR
+    </Line>
+    <Line>
+      <!--RG 26 PULOS-->
+      PULOS/
+      VELDO/
+      KARSA
+    </Line>
+    <Line>
+      <!--RG 26 BIGAN-->
+      BIGAN/
+      KARSA
+    </Line>
+    <Line>
+      <!--RG 26 LOTRA-->
+      LOTRA/
+      EKONA/
+      NOLAR
+    </Line>
+      <Line>
+      <!--RG 26 DALUN-->
+      DALUN/
+     NIMEL/
+     NOLAR
+    </Line>
+       <Line>
+      <!--RG 26 OMBOL SAKAL-->
+      ONBOL/
+      SANSA/
+      PEGLO/
+      SAKAL/
+      NOLAR
+      </Line>
+       <Line>
+      <!--RG 26 BIXIT SAKAL-->
+      BIXIT/
+     GUMAR/
+     PEGLO
+    </Line>
+    <Line>
+      <!--RG 26 ISPAK SAKAL-->
+      ISPAK/
+      VARNI/
+     SAKAL
+    </Line>
+    <!--STARs-->
+
+    <Symbol Type="SolidStar">
+      <Point>ISPAK</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>BIXIT</Point>
+      <Point>OMBOL</Point>
+      <Point>GUTMA</Point>
+      <Point>MIBOR</Point>
+      <Point>GOPSA</Point>
+      <Point>PULOS</Point>
+      <Point>LOTRA</Point>
+      <Point>DALUN</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+     <Point>ATSOR</Point>
+     <Point>SADVU</Point>
+     <Point>URKEN</Point>
+     <Point>ESMUN</Point>
+     <Point>OKERO</Point>
+     <Point>NOBIL</Point>
+     <Point>REMAS</Point>
+     <Point>TELER</Point>
+     <Point>DAGLA</Point>
+     <Point>ATROK</Point>
+     <Point>NURTA</Point>
+     <Point>BAVEK</Point>
+     <Point>BIGAN</Point>
+     <Point>ARIRI</Point>
+     <Point>DUNAT</Point>
+     <Point>MULAR</Point>
+     <Point>VELDO</Point>
+     <Point>ENDOS</Point>
+     <Point>KARSA</Point>
+     <Point>NOLAR</Point>
+     <Point>ANGAI</Point>
+     <Point>NIMEL</Point>
+     <Point>EKONA</Point>
+     <Point>SANSA</Point>
+     <Point>GUMAR</Point>
+     <Point>VARNI</Point>
+     <Point>PEGLO</Point>
+     <Point>SAKAL</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RG_RWY26_NAMES" Priority="2" Centre="lat long">
+    <Label>
+      <Point>ISPAK</Point>
+       <Point>BIXIT</Point>
+      <Point>OMBOL</Point>
+      <Point>GUTMA</Point>
+      <Point>MIBOR</Point>
+      <Point>GOPSA</Point>
+      <Point>PULOS</Point>
+      <Point>LOTRA</Point>
+      <Point>DALUN</Point>
+     <Point>ATSOR</Point>
+     <Point>SADVU</Point>
+     <Point>URKEN</Point>
+     <Point>ESMUN</Point>
+     <Point>OKERO</Point>
+     <Point>NOBIL</Point>
+     <Point>REMAS</Point>
+     <Point>TELER</Point>
+     <Point>DAGLA</Point>
+     <Point>ATROK</Point>
+     <Point>NURTA</Point>
+     <Point>BAVEK</Point>
+     <Point>BIGAN</Point>
+     <Point>ARIRI</Point>
+     <Point>DUNAT</Point>
+     <Point>MULAR</Point>
+     <Point>VELDO</Point>
+     <Point>ENDOS</Point>
+     <Point>KARSA</Point>
+     <Point>NOLAR</Point>
+     <Point>ANGAI</Point>
+     <Point>NIMEL</Point>
+     <Point>EKONA</Point>
+     <Point>SANSA</Point>
+     <Point>GUMAR</Point>
+     <Point>VARNI</Point>
+     <Point>PEGLO</Point>
+     <Point>SAKAL</Point>
+     <Point>RG VOR</Point>
+     <Point>RG NDB</Point>
+    </Label>
+  </Map>
+</Maps>
