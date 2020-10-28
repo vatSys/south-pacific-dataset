@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="IR_TCU" Priority="1" Centre="-775100.000+1663330.500">
+    <!--NZIR-->
+    <Runway Name="13/31">
+      <Threshold Name="13" Position="-775020.400+1663138.400"/> 
+      <Threshold Name="31" Position="-775141.400+1663600.000"/>
+    </Runway>
+
+    </Map>
+    <Map Type="System" Name="IR_ALLRWYS" Priority="2" Centre="lat long">
+    <!--NZIR-->
+    <Runway Name="13/31">
+      <Threshold Name="13" Position="-775020.400+1663138.400"/> 
+      <Threshold Name="31" Position="-775141.400+1663600.000"/>
+    </Runway>
+  </Map>
+</Maps>
