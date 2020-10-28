@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Maps>
   <Map Type="System2" Name="ALL_AIRPORTS" Priority="2" Center="-25.0-175.0">
     <Label HasLeader="true" LabelOrientation="NW">
@@ -60,6 +60,9 @@
       <Point>NWWW</Point>
       <Point>NWWX</Point>
       <Point>NZWD</Point>
+      <Point>NZIR</Point>
+      <Point>NZFX</Point>
+      <Point>NZPG</Point>
       <Point>NCAI</Point>
       <Point>NCAT</Point>
       <Point>NCMG</Point> 
@@ -92,7 +95,7 @@
       <Point>NTMN</Point>
       <Point>NTTH</Point>
       <Point>NTKT</Point>
-      <Point>NTKA</Point>
+      <Point> NTKA</Point>
       <Point>NTGK</Point>
       <Point>NTGM</Point>
       <Point>NTGI</Point>
@@ -201,6 +204,9 @@
       <Point>NWWW</Point>
       <Point>NWWX</Point>
       <Point>NZWD</Point>
+      <Point>NZIR</Point>
+      <Point>NZFX</Point>
+      <Point>NZPG</Point>
       <Point>NCAI</Point>
       <Point>NCAT</Point>
       <Point>NCMG</Point> 
@@ -233,7 +239,7 @@
       <Point>NTMN</Point>
       <Point>NTTH</Point>
       <Point>NTKT</Point>
-      <Point>NTKA</Point>
+      <Point> NTKA</Point>
       <Point>NTGK</Point>
       <Point>NTGM</Point>
       <Point>NTGI</Point>
