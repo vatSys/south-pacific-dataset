@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="FA_TCU" Priority="1" Centre="-134954.620-1715952.850">
+    <!--NSFA-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-134948.770-1720120.200" />
+      <Threshold Name="26" Position="-134947.59-1715940.130" />
+    </Runway> 
+    <!--NSTU -->
+    <Runway Name="05/23">
+      <Threshold Name="05" Position="-142025.831-1704330.845" />
+      <Threshold Name="23" Position="-141936.476-1704202.612" />
+    </Runway>
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-141935.126-1704246.756" />
+      <Threshold Name="26" Position="-141935.111-1704208.096" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!-- Airway  B577-->
+      OVLAD/
+      ALAPI
+    </Line>
+      <Line>
+      <!-- Airway A584-->
+      KETOT/
+     IKENA
+    </Line>
+      <Line>
+      <!-- Airway A584-->
+      UGABO/
+      SAMVU
+    </Line>
+    <Line>
+      <!-- Airway A584-->
+      GOTSO/
+      BIGEK/
+      IBOBA
+    </Line>
+      <Line>
+      <!-- Airway A592-->
+      AROXA/
+     ISDOT
+    </Line>
+    <Line>
+      <!-- Airway R453-->
+      DAKAM/
+     UVUTI/
+    </Line>
+    <Line>
+      <!-- Airway A580 -->
+      BUVAR/
+     ODUMA
+    </Line>
+    <Line>
+      <!-- Airway G347-->
+      LANAT/
+     UXULU
+    </Line>
+    <Line>
+      <!-- Airway G224-->
+      GUTEL/
+      TUT VOR/
+      SETTS/
+     LANAT
+    </Line>
+    <Line>
+      <!-- Airway B450-->
+      TUT VOR/
+     DODUX
+    </Line>
+    <Line>
+      <!-- Airway B575-->
+      TUT VOR/
+      DRAWN/
+     OGELA
+    </Line>
+    <Line>
+      <!-- Airway G457-->
+      LAKER
+      TUT VOR/
+     ONETU
+    </Line>
+      <Line>
+      <!-- Airway  A212-->
+      MIGIS/
+      TUT VOR/
+     GUGET
+    </Line>
+      <Line>
+      <!-- Airway G457-->
+      TUT VOR/
+     ONETU
+    </Line>
+        <Line>
+      <!-- Airway B577-->
+      TUT VOR/
+     DARMA
+    </Line>
+      <Line>
+      <!-- Airway G224-->
+      TUT VOR/
+     GUTEL
+    </Line>
+    <Line>
+      <!-- Airway B454-->
+      TUT VOR/
+     GUMRA
+    </Line>
+    <Line>
+      <!-- Airway H901-->
+      TUT VOR/
+     ANITR/
+     EMTAR/
+     LAVEK/
+     FA VOR
+    </Line>
+    <Line>
+      <!-- Airway H969-->
+      TUT VOR/
+     CLAIB/
+     DOROS/
+     GOTSO
+    </Line>
+    <Line>
+      <!-- Airway H969-->
+      TUT VOR/
+     ALOHI/
+     PONAT/
+     FA VOR
+    </Line>
+    </Map>
+    <Map Type="System" Name="NSFA_ALLRWYS" Priority="2" Centre="-134954.620-1715952.850">
+    <!--NSFA -->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-134948.770-1720120.200" ExtendedCentrelineTrack="89.308" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="26" Position="-134947.59-1715940.130"  ExtendedCentrelineTrack="269.301" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>    
+    <!--NSTU-->
+    <Runway Name="05/23">
+      <Threshold Name="05" Position="-142025.831-1704330.845" ExtendedCentrelineTrack="60.03" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="23" Position="-141936.476-1704202.612"  ExtendedCentrelineTrack="239.997" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-141935.126-1704246.756" ExtendedCentrelineTrack="89.878" ExtendedCentrelineLength="3" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="26" Position="-141935.111-1704208.096"  ExtendedCentrelineTrack="269.976" ExtendedCentrelineLength="3" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+  </Map>
+</Maps>

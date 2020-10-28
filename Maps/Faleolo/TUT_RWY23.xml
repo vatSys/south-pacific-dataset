@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TUT_RWY23" Priority="1" Centre="-141953.984-1704241.411">
+    <!--NSTU-->
+    <Runway Name="05/23">
+     <Threshold Name="05" Position="-142025.831-1704330.845" />
+      <Threshold Name="23" Position="-141936.476-1704202.612"  ExtendedCentrelineTrack="239.997" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+  </Runway>
+
+    <!--STARs-->
+
+    <Symbol Type="HollowStar">
+     <Point>SUMLE</Point>
+     <Point>HUMTU</Point>
+     <Point>NOTSE</Point>
+     <Point>WUTEB</Point>
+     <Point>DRAWN</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TUT_RWY23_NAMES" Priority="2" Centre="-141953.984-1704241.411">
+    <Label>
+      <Point>SUMLE</Point>
+     <Point>HUMTU</Point>
+     <Point>NOTSE</Point>
+     <Point>WUTEB</Point>
+     <Point>DRAWN</Point>
+     <Point>TUT VOR</Point>
+     <Point>TUT NDB</Point>
+     <Point>LOG NDB</Point>
+    </Label>
+  </Map>
+</Maps>
