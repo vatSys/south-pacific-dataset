@@ -6835,6 +6835,9 @@
   </SIDSTARs>
   <Airports>
     <Airport ICAO="NZWD" Position="-775203.000+1670324.000" Elevation="68"/>
+    <Airport ICAO="NZPG" Position="-775748.000+1663128.000" Elevation="18" />
+    <Airport ICAO="NZIR" Position="-775114.000+1662807.000" Elevation="1" />
+    <Airport ICAO="NZFX" Position="-775723.000+1664600.000" Elevation="60" />
     <Airport ICAO="NCAI" Position="-184951.970-1594550.490" Elevation="20">
       <Runway Name="14" Position="-184946.710-1594553.180"/>
       <Runway Name="32" Position="-185040.050-1594525.920"/>
