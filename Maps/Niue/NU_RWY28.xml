@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="NU_RWY28" Priority="1" Centre="-190441.000-1695336.000">
+    <!--NIUE-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-190431.410-1695610.250" />
+      <Threshold Name="28" Position="-190457.170-1695455.090" ExtendedCentrelineTrack="289.93" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+
+    <Symbol Type="HollowStar">
+     <Point>IBADO</Point>
+     <Point>GUGAG</Point>
+     <Point>EXOPU</Point>
+     <Point>UE928</Point>
+     <Point>MEGUD</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="NU_RWY28_NAMES" Priority="2" Centre="-190441.000-1695336.000">
+    <Label>
+     <Point>IBADO</Point>
+     <Point>GUGAG</Point>
+     <Point>EXOPU</Point>
+     <Point>UE928</Point>
+     <Point>MEGUD</Point>
+     <Point>NU VOR</Point>
+     <Point>NU NDB</Point>
+    </Label>
+  </Map>
+</Maps>

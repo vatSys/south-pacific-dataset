@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TBU_TCU" Priority="1" Centre="-211430.700-1750825.590">
+    <!--NIUE-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-211404.050-1750939.250" />
+      <Threshold Name="29" Position="-211449.950-1750820.610" />
+    </Runway> 
+    <!--Airway Routes-->
+    <Line>
+      <!-- Airway  G223-->
+      PALMI/
+      NU VOR/
+      GODAB
+    </Line>
+      <Line>
+      <!-- Airway G593-->
+      NU VOR/
+     ORAGI
+    </Line>
+      <Line>
+      <!-- Airway R237-->
+      VISIK/
+      NU VOR/
+    </Line>
+      <Line>
+      <!-- Airway A584-->
+      DALDI/
+     NU VOR/
+     ISOBA
+    </Line>
+      <!-- Airway A212-->
+      GUGET/
+      NU VOR/
+    </Map>
+    <Map Type="System" Name="NIUE_ALLRWYS" Priority="2" Centre="-211430.700-1750825.590">
+    <!--NIUE-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-211404.050-1750939.250" ExtendedCentrelineTrack="122.035" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="29" Position="-211449.950-1750820.610"  ExtendedCentrelineTrack="302.065" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+
+  </Map>
+</Maps>
