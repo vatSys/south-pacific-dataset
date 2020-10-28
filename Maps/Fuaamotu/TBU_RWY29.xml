@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TBU_RWY29" Priority="1" Centre="-211430.700-1750825.590">
+    <!--NFTF-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-211404.050-1750939.250" />
+      <Threshold Name="29" Position="-211449.950-1750820.610"  ExtendedCentrelineTrack="302.065" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--29 SID-->
+     -211404.050-1750939.250/
+     ANGOR
+    </Line>
+    <Line>
+      <!--TBU 29 GOBIL-->
+      ANGOR/
+      GOBIL
+    </Line>
+    <Line>
+      <!--TBU 29 EKEDI-->
+      ANGOR/
+      EKEDI
+    </Line>
+    <Line>
+      <!--TBU 29 DALDI-->
+      ANGOR/
+      UPTUG/
+      LEKIS/
+      DALDI
+    </Line>
+    <Line>
+      <!--TBU 29 AGEXO-->
+      ANGOR/
+      ELBAT/
+      AGEXO
+    </Line>
+    <Line>
+      <!--TBU 29 KETUP-->
+      ANGOR/
+      IGEKO/
+      KETUP
+    </Line>
+    <Line>
+      <!--TBU 29 IBAKA-->
+      ANGOR/
+      VARLU/
+      IBAKA
+    </Line>
+    <Line>
+      <!--TBU 29 HOBAT-->
+      ANGOR/
+      HOBAT
+    </Line>
+  <!-- STARs -->
+    <Line>
+      <!--TBU 29 GOBIL-->
+      GOBIL/
+      UGRAP/
+      UPTUG/
+      BELTI
+    </Line>
+    <Line>
+      <!--TBU 29 EKEDI-->
+      EKEDI/
+      LEKIS/
+      BELTI
+    </Line>
+    <Line>
+      <!--TBU 29 DALDI-->
+      DALDI/
+      BELTI
+    </Line>
+    <Line>
+      <!--TBU 29 AGEXO-->
+      AGEXO/
+      DORNI
+    </Line>
+    <Line>
+      <!--TBU 29 HOBAT-->
+      HOBAT/
+      VIDUL/
+      OLPER
+    </Line>
+    <Line>
+      <!--TBU 29 IBAKA-->
+      IBAKA/
+      IGEKO/
+      OLPER
+    </Line>
+    <Line>
+      <!--TBU 29 KETUP-->
+      KETUP/
+      OLPER
+    </Line>
+    <Line>
+      <!--TBU 29-->
+      OLPER/
+      DORNI/
+      BELTI
+    </Line>
+
+    <Symbol Type="SolidTriangle">
+      <Point>GOBIL</Point>
+      <Point>AGEXO</Point>
+      <Point>DALDI</Point>
+      <Point>EKEDI</Point>
+      <Point>HOBAT</Point>
+      <Point>IBAKA</Point>
+      <Point>KETUP</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+     <Point>ANGOR</Point>
+      <Point>UGRAP</Point>
+      <Point>UPTUG</Point>
+      <Point>LEKIS</Point>
+      <Point>BELTI</Point>
+      <Point>DORNI</Point>
+      <Point>IGEKO</Point>
+      <Point>VIDUL</Point>
+      <Point>OLPER</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TBU_RWY28_NAMES" Priority="2" Centre="-211430.700-1750825.590">
+    <Label>
+      <Point>GOBIL</Point>
+      <Point>AGEXO</Point>
+      <Point>DALDI</Point>
+      <Point>EKEDI</Point>
+      <Point>HOBAT</Point>
+      <Point>IBAKA</Point>
+      <Point>KETUP</Point>
+     <Point>ANGOR</Point>
+      <Point>UGRAP</Point>
+      <Point>UPTUG</Point>
+      <Point>LEKIS</Point>
+      <Point>BELTI</Point>
+      <Point>DORNI</Point>
+      <Point>IGEKO</Point>
+      <Point>VIDUL</Point>
+      <Point>OLPER</Point>
+      <Point>TBU VOR</Point>
+      <Point>FM NDB</Point>
+    </Label>
+  </Map>
+</Maps>

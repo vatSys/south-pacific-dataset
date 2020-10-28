@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TBU_RWY11" Priority="1" Centre="-211430.700-1750825.590">
+    <!--NFTF-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-211404.050-1750939.250" ExtendedCentrelineTrack="122.035" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="29" Position="-211449.950-1750820.610" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--08 SID-->
+     -211449.950-1750820.610/
+     ADNER
+    </Line>
+    <Line>
+      <!--TBU 11 GOBIL-->
+      ADNER/
+      NOPEL/
+      OGITA/
+      GOBIL
+    </Line>
+    <Line>
+      <!--TBU 11 EKEDI-->
+      ADNER/
+      MOPDU/
+      EKEDI
+    </Line>
+    <Line>
+      <!--TBU 11 DALDI-->
+      ADNER/
+      MALKO/
+      DALDI
+    </Line>
+    <Line>
+      <!--TBU 11 AGEXO-->
+      ADNER/
+      AGEXO
+    </Line>
+    <Line>
+      <!--TBU 11 KETUP-->
+      ADNER/
+      KETUP
+    </Line>
+    <Line>
+      <!--TBU 11 IBAKA-->
+      ADNER/
+      IBAKA
+    </Line>
+    <Line>
+      <!--TBU 11 HOBAT-->
+      ADNER/
+      BEDAS/
+      BOKET/
+      HOBAT
+    </Line>
+  <!-- STARs -->
+    <Line>
+      <!--TBU 11 GOBIL-->
+      GOBIL/
+      KILEK
+    </Line>
+    <Line>
+      <!--TBU 11 EKEDI-->
+      EKEDI/
+      OGITA/
+      KILEK
+    </Line>
+    <Line>
+      <!--TBU 11 DALDI-->
+      DALDI/
+      MOPDU/
+      KILEK
+    </Line>
+    <Line>
+      <!--TBU 11 AGEXO-->
+      AGEXO/
+      MALKO/
+      KILEK
+    </Line>
+    <Line>
+      <!--TBU 11 HOBAT-->
+      HOBAT/
+      LURGA
+    </Line>
+    <Line>
+      <!--TBU 11 IBAKA-->
+      IBAKA/
+      LEMAS
+    </Line>
+    <Line>
+      <!--TBU 11 KETUP-->
+      KETUP/
+      KIBIN/
+      LEMAS
+    </Line>
+    <Line>
+      <!--TBU 11-->
+      LEMAS/
+      LURGA/
+      KILEK
+    </Line>
+
+    <Symbol Type="SolidTriangle">
+      <Point>GOBIL</Point>
+      <Point>AGEXO</Point>
+      <Point>DALDI</Point>
+      <Point>EKEDI</Point>
+      <Point>HOBAT</Point>
+      <Point>IBAKA</Point>
+      <Point>KETUP</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+     <Point>ADNER</Point>
+      <Point>BEDAS</Point>
+      <Point>BOKET</Point>
+      <Point>NOPEL</Point>
+      <Point>OGITA</Point>
+      <Point>MOPDU</Point>
+      <Point>MALKO</Point>
+      <Point>KILEK</Point>
+      <Point>LURGA</Point>
+      <Point>KIBIN</Point>
+      <Point>LEMAS</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TBU_RWY11_NAMES" Priority="2" Centre="-211430.700-1750825.590">
+    <Label>
+      <Point>GOBIL</Point>
+      <Point>AGEXO</Point>
+      <Point>DALDI</Point>
+      <Point>EKEDI</Point>
+      <Point>HOBAT</Point>
+      <Point>IBAKA</Point>
+      <Point>KETUP</Point>
+     <Point>ADNER</Point>
+      <Point>BEDAS</Point>
+      <Point>BOKET</Point>
+      <Point>NOPEL</Point>
+      <Point>OGITA</Point>
+      <Point>MOPDU</Point>
+      <Point>MALKO</Point>
+      <Point>KILEK</Point>
+      <Point>LURGA</Point>
+      <Point>KIBIN</Point>
+      <Point>LEMAS</Point>
+      <Point>TBU VOR</Point>
+      <Point>FM NDB</Point>
+    </Label>
+  </Map>
+</Maps>
