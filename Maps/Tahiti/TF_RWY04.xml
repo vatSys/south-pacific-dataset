@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TF_RWY04" Priority="1" Centre="-173324.000-1493641.000">
+    <!--NTAA-->
+    <Runway Name="04/22">
+      <Threshold Name="04" Position="-173345.710-1493712.760" ExtendedCentrelineTrack="53.985" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="22" Position="-173240.720-1493538.600" />
+    </Runway>
+    <!--SIDS-->
+    <Line>
+     <!-- Rwy 04 VAITE-->
+     AA503/
+     VAITE
+    </Line>
+      <!-- Rwy 04 IKELO-->
+      AA505/
+      IKELO
+    <Line>
+      <!-- Rwy 04 BENKO-->
+      MOANA/
+      AA501/
+      BENKO
+    </Line>
+    <Line>
+      <!-- Rwy04 PASTI -->
+      AA501/
+      PASTI
+    </Line>
+    <Line>
+      <!-- Rwy 04 ARITI-->
+      -173240.720-1493538.600/
+      ARITI
+    </Line>
+    <Line>
+      <!-- Rwy 04 MOSMA-->
+      -173240.720-1493538.600/
+      BOBIX/
+      MOSMA
+    </Line>
+    <!-- STARS -->
+    <Line>
+     <!-- Rwy 04 IDUTA-->
+      IDUTA/
+      OVINI
+    </Line>
+    <Line>
+      <!-- Rwy 04 AROBA-->
+     AROBA/
+     KARNO/
+     OVINI/
+    </Line>
+    <Line>
+      <!-- Rwy 04 ASOKI-->
+      ASOKI/
+      TAVIS/
+      MOANA/
+      TAF VOR/
+      OVINI
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>MOANA</Point>
+      <Point>OVINI</Point>
+      <Point>TAVIS</Point>
+      <Point>ARITI</Point>
+      <Point>IDUTA</Point>
+     <Point>KARNO</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>AROBA</Point>
+      <Point>PASTI</Point>
+      <Point>VAITE</Point>
+      <Point>ASOKI</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>AA501</Point>
+      <Point>AA503</Point>
+      <Point>AA505</Point>
+      <Point>MOSMA</Point>
+     <Point>BOBIX</Point>
+     <Point>IKELO</Point>
+     <Point>BENKO</Point>
+    </Symbol>
+  </Map>
+ <Map Type="System" Name="TF_RWY04_NAMES" Priority="2" Centre="-173324.000-1493641.000">
+    <Label>
+      <Point>MOANA</Point>
+      <Point>OVINI</Point>
+      <Point>TAVIS</Point>
+      <Point>ARITI</Point>
+      <Point>IDUTA</Point>
+      <Point>KARNO</Point>
+      <Point>AROBA</Point>
+      <Point>PASTI</Point>
+      <Point>VAITE</Point>
+      <Point>ASOKI</Point>
+      <Point>AA501</Point>
+      <Point>AA503</Point>
+      <Point>AA505</Point>
+      <Point>MOSMA</Point>
+      <Point>BOBIX</Point>
+      <Point>IKELO</Point>
+      <Point>BENKO</Point>
+      <Point>MO NDB</Point>
+      <Point>FA NDB</Point>
+      <Point>TAF VOR</Point>
+    </Label>
+  </Map>
+</Maps>

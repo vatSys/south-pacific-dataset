@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TF_TCU" Priority="1" Centre="-173324.000-1493641.000">
+    <!--NTAA-->
+    <Runway Name="04/22">
+      <Threshold Name="04" Position="-173345.710-1493712.760" />
+      <Threshold Name="22" Position="-173240.720-1493538.600" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+     <!-- Airway G224-->
+     LEMUN/
+     IDUTA
+    </Line>
+      <!-- Airway G223-->
+      GUBKA/
+      MIKOP
+    <Line>
+      <!-- Airway B578-->
+      DUMUM/
+      TAPAP
+    </Line>
+    <Line>
+      <!-- Airway G594 -->
+      KRILL/
+      MAITO
+    </Line>
+    <Line>
+      <!-- Airway G595-->
+      RAXER/
+      SABUB
+    </Line>
+    <Line>
+      <!-- Airway G599-->
+      SOSPI/
+      TEKOT
+    </Line>
+    <Line>
+     <!-- Airway J27-->
+      RT NDB/
+      AROBA
+    </Line>
+    <Line>
+      <!-- Airway J28-->
+     TB NDB/
+     AROBA
+    </Line>
+    <Line>
+      <!-- Airway -Q21-->
+      BEBIG/
+      RT NDB
+    </Line>
+    <Line>
+      <!-- Airway  Q22-->
+     BEBIG/
+     TB NDB
+    </Line>
+    <Line>
+      <!-- Airway Q17-->
+      PASTI/
+      RTNDB
+    </Line>
+    <Line>
+      <!-- Airway Q18-->
+      PASTI/
+      TB NDB
+    </Line>    <Line>
+      <!-- Airway Q23 Q24-->
+    ONIDO/
+    TATIA/
+    VETEA
+    </Line>    <Line>
+      <!-- Airway UL348-->
+      TATIA/
+      SAMEP
+    </Line>
+    <Line>
+      <!-- Airway G223 -->
+      PAPAE/
+      NANUE
+    </Line>
+    <Line>
+      <!-- Airway Q20-->
+      BENKO/
+      HAO NDB
+    </Line>
+    <Line>
+      <!-- Airway J30-->
+      HAO NDB/
+      ASOKI
+    </Line>
+    <Line>
+      <!-- Airway UN789-->
+      IRSUK/
+      ISTAM
+    </Line>
+    <Line>
+      <!-- Airway G594-->
+      PAERE/
+      ASOKI
+    </Line>
+      <Line>
+      <!-- Airway G575 -->
+      RAN NDB/
+      ORARE
+    </Line>
+    <Line>
+      <!-- Airway A220-->
+      MAGBA/
+      MIKAT
+    </Line>
+    <Line>
+      <!-- Airway B595-->
+      TAVAK/
+      TIAMA
+    </Line>
+    <Line>
+      <!-- Airway J21-->
+      VAITE/
+      HHN VOR
+    </Line>
+    <Line>
+      <!-- Airway J23-->
+      HHN VOR/
+      TEANO
+    </Line>
+    <Line>
+      <!-- Airway J22-->
+      RU NDB/
+      TEANO
+    </Line>
+    <Line>
+      <!-- Airway J31-->
+      ORAMA/
+      IDUTA
+    </Line>
+    <Line>
+      <!-- Airway J32-->
+      ONURI/
+      IDUTA
+    </Line>
+    <Line>
+      <!-- Airway J26-->
+      RU NDB/
+      IDUTA
+    </Line>
+    <Line>
+      <!-- Airway T2-->
+      SALAN/
+      IDUTA
+    </Line>
+    <Line>
+      <!-- Airway R11-->
+      VAITE/
+      UBKIM
+    </Line>
+  </Map>
+  <Map Type="System" Name="NTAA_ALLRWYS" Priority="2" Centre="-173324.000-1493641.000">
+    <!--NTAA-->
+    <Runway Name="04/22">
+      <Threshold Name="04" Position="-173345.710-1493712.760" ExtendedCentrelineTrack="53.985" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="22" Position="-173240.720-1493538.600"  ExtendedCentrelineTrack="233.022" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--NTTM-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-172908.960-1494556.900" ExtendedCentrelineTrack="135.474" ExtendedCentrelineLength="3" ExtendedCentrelineTickInterval="3" />
+      <Threshold Name="30" Position="-172937.380-1494527.590"  ExtendedCentrelineTrack="315.471" ExtendedCentrelineLength="3" ExtendedCentrelineTickInterval="3" />
+    </Runway> 
+    <!-- NTTE -->
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-170056.980-1493533.470" ExtendedCentrelineTrack="74.765" ExtendedCentrelineLength="3" ExtendedCentrelineTickinterval="3" />
+      <Threshold Name="24" Position="-170050.440-1493508.360" ExtendedCentrelineTrack="254.763" ExtendedCentrelineLength="3" ExtendedCentrelineTickinterval="3"/>
+    </Runway>
+  </Map>
+</Maps>

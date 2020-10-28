@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TF_RW22" Priority="1" Centre="-173324.000-1493641.000">
+    <!--NTAA-->
+    <Runway Name="04/22">
+      <Threshold Name="04" Position="-173345.710-1493712.760" />
+      <Threshold Name="22" Position="-173240.720-1493538.600"  ExtendedCentrelineTrack="233.022" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDS-->
+    <Line>
+     <!-- Rwy 22 VAITE-->
+     AA502/
+     AA506/
+     AA503/
+     VAITE
+    </Line>
+      <!-- Rwy 22 IKELO-->
+      AA503/
+      AA505/
+      IKELO
+    <Line>
+      <!-- Rwy 22 ONIDO-->
+      AA506/
+      AA508/
+      ONIDO
+    </Line>
+    <Line>
+      <!-- Rwy 22 BEBIG -->
+      ONIDO/
+      BEBIG
+    </Line>
+    <Line>
+      <!-- Rwy22 PASTI -->
+      AA501/
+      PASTI
+    </Line>
+    <Line>
+      <!-- Rwy 22 ARITI-->
+      -173345.710-1493712.760/
+      ARITI
+    </Line>
+    <Line>
+      <!-- Rwy 22 MOSMA-->
+      -173345.710-1493712.760/
+      BOBIX/
+      MOSMA
+    </Line>
+    <!-- STARS -->
+    <Line>
+     <!-- Rwy 04 IDUTA-->
+      IDUTA/
+      TAF VOR/
+      MOANA
+    </Line>
+    <Line>
+      <!-- Rwy 04 AROBA-->
+     AROBA/
+     KARNO/
+     OVINI/
+     TAF VOR/
+     MOANA
+    </Line>
+    <Line>
+      <!-- Rwy 04 ASOKI-->
+      ASOKI/
+      TAVIS/
+      MOANA
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>MOANA</Point>
+      <Point>OVINI</Point>
+      <Point>TAVIS</Point>
+      <Point>IDUTA</Point>
+     <Point>KARNO</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>AROBA</Point>
+      <Point>BEBIG</Point>
+      <Point>VAITE</Point>
+      <Point>ONIDO</Point>
+      <Point>ASOKI</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>AA502</Point>
+      <Point>AA503</Point>
+      <Point>AA505</Point>
+      <Point>AA506</Point>
+      <Point>AA508</Point>
+      <Point>MOSMA</Point>
+     <Point>BOBIX</Point>
+     <Point>IKELO</Point>
+    </Symbol>
+  </Map>
+ <Map Type="System" Name="TF_RWY22_NAMES" Priority="2" Centre="-173324.000-1493641.000">
+    <Label>
+      <Point>MOANA</Point>
+      <Point>OVINI</Point>
+      <Point>TAVIS</Point>
+      <Point>ARITI</Point>
+      <Point>IDUTA</Point>
+      <Point>KARNO</Point>
+      <Point>AROBA</Point>
+      <Point>PASTI</Point>
+      <Point>VAITE</Point>
+      <Point>ASOKI</Point>
+      <Point>AA501</Point>
+      <Point>AA502</Point>
+      <Point>AA503</Point>
+      <Point>AA505</Point>
+      <Point>AA506</Point>
+      <Point>AA508</Point>
+       <Point>MOSMA</Point>
+      <Point>BOBIX</Point>
+      <Point>IKELO</Point>
+      <Point>BENKO</Point>
+      <Point>MO NDB</Point>
+      <Point>FA NDB</Point>
+      <Point>TAF VOR</Point>
+    </Label>
+  </Map>
+</Maps>
