@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ALL_MVA" Priority="2">
+    <Label HasLeader="False" Alignment="Center">
+    <!-- Tahiti-->
+      <Point Name="9000">-142000.000-1513000.000</Point>
+      <Point Name="5000">-150000.000-1510000.000</Point>
+      <Point Name="2000">-154500.000-1491000.000</Point>
+      <Point Name="2000">-184000.000-1510000.000</Point>
+      <Point Name="9000">-172000.000-1483000.000</Point>
+      <Point Name="FL150">-173000.000-1492000.000</Point>
+      <!-- Iles Sous Les Vent -->
+      <Point Name="5000">-165000.000-1514500.000</Point>
+      <Point Name="5000">-162000.000-1513000.000</Point>
+      <Point Name="5000">-161000.000-1522000.000</Point>
+      <Point Name="3400">-164500.000-1510800.000</Point>
+      <Point Name="2000">-171500.000-1511500.000</Point>
+      <Point Name="2000">-160500.000-1510500.000</Point>
+    </Label>
+  </Map>
+</Maps>
