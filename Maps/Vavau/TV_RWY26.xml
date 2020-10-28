@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Maps>
+  <Map Type="System" Name="TV_RWY26" Priority="1" Centre="-183508.090-1735804.960">
+    <!--NFTV-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-183506.600-1735758.030" />
+      <Threshold Name="26" Position="-183509.750-1735727.640" ExtendedCentrelineTrack="276.240" ExtendedCentrelineLength="7" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+
+    <Symbol Type="HollowStar">
+     <Point>GOGUL</Point>
+     <Point>LAMIP</Point>
+     <Point>TV683</Point>
+     <Point>DOXUS</Point>
+     <Point>EKVUK</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="TV_RWY26_NAMES" Priority="2" Centre="-183508.090-1735804.960">
+    <Label>
+     <Point>GOGUL</Point>
+     <Point>LAMIP</Point>
+     <Point>TV683</Point>
+     <Point>DOXUS</Point>
+     <Point>EKVUK</Point>
+     <Point>TV NDB</Point>
+    </Label>
+  </Map>
+</Maps>
