@@ -6868,7 +6868,7 @@
     </Airport>
     <Airport ICAO="NCPK" Position="-105447.840-1654959.020" Elevation="18">
       <Runway Name="07" Position="-105454.530-1655044.490"/>
-      <Runway Name="27" Position="-105449.620-1654959.150"/>
+      <Runway Name="25" Position="-105449.620-1654959.150"/>
     </Airport>
     <Airport ICAO="NCRG" Position="-211204.520-1594756.560" Elevation="19">
       <Runway Name="08" Position="-211209.300-1594856.550"/>
