@@ -63,7 +63,7 @@
     <Volumes>NTTH_CTZ</Volumes>
 </Sector>
  <Sector FullName="Moorea Tower" Frequency="118.700" Callsign="NTTM_TWR" Name="TM ADC">
-    <Volumes>NTTB_CTZ</Volumes>
+    <Volumes>NTTM_CTZ</Volumes>
 </Sector>
 <Sector FullName="Rangiaroa Tower" Frequency="118.300" Callsign="NTTG_TWR" Name="TG ADC">
     <Volumes>NTTG_CTZ</Volumes>
