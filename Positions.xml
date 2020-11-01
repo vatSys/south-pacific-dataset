@@ -119,7 +119,6 @@
   </Position>
   <Position Name="Tahiti Control" Type="ASD" DefaultCenter="-173324.000-1493641.000" DefaultRange="450">
     <Sectors>
-      <Sector Name="NTTL"/>
       <Sector Name="TAC"/>
       <Sector Name="TAA"/>
     </Sectors>
