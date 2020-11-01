@@ -7156,7 +7156,7 @@
     <Airport ICAO="YSNF" Position="-290248.000+1675618.000" Elevation="371">
       <Runway Name="04" Position="-290248.091+1675559.560"/>
       <Runway Name="22" Position="-290217.610+1675640.222"/>
-      <Runway Name="11" Position="-290211.710_1675548.011"/>
+      <Runway Name="11" Position="-290211.710+1675548.011"/>
       <Runway Name="29" Position="-290244470+1675647.120"/>
     </Airport>
   </Airports>
