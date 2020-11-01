@@ -336,6 +336,25 @@
       <Point>HUMTU</Point>
       <Point>NOTSE</Point>
       <Point>WUTEB</Point>
+      <Point>SNZEC</Point>
+      <Point>SNZEF</Point>
+      <Point>SNZEM</Point>
+      <Point>SNZEH</Point>
+      <Point>PINKY</Point>
+      <Point>SNFWF</Point>
+      <Point>SNFWH</Point>
+      <Point>SNFSA</Point>
+      <Point>SNFSF</Point>
+      <Point>SNFSM</Point>
+      <Point>SNFSH</Point>
+      <Point>AF08N</Point>
+      <Point>AF08S</Point>
+      <Point>IF08</Point>
+      <Point>FF08</Point>
+      <Point>IF26</Point>
+      <Point>AF26N</Point>
+      <Point>AF26S</Point>
+      <Point>FF26</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>FTB11</Point>
@@ -464,6 +483,16 @@
       <Point>HOPID</Point>
       <Point>-141936.476-1704202.612</Point>
       <Point>NOTSE</Point>
+      <Point>SNZEF</Point>
+      <Point>SNZEM</Point>
+      <Point>-290211.710+1675548.011</Point>
+      <Point>SNFWF</Point>
+      <Point>SNFSF</Point>
+      <Point>SNFSM</Point>
+      <Point>FF08</Point>
+      <Point>+015910.800-1572133.730</Point>
+      <Point>FF26</Point>
+      <Point>+015910.640-1572025.650</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>BIDOP</Point>
@@ -710,6 +739,18 @@
       <Point>SUMLE</Point>
       <Point>HUMTU</Point>
       <Point>WUTEB</Point>
+      <Point>SNZEC</Point>
+      <Point>SNZEH</Point>
+      <Point>PINKY</Point>
+      <Point>SNFWH</Point>
+      <Point>SNFSA</Point>
+      <Point>SNFSH</Point>
+      <Point>AF08N</Point>
+      <Point>AF08S</Point>
+      <Point>IF08</Point>
+      <Point>IF26</Point>
+      <Point>AF26N</Point>
+      <Point>AF26S</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>TAVIS</Point>
@@ -924,5 +965,17 @@
     <Line Pattern="Dashed" >HOPIB/DRAWN</Line>
     <Line>SUMLE/HUMTU/NOTSE/WUTEB/-141936.476-1704202.612</Line>
     <Line Pattern="Dashed" >-141936.476-1704202.612/DRAWN</Line>
+    <Line>SNZEC/SNZEF/SNZEM</Line>
+    <Line Pattern="Dashed" >SNZEN/SNZEH</Line>
+    <Line>PINKY/SNWF/-290211.710+1675548.011</Line>
+    <Line Pattern="Dashed" >-290211.710+1675548.011/SNFWH</Line>
+    <Line>SNFSA/SNFSF/SNFSM</Line>
+    <Line Pattern="Dashed" >SNFSM/SNFSH</Line>
+    <Line>AF08N/IF08/AF08S</Line>
+    <Line>IF08/FF08/+015910.800-1572133.730</Line>
+    <Line Pattern="Dashed" >+015910.800-1572133.730/IF26</Line>
+    <Line>AF26N/IF26/AF26S</Line>
+    <Line>IF26/FF26/+015910.640-1572025.650</Line>
+    <Line Pattern="Dashed" >+015910.640-1572025.650/IF08</Line>
   </Map>
 </Maps>
