@@ -13,13 +13,13 @@
     <Volumes>COL</Volumes>
   </Sector>
   <Sector FullName="Indian Oceanic" Frequency="122.400" Callsign="ML-IND_FSS" Name="IND">
-    <Volumes>IND</Volumes>
+
   </Sector>
   <Sector FullName="Indian South Oceanic" Frequency="123.200" Callsign="ML-INS_FSS" Name="INS">
-    <Volumes>INS</Volumes>
+
   </Sector>
   <Sector FullName="Indian East Oceanic" Frequency="123.650" Callsign="ML-INE_FSS" Name="INE">
-    <Volumes>INE</Volumes>
+
   </Sector>
   <Sector FullName="Auckland Oceanic" Frequency="128.900" Callsign="NZZO_FSS" Name="NZZO">
     <Volumes>NZZO</Volumes>
