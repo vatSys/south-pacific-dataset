@@ -57,7 +57,7 @@
     <Long>-1383401.000</Long>
   </Radar>
   <Radar Name="Fua'Amotu" Type="ADSB" Elevation="129" MaxRange="255">
-    <Lat>--211430.700</Lat>
+    <Lat>-211430.700</Lat>
     <Long>-1750825.590</Long>
   </Radar>
   <Radar Name="Vava'u" Type="ADSB" Elevation="233" MaxRange="255">

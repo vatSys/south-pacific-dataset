@@ -1019,10 +1019,12 @@
       TBU VOR/
       NFTO
     </Airway>
+	<!-- Commented out due to duplicate defintion
     <Airway Name="T2">
       TV NDB/
       NFTP
     </Airway>
+	-->
     <Airway Name="T3">
       NFTP/
       NFTO
@@ -1418,7 +1420,7 @@
     <Point Name="ANJJE" Type="Fix">+050000.000-1453412.000</Point>
     <Point Name="ARBOR" Type="Fix">+195951.611-1555200.300</Point>
     <Point Name="ARNOW" Type="Fix">+084849.459+1675953.468</Point>
-    <Point Name="ARTOP" Type="Fix">000718.998+1800000.000</Point>
+    <Point Name="ARTOP" Type="Fix">-000718.998+1800000.000</Point>
     <Point Name="ARVII" Type="Fix">+085430.001-1702137.000</Point>
     <Point Name="AWIJU" Type="Fix">+092303.980+1672724.271</Point>
     <Point Name="AYUGO" Type="Fix">+053312.661+1630110.931</Point>
@@ -1439,7 +1441,7 @@
     <Point Name="BINGE" Type="Fix">+162959.999-1353759.000</Point>
     <Point Name="BINJO" Type="Fix">+202416.819-1601202.750</Point>
     <Point Name="BISEN" Type="Fix">+200829.450-1541741.228</Point>
-    <Point Name="BISOX" Type="Fix">004141.999-1493029.999</Point>
+    <Point Name="BISOX" Type="Fix">-004141.999-1493029.999</Point>
     <Point Name="BOILS" Type="Fix">-050000.000-1790911.999</Point>
     <Point Name="BONUS" Type="Fix">+202307.091-1552636.469</Point>
     <Point Name="BOQHU" Type="Fix">+092618.038+1673942.090</Point>
@@ -2342,7 +2344,7 @@
     <Point Name="AKNES" Type="Fix">-395029.468+1760726.000</Point>
     <Point Name="AKNIN" Type="Fix">-403736.248+1752649.829</Point>
     <Point Name="AKNOP" Type="Fix">-395001.291+1751549.380</Point>
-    <Point Name="AKOMO" Type="Fix">003129.809+1664346.379</Point>
+    <Point Name="AKOMO" Type="Fix">-003129.809+1664346.379</Point>
     <Point Name="AKOPO" Type="Fix">-202435.002-1382352.000</Point>
     <Point Name="AKORA" Type="Fix">+030515.180+1723828.640</Point>
     <Point Name="AKPIN" Type="Fix">-465543.268+1692827.620</Point>
@@ -2440,7 +2442,7 @@
     <Point Name="ARIRI" Type="Fix">-214825.042-1604056.909</Point>
     <Point Name="ARITI" Type="Fix">-174747.798-1492820.600</Point>
     <Point Name="ARIVA" Type="Fix">-142823.700-1464727.899</Point>
-    <Point Name="ARIVI" Type="Fix">003459.630+1664706.248</Point>
+    <Point Name="ARIVI" Type="Fix">-003459.630+1664706.248</Point>
     <Point Name="AROBA" Type="Fix">-185620.000-1504333.001</Point>
     <Point Name="AROKO" Type="Fix">-181829.452-1590751.520</Point>
     <Point Name="AROPA" Type="Fix">-394246.208+1765846.980</Point>
@@ -2449,7 +2451,7 @@
     <Point Name="ARUGA" Type="Fix">-214131.210-1604154.959</Point>
     <Point Name="ARURA" Type="Fix">-022414.879+1764000.300</Point>
     <Point Name="ARUSU" Type="Fix">-190451.001-1584201.710</Point>
-    <Point Name="ASAGU" Type="Fix">003220.090+1664733.960</Point>
+    <Point Name="ASAGU" Type="Fix">-003220.090+1664733.960</Point>
     <Point Name="ASAMO" Type="Fix">-205214.560-1572528.729</Point>
     <Point Name="ASEXO" Type="Fix">-364815.232+1753547.471</Point>
     <Point Name="ASOKI" Type="Fix">-175603.001-1480740.000</Point>
@@ -2881,8 +2883,8 @@
     <Point Name="D020J" Type="Fix">-170653.002+1783925.679</Point>
     <Point Name="D020L" Type="Fix">-130148.460-1725347.302</Point>
     <Point Name="D020O" Type="Fix">-362418.518+1745050.812</Point>
-    <Point Name="D021J" Type="Fix">003604.190+1670014.468</Point>
-    <Point Name="D024J" Type="Fix">001902.950+1665039.112</Point>
+    <Point Name="D021J" Type="Fix">-003604.190+1670014.468</Point>
+    <Point Name="D024J" Type="Fix">-001902.950+1665039.112</Point>
     <Point Name="D024L" Type="Fix">-173027.979+1773107.792</Point>
     <Point Name="D025H" Type="Fix">-444751.341+1712246.519</Point>
     <Point Name="D025L" Type="Fix">-370201.201+1763033.900</Point>
@@ -2897,9 +2899,9 @@
     <Point Name="D034J" Type="Fix">-280444.482+1680531.861</Point>
     <Point Name="D034O" Type="Fix">-362230.359+1745304.171</Point>
     <Point Name="D035J" Type="Fix">-295333.841+1674644.420</Point>
-    <Point Name="D035J" Type="Fix">002016.238+1664810.958</Point>
+    <Point Name="D035J" Type="Fix">-002016.238+1664810.958</Point>
     <Point Name="D035O" Type="Fix">-415058.390+1733038.101</Point>
-    <Point Name="D038J" Type="Fix">003413.598+1670332.759</Point>
+    <Point Name="D038J" Type="Fix">-003413.598+1670332.759</Point>
     <Point Name="D040F" Type="Fix">-380337.579+1741805.980</Point>
     <Point Name="D040J" Type="Fix">-361848.430+1744938.581</Point>
     <Point Name="D040J" Type="Fix">-215448.181-1592047.161</Point>
@@ -2974,7 +2976,7 @@
     <Point Name="D112O" Type="Fix">-411824.570+1740609.821</Point>
     <Point Name="D113J" Type="Fix">-215116.859-1754227.090</Point>
     <Point Name="D114J" Type="Fix">-392642.038+1770116.799</Point>
-    <Point Name="D114J" Type="Fix">003349.520+1664751.578</Point>
+    <Point Name="D114J" Type="Fix">-003349.520+1664751.578</Point>
     <Point Name="D115O" Type="Fix">-412948.220+1750338.191</Point>
     <Point Name="D115O" Type="Fix">-413148.971+1732735.369</Point>
     <Point Name="D120H" Type="Fix">-171552.681+1682150.741</Point>
@@ -3038,8 +3040,8 @@
     <Point Name="D200O" Type="Fix">-413138.318+1726037.331</Point>
     <Point Name="D200O" Type="Fix">-403616.430+1751022.778</Point>
     <Point Name="D200O" Type="Fix">-145727.569-1725215.359</Point>
-    <Point Name="D201J" Type="Fix">001939.820+1665015.511</Point>
-    <Point Name="D204J" Type="Fix">003654.150+1670131.432</Point>
+    <Point Name="D201J" Type="Fix">-001939.820+1665015.511</Point>
+    <Point Name="D204J" Type="Fix">-003654.150+1670131.432</Point>
     <Point Name="D204N" Type="Fix">-170915.160+1771503.031</Point>
     <Point Name="D205J" Type="Fix">-462901.478+1680848.191</Point>
     <Point Name="D205J" Type="Fix">-395337.110+1740247.550</Point>
@@ -3056,11 +3058,11 @@
     <Point Name="D212O" Type="Fix">-413358.571+1725750.392</Point>
     <Point Name="D214O" Type="Fix">-360451.998+1742350.401</Point>
     <Point Name="D215J" Type="Fix">-400022.748+1744855.522</Point>
-    <Point Name="D215J" Type="Fix">003543.568+1670202.969</Point>
+    <Point Name="D215J" Type="Fix">-003543.568+1670202.969</Point>
     <Point Name="D216J" Type="Fix">-162811.489+1791108.858</Point>
     <Point Name="D217J" Type="Fix">-395416.189+1740008.572</Point>
     <Point Name="D217J" Type="Fix">-295159.521+1674755.780</Point>
-    <Point Name="D218J" Type="Fix">002131.160+1664856.659</Point>
+    <Point Name="D218J" Type="Fix">-002131.160+1664856.659</Point>
     <Point Name="D219F" Type="Fix">-172327.899-1491957.571</Point>
     <Point Name="D219R" Type="Fix">-171603.331-1490902.959</Point>
     <Point Name="D220C" Type="Fix">-172519.160-1492126.129</Point>
@@ -3148,7 +3150,7 @@
     <Point Name="D300L" Type="Fix">-370343.598+1760904.928</Point>
     <Point Name="D301J" Type="Fix">-280422.508+1674800.770</Point>
     <Point Name="D304O" Type="Fix">-414116.249+1734137.790</Point>
-    <Point Name="D305J" Type="Fix">002020.918+1670223.060</Point>
+    <Point Name="D305J" Type="Fix">-002020.918+1670223.060</Point>
     <Point Name="D305M" Type="Fix">-361023.459+1744031.810</Point>
     <Point Name="D308J" Type="Fix">-295047.741+1680438.549</Point>
     <Point Name="D310J" Type="Fix">-380814.219+1740538.071</Point>
@@ -3448,7 +3450,7 @@
     <Point Name="ERO" Type="Fix">-181130.709+1685255.868</Point>
     <Point Name="ERTAP" Type="Fix">-170454.281+1681800.500</Point>
     <Point Name="ERVAX" Type="Fix">-433604.331+1722307.001</Point>
-    <Point Name="ES30" Type="Fix">002755.590+1665639.518</Point>
+    <Point Name="ES30" Type="Fix">-002755.590+1665639.518</Point>
     <Point Name="ESBAN" Type="Fix">-153632.392+1671444.288</Point>
     <Point Name="ESBEX" Type="Fix">-414636.338+1734321.540</Point>
     <Point Name="ESDAK" Type="Fix">-424727.269+1714920.032</Point>
@@ -3573,7 +3575,7 @@
     <Point Name="FF12" Type="Fix">-235902.890-1340342.580</Point>
     <Point Name="FF12" Type="Fix">-185903.952-1416041.550</Point>
     <Point Name="FF12" Type="Fix">-173549.199-1490500.899</Point>
-    <Point Name="FF12" Type="Fix">003023.270+1665003.491</Point>
+    <Point Name="FF12" Type="Fix">-003023.270+1665003.491</Point>
     <Point Name="FF13" Type="Fix">-385058.210+1755051.488</Point>
     <Point Name="FF13" Type="Fix">-213420.140+1675915.119</Point>
     <Point Name="FF13" Type="Fix">-202514.812+1663206.079</Point>
@@ -3630,7 +3632,7 @@
     <Point Name="FF30" Type="Fix">-235116.981-1341132.092</Point>
     <Point Name="FF30" Type="Fix">-201017.749+1671726.470</Point>
     <Point Name="FF30" Type="Fix">-185247.790-1400723.542</Point>
-    <Point Name="FF30" Type="Fix">002357.788+1665919.810</Point>
+    <Point Name="FF30" Type="Fix">-002357.788+1665919.810</Point>
     <Point Name="FF303" Type="Fix">-152435.700-1752731.200</Point>
     <Point Name="FF31" Type="Fix">-384124.202+1755729.650</Point>
     <Point Name="FF31" Type="Fix">-212845.511+1680636.082</Point>
@@ -3699,7 +3701,7 @@
     <Point Name="FN12" Type="Fix">-340115.769+1731117.048</Point>
     <Point Name="FN12" Type="Fix">-201739.770+1671107.739</Point>
     <Point Name="FN12" Type="Fix">-185926.272-1415919.820</Point>
-    <Point Name="FN12" Type="Fix">003138.160+1665012.509</Point>
+    <Point Name="FN12" Type="Fix">-003138.160+1665012.509</Point>
     <Point Name="FN14" Type="Fix">-174345.461-1452715.440</Point>
     <Point Name="FN15" Type="Fix">-354925.090+1735440.481</Point>
     <Point Name="FN170" Type="Fix">-401324.049+1750107.219</Point>
@@ -3718,7 +3720,7 @@
     <Point Name="FN29" Type="Fix">-162344.879-1432423.872</Point>
     <Point Name="FN30" Type="Fix">-185208.198-1400759.821</Point>
     <Point Name="FN30" Type="Fix">-152702.812+1671725.620</Point>
-    <Point Name="FN30" Type="Fix">002438.288+1665900.020</Point>
+    <Point Name="FN30" Type="Fix">-002438.288+1665900.020</Point>
     <Point Name="FN32" Type="Fix">-173511.422-1453257.158</Point>
     <Point Name="FN33" Type="Fix">-354050.288+1735625.609</Point>
     <Point Name="FN34" Type="Fix">-413321.989+1744733.470</Point>
@@ -3815,7 +3817,7 @@
     <Point Name="FS11X" Type="Fix">-210219.298+1660458.522</Point>
     <Point Name="FS11Y" Type="Fix">-210331.031+1660319.951</Point>
     <Point Name="FS12" Type="Fix">-201619.290+1671147.651</Point>
-    <Point Name="FS12" Type="Fix">003052.850+1665155.831</Point>
+    <Point Name="FS12" Type="Fix">-003052.850+1665155.831</Point>
     <Point Name="FS18" Type="Fix">-386058.970+1762349.159</Point>
     <Point Name="FS18L" Type="Fix">-371353.629+1752242.149</Point>
     <Point Name="FS22" Type="Fix">-463842.409+1682837.220</Point>
@@ -3826,7 +3828,7 @@
     <Point Name="FS26" Type="Fix">-134654.338-1765320.119</Point>
     <Point Name="FS27Y" Type="Fix">-140120.640-1472504.598</Point>
     <Point Name="FS29" Type="Fix">-214258.279-1755835.579</Point>
-    <Point Name="FS30" Type="Fix">002437.709+1665942.830</Point>
+    <Point Name="FS30" Type="Fix">-002437.709+1665942.830</Point>
     <Point Name="FS32" Type="Fix">-381534.260+1780138.272</Point>
     <Point Name="FS34" Type="Fix">-392652.500+1765121.352</Point>
     <Point Name="FTB11" Type="Fix">-163702.399-1510920.700</Point>
@@ -4041,7 +4043,7 @@
     <Point Name="IDADO" Type="Fix">-465914.910+1694410.219</Point>
     <Point Name="IDARA" Type="Fix">-445741.348+1716047.929</Point>
     <Point Name="IDBAD" Type="Fix">-414152.669+1662743.462</Point>
-    <Point Name="IDBUX" Type="Fix">002349.591+1670729.820</Point>
+    <Point Name="IDBUX" Type="Fix">-002349.591+1670729.820</Point>
     <Point Name="IDEMA" Type="Fix">-375422.201+1745824.330</Point>
     <Point Name="IDEMU" Type="Fix">-100000.000-1771812.330</Point>
     <Point Name="IDISA" Type="Fix">-213435.561-1604447.392</Point>
@@ -4081,7 +4083,7 @@
     <Point Name="IGENO" Type="Fix">-234236.100-1494157.101</Point>
     <Point Name="IGETO" Type="Fix">-335428.001-1750000.000</Point>
     <Point Name="IGIGO" Type="Fix">-092209.098-1381049.500</Point>
-    <Point Name="IGIMA" Type="Fix">002004.081+1670205.881</Point>
+    <Point Name="IGIMA" Type="Fix">-002004.081+1670205.881</Point>
     <Point Name="IGLET" Type="Fix">-323236.350+1664211.002</Point>
     <Point Name="IGLIS" Type="Fix">-434113.042+1722523.750</Point>
     <Point Name="IGLOB" Type="Fix">-413148.881+1723352.649</Point>
@@ -4188,7 +4190,7 @@
     <Point Name="KADER" Type="Fix">-140010.501-1485542.098</Point>
     <Point Name="KADET" Type="Fix">-433730.622+1721228.552</Point>
     <Point Name="KADMA" Type="Fix">-363123.520+1743010.148</Point>
-    <Point Name="KADNA" Type="Fix">001636.821+1670126.530</Point>
+    <Point Name="KADNA" Type="Fix">-001636.821+1670126.530</Point>
     <Point Name="KADNU" Type="Fix">-415003.091+1745803.839</Point>
     <Point Name="KADSU" Type="Fix">-450836.109+1700943.969</Point>
     <Point Name="KAGAD" Type="Fix">-360447.470+1754253.362</Point>
@@ -4462,7 +4464,7 @@
     <Point Name="MA11" Type="Fix">-171947.599+1681842.151</Point>
     <Point Name="MA12" Type="Fix">-355755.090+1731606.751</Point>
     <Point Name="MA12" Type="Fix">-173350.089-1491056.110</Point>
-    <Point Name="MA12" Type="Fix">002807.601+1665456.911</Point>
+    <Point Name="MA12" Type="Fix">-002807.601+1665456.911</Point>
     <Point Name="MA13" Type="Fix">-163400.329+1791920.381</Point>
     <Point Name="MA15" Type="Fix">-354520.401+1735428.721</Point>
     <Point Name="MA16" Type="Fix">-393302.030+1765209.908</Point>
@@ -4488,7 +4490,7 @@
     <Point Name="MA29" Type="Fix">-171718.622+1682137.709</Point>
     <Point Name="MA290" Type="Fix">-441603.371+1691635.741</Point>
     <Point Name="MA30" Type="Fix">-355555.940+1731859.618</Point>
-    <Point Name="MA30" Type="Fix">002616.231+1665615.990</Point>
+    <Point Name="MA30" Type="Fix">-002616.231+1665615.990</Point>
     <Point Name="MA303" Type="Fix">-152645.728-1752421.650</Point>
     <Point Name="MA33" Type="Fix">-354444.810+1735558.601</Point>
     <Point Name="MA330" Type="Fix">-375050.300+1753256.701</Point>
@@ -5084,7 +5086,7 @@
     <Point Name="OVINI" Type="Fix">-171908.501-1491310.801</Point>
     <Point Name="OVLAD" Type="Fix">-133339.728-1741754.559</Point>
     <Point Name="OVLAM" Type="Fix">-433641.212+1723638.299</Point>
-    <Point Name="OVNAK" Type="Fix">002019.759+1670309.940</Point>
+    <Point Name="OVNAK" Type="Fix">-002019.759+1670309.940</Point>
     <Point Name="OVRUN" Type="Fix">-404823.551+1755351.859</Point>
     <Point Name="OVSED" Type="Fix">-465909.319+1700158.810</Point>
     <Point Name="OVSIT" Type="Fix">-373538.798+1750247.100</Point>
@@ -5468,7 +5470,7 @@
     <Point Name="RUPAL" Type="Fix">-162655.200-1513751.901</Point>
     <Point Name="RUPAS" Type="Fix">-102936.001+1630000.000</Point>
     <Point Name="RUPNU" Type="Fix">-393148.578+1735914.950</Point>
-    <Point Name="RURAT" Type="Fix">003942.569+1664949.658</Point>
+    <Point Name="RURAT" Type="Fix">-003942.569+1664949.658</Point>
     <Point Name="RUREL" Type="Fix">-424048.611+1725435.819</Point>
     <Point Name="RUSIL" Type="Fix">-402012.739+1744950.800</Point>
     <Point Name="RUSKI" Type="Fix">-414940.529+1742653.681</Point>
@@ -5835,7 +5837,7 @@
     <Point Name="TUMGO" Type="Fix">-413556.809+1730104.940</Point>
     <Point Name="TUMPI" Type="Fix">-211540.729-1585915.000</Point>
     <Point Name="TUMTA" Type="Fix">-455143.300+1684542.490</Point>
-    <Point Name="TUNBA" Type="Fix">001500.000-1250000.000</Point>
+    <Point Name="TUNBA" Type="Fix">-001500.000-1250000.000</Point>
     <Point Name="TUNRI" Type="Fix">-455120.678+1684546.021</Point>
     <Point Name="TUNTA" Type="Fix">-381226.060+1761739.518</Point>
     <Point Name="TUPGU" Type="Fix">-414820.498+1734509.320</Point>
@@ -6161,8 +6163,8 @@
     <Point Name="XMOND" Type="Fix">-360922.651+1741539.221</Point>
     <Point Name="YADUA" Type="Fix">-184800.000+1773309.000</Point>
     <Point Name="YARRO" Type="Fix">-391850.600+1763113.102</Point>
-    <Point Name="YN812" Type="Fix">003145.040+1665154.989</Point>
-    <Point Name="YN903" Type="Fix">002434.350+1665921.199</Point>
+    <Point Name="YN812" Type="Fix">-003145.040+1665154.989</Point>
+    <Point Name="YN903" Type="Fix">-002434.350+1665921.199</Point>
     <Point Name="YOGIT" Type="Fix">-370907.898+1751505.400</Point>
     <Point Name="YTUNA" Type="Fix">-463505.251+1683638.191</Point>
     <Point Name="ZADMO" Type="Fix">-890756.099-1525144.009</Point>
@@ -6942,7 +6944,7 @@
     </Airport>
     <Airport ICAO="NTGF" Position="-160309.000-1453911.000" Elevation="16">
       <Runway Name="05" Position="-160326.440-1453949.870"/>
-      <Runway Name="23" Position="-160306890-1453907.280"/>
+      <Runway Name="23" Position="-160306.890-1453907.280"/>
     </Airport>
     <Airport ICAO="NTGB" Position="-154912.000-1405309.000" Elevation="13">
       <Runway Name="07" Position="-154914.170-1405341.030"/>
@@ -7002,7 +7004,7 @@
     </Airport>
     <Airport ICAO="NTKN" Position="-160715.000-1462225.000" Elevation="21">
       <Runway Name="06" Position="-160714.870-1462225.260"/>
-      <Runway Name="24" Position="160702.770-1462147.560"/>
+      <Runway Name="24" Position="-160702.770-1462147.560"/>
     </Airport>
     <Airport ICAO="NTKU" Position="-204201.000-1430244.000" Elevation="15">
       <Runway Name="14" Position="-204143.420-1430253.010"/>
@@ -7020,7 +7022,7 @@
       <Runway Name="10" Position="-144828.060-1384900.430"/>
       <Runway Name="28" Position="-144839.670-1384831.600"/>
     </Airport>
-    <Airport ICAO="NTGQ" Position="-181743.000-137.0100.000" Elevation="13">
+    <Airport ICAO="NTGQ" Position="-181743.000-1370100.000" Elevation="13">
       <Runway Name="12" Position="-181731.570-1370112.690"/>
       <Runway Name="30" Position="-181758.290-1370043.850"/>
     </Airport>
@@ -7157,7 +7159,7 @@
       <Runway Name="04" Position="-290248.091+1675559.560"/>
       <Runway Name="22" Position="-290217.610+1675640.222"/>
       <Runway Name="11" Position="-290211.710+1675548.011"/>
-      <Runway Name="29" Position="-290244470+1675647.120"/>
+      <Runway Name="29" Position="-290244.470+1675647.120"/>
     </Airport>
   </Airports>
 </Airspace>

@@ -364,7 +364,7 @@
       <Point>GF401</Point>
       <Point>-160326.440-1453949.870</Point>
       <Point>GF402</Point>
-      <Point>-160306890-1453907.280</Point>
+      <Point>-160306.890-1453907.280</Point>
       <Point>TO402</Point>
       <Point>-180507.860-1405604.840</Point>
       <Point>TO401</Point>
@@ -792,8 +792,8 @@
     <Line>VISIT/VEXUS</Line>
     <Line>VARGO/VEXUS</Line>
     <Line>VEXUS/GF402</Line>
-    <Line>GF402/-160306890-1453907.280</Line>
-    <Line Pattern="Dashed">-160306890-1453907.280/GF412</Line>
+    <Line>GF402/-160306.890-1453907.280</Line>
+    <Line Pattern="Dashed">-160306.890-1453907.280/GF412</Line>
     <Line Pattern="Dashed">GF412/VISIT</Line>
     <Line>OKATA/TO404</Line>
     <Line>OSRAN/TO404</Line>

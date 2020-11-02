@@ -72,9 +72,8 @@
         <Activation H24="true" Start="0000" End="0000"/>
       </Activations>
     </RestrictedArea>
-    <RestrictedArea Type="Prohibited" Name="P1 NTTT" AltitudeFloor="0" AltitudeCeiling="99999" DAIWEnabled="false" LinePattern="None">
-      <Area>-
-      214846.001-1381224.001/
+    <RestrictedArea Type="Restricted" Name="P1 NTTT" AltitudeFloor="0" AltitudeCeiling="99999" DAIWEnabled="false" LinePattern="None">
+      <Area>-214846.001-1381224.001/
       -222451.998-1383654.000/
       -214818.000-1391254.000/
       -212415.998-1384829.999/
