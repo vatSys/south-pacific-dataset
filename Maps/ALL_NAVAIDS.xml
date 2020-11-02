@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <Maps>
     <Map Type="System" Name="ALL_NAVAIDS_NAMES" Priority="0" Center="-25.0-175.0">
@@ -100,7 +100,7 @@
         <Point Name="NV" >-463518.380+1681903.389</Point>
         <Point Name="OH" >-404725.400+1752431.099</Point>
         <Point Name="QN" >-440157.190+1684757.529</Point>
-        <Point Name="RAN" >140358.499-1472035.000</Point>
+        <Point Name="RAN" >-140358.499-1472035.000</Point>
         <Point Name="RG" >-214854.449-1591108.210</Point>
         <Point Name="RO" >-385431.020+1761950.090</Point>
         <Point Name="SON" >-153036.172+1671301.628</Point>
@@ -115,6 +115,8 @@
         <Point Name="WR" >-351443.201+1742242.901</Point>
         <Point Name="ZFX" >-770310.670+1664549.240</Point>
         <Point Name="ZWD" >-770738.020+1670651.990</Point>
+        <Point Name="ZIR" >-775114.400+1662808.400</Point>
+        <Point Name="ZPG" >-775717.640+1663046.800</Point>
       </Label>
     </Map>
     
@@ -219,7 +221,7 @@
         <Point>-463518.380+1681903.389</Point>
         <Point>-404725.400+1752431.099</Point>
         <Point>-440157.190+1684757.529</Point>
-        <Point>140358.499-1472035.000</Point>
+        <Point>-140358.499-1472035.000</Point>
         <Point>-214854.449-1591108.210</Point>
         <Point>-385431.020+1761950.090</Point>
         <Point>-153036.172+1671301.628</Point>
@@ -234,6 +236,8 @@
         <Point>-351443.201+1742242.901</Point>
         <Point>-770310.670+1664549.240</Point>
         <Point>-770738.020+1670651.990</Point>
+        <Point>-775114.400+1662808.400</Point>
+        <Point>-775717.640+1663046.800</Point>
       </Symbol>
     </Map>
 
