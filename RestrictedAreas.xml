@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <RestrictedAreas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Areas>
     <RestrictedArea Type="Danger" Name="D021 NZZO" AltitudeFloor="0" AltitudeCeiling="99999" DAIWEnabled="false" LinePattern="None">
@@ -15,8 +15,8 @@
       </Activations>
     </RestrictedArea>
     <RestrictedArea Type="Danger" Name="D21 NTTT" AltitudeFloor="0" AltitudeCeiling="99999" DAIWEnabled="false" LinePattern="None">
-        <Area>
-         -321023.99-1154732.0/
+      <Area>
+         -321023.990-1154732.000/
         -165240.238-1493649.079/
         -171237.411-1494744.329/
         -171150.973-1494547.165/
@@ -34,7 +34,7 @@
         -165240.238-1493649.079</Area>
     </RestrictedArea>
     <RestrictedArea Type="Danger" Name="D22 NTTT" AltitudeFloor="0" AltitudeCeiling="99999" DAIWEnabled="false" LinePattern="None">
-        <Area>
+      <Area>
         -163235.498-1493710.801/
         -165740.990-1495619.309/
         -165617.081-1495257.364/
@@ -73,7 +73,8 @@
       </Activations>
     </RestrictedArea>
     <RestrictedArea Type="Restricted" Name="P1 NTTT" AltitudeFloor="0" AltitudeCeiling="99999" DAIWEnabled="false" LinePattern="None">
-      <Area>-214846.001-1381224.001/
+      <Area>-
+      -214846.001-1381224.001/
       -222451.998-1383654.000/
       -214818.000-1391254.000/
       -212415.998-1384829.999/
@@ -83,4 +84,4 @@
       </Activations>
     </RestrictedArea>
   </Areas>
-  </RestrictedAreas>
+</RestrictedAreas>

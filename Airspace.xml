@@ -1019,12 +1019,10 @@
       TBU VOR/
       NFTO
     </Airway>
-	<!-- Commented out due to duplicate defintion
-    <Airway Name="T2">
+  <!--  <Airway Name="T2">
       TV NDB/
       NFTP
-    </Airway>
-	-->
+    </Airway> -->
     <Airway Name="T3">
       NFTP/
       NFTO
