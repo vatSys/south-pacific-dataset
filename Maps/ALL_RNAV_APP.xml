@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Maps>
-  <Map Type="System2" Name="ALL_RNAV_APP" Priority="2" Center="-2380.8+13390.1">
+  <Map Type="System2" Name="ALL_RNAV_APP" Priority="2" Center="-043822.000-1493321.000">
     <Label HasLeader="true">
       <Point>BAMBI</Point>
       <Point>BIDOP</Point>
@@ -59,7 +59,6 @@
       <Point>UDUMA</Point>
       <Point>NIVAL</Point>
       <Point>FTH25</Point>
-      <Point>MTH25</Point>
       <Point>TH440</Point>
       <Point>MAKOM</Point>
       <Point>GM403</Point>
@@ -376,7 +375,7 @@
       <Point>FTH07</Point>
       <Point>MTH07</Point>
       <Point>FTH25</Point>
-      <Point>MTH25</Point>
+      <Point>/-164109.010-1510053.040</Point>
       <Point>GM401</Point>
       <Point>-163448.290-1433951.250</Point>
       <Point>GM402</Point>
@@ -446,9 +445,9 @@
       <Point>TP689</Point>
       <Point>-155825.580-1734745.570</Point>
       <Point>TV843</Point>
-      <Point>-214834.030-1384929.330</Point>
+      <Point>-183506.600-1735758.030</Point>
       <Point>TV683</Point>
-      <Point>-214835.720-1384808.960</Point>
+      <Point>-182509.750-1735727.640</Point>
       <Point>AI751</Point>
       <Point>AI511</Point>
       <Point>AI615</Point>
@@ -820,7 +819,7 @@
     <Line>INTOD/MN707</Line>
     <Line>IGIGO/MN707</Line>
     <Line>MN707/MN709</Line>
-    <Line>MN 709/-094534.090-1390021.760</Line>
+    <Line>MN709/-094534.090-1390021.760</Line>
     <Line Pattern="Dashed">-094534.090-1390021.760/MN713</Line>
     <Line Pattern="Dashed">MN713/MN715</Line>
     <Line Pattern="Dashed">MN715/IGIGO</Line>
@@ -831,8 +830,8 @@
     <Line>FTH07/MTH07</Line>
     <Line Pattern="Dashed">MTH07/TH438</Line>
     <Line Pattern="Dashed">TH438/UDINI</Line>
-    <Line>UBKIM/UGANI/UDUMA/NIVAL/FTH25/MTH25</Line>
-    <Line Pattern="Dashed">MTH25/TH440/UDUMA</Line>
+    <Line>UBKIM/UGANI/UDUMA/NIVAL/FTH25/-164109.010-1510053.040</Line>
+    <Line Pattern="Dashed">-164109.010-1510053.040/TH440/UDUMA</Line>
     <Line>MAKOM/GM403/AKUSA/AKARI/GM401/-163448.290-1433951.250</Line>
     <Line Pattern="Dashed">-163448.290-1433951.250/GM403</Line>
     <Line>MAKOM/GM404/EGOVA/IBUKI/GM402/-163515.130-1433908.980</Line>
@@ -848,7 +847,7 @@
     <Line Pattern="Dashed">-162535.770-1521453.330/TP403</Line>
     <Line>MOSMA/MORNI/FTM12/MTM12</Line>
     <Line Pattern="Dashed">MTM12/TM410/MOSMA</Line>
-    <Line>NONOK/MD403/MD405/NODIL.MD401/-084754.560-1401409.660</Line>
+    <Line>NONOK/MD403/MD405/NODIL/MD401/-084754.560-1401409.660</Line>
     <Line Pattern="Dashed">-084754.560-1401409.660/MD403</Line>
     <Line>NUSTI/NISAK/MD402/-084734.050-1401319.070</Line>
     <Line>NONOK/MD404/MD406/NISAK</Line>
@@ -860,7 +859,7 @@
     <Line>VALSA/AV405/AV407/VORSY/AV401/AV403</Line>
     <Line>VEKRO/VORSY</Line>
     <Line Pattern="Dashed">AV403/AV405</Line>
-    <Line>VALSA/AV606/AV408/VETAL/AV402/AV404</Line>
+    <Line>VALSA/AV406/AV408/VETAL/AV402/AV404</Line>
     <Line>VAPLU/VETAL</Line>
     <Line Pattern="Dashed">AV404/AV406</Line>
     <Line>GOBER/TG404/TG402/-145719.980-1473923.540</Line>
@@ -883,7 +882,7 @@
     <Line>KARNO/IAA04/FAA04/-173345.710-1493712.760</Line>
     <Line Pattern="Dashed">-173345.710-1493712.760/AA414/AA416/VEDRI</Line>
     <Line>SALUT/MOANA</Line>
-    <Line>TAVIS/MOANA.FAA22/-173240.720-1493538.600</Line>
+    <Line>TAVIS/MOANA/FAA22/-173240.720-1493538.600</Line>
     <Line Pattern="Dashed">-173240.720-1493538.600/OVINI</Line>
     <Line>ARITI/TE401/TE402/TE403</Line>
     <Line Pattern="Dashed">TE403/TE404/TE405/TE406/TE401</Line>
@@ -922,11 +921,11 @@
     <Line>SUNBA/POSUS/GUVOS</Line>
     <Line>POSUS/TP689/-155825.580-1734745.570</Line>
     <Line>LIKVA/EKVUK/BIVAD</Line>
-    <Line>EKVUK/TV843/-214834.030-1384929.330</Line>
-    <Line Pattern="Dashed">-214834.030-1384929.330/DOXUS</Line>
-    <Line>GOGUL/DOXUS/LANIP</Line>
-    <Line>DOXUS/TV683/-214835.720-1384808.960</Line>
-    <Line Pattern="Dashed">-214835.720-1384808.960/EKVUK</Line>
+    <Line>EKVUK/TV843/-183506.600-1735758.030</Line>
+    <Line Pattern="Dashed">-183506.600-1735758.030/DOXUS</Line>
+    <Line>GOGUL/DOXUS/LAMIP</Line>
+    <Line>DOXUS/TV683/-183509.750-1735727.640</Line>
+    <Line Pattern="Dashed">-183509.750-1735727.640/EKVUK</Line>
     <Line>MORKA/AROKO/TEREN</Line>
     <Line>AROKO/AI751/AI511</Line>
     <Line>TORIX/IKIPO/MANET</Line>
@@ -961,13 +960,13 @@
     <Line>LAVEK/FALFA/MAUGA</Line>
     <Line>FALFA/FA515/-134947.59-1715940.130</Line>
     <Line>-134947.59-1715940.130/FA502/LAVEK</Line>
-    <Line>SETTA/GRUPY/BLUJA/CAXEB/HOPIB</Line>
-    <Line Pattern="Dashed" >HOPIB/DRAWN</Line>
+    <Line>SETTS/GRUPY/BLUJA/CAXEB/HOPID</Line>
+    <Line Pattern="Dashed" >HOPID/DRAWN</Line>
     <Line>SUMLE/HUMTU/NOTSE/WUTEB/-141936.476-1704202.612</Line>
     <Line Pattern="Dashed" >-141936.476-1704202.612/DRAWN</Line>
     <Line>SNZEC/SNZEF/SNZEM</Line>
-    <Line Pattern="Dashed" >SNZEN/SNZEH</Line>
-    <Line>PINKY/SNWF/-290211.710+1675548.011</Line>
+    <Line Pattern="Dashed" >SNZEM/SNZEH</Line>
+    <Line>PINKY/SNFWF/-290211.710+1675548.011</Line>
     <Line Pattern="Dashed" >-290211.710+1675548.011/SNFWH</Line>
     <Line>SNFSA/SNFSF/SNFSM</Line>
     <Line Pattern="Dashed" >SNFSM/SNFSH</Line>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <Maps>
     <Map Type="System" Name="ALL_ROUTES_HIGH" Priority="1" Center="-25.0-175.0">
@@ -23,11 +23,11 @@
      <Line Name="G329_0">DOVOM.G329.NF VOR</Line>
      <Line Name="A579_0">UBLIN.A579.CARRP</Line>
      <Line Name="B333_0">RUMIX.B333.SALAG</Line>
-     <Line Name="B601_0">VESUN.B601.APTEN</Line>
+     <Line Name="B601_0">VESUN.B601.ATPEN</Line>
      <Line Name="B580_0">VESUN.B580.BARKR</Line>
      <Line Name="B578_0">TEBUR.B578.TAF VOR</Line>
      <Line Name="B602_0">TEBUR.B602.ATPEN</Line>
-     <Line Name="G591_0">MEPAB.G591.FT NDB</Line>
+     <Line Name="G591_0">MEPAB.G591.KT NDB</Line>
      <Line Name="R587_0">MEPAB.R587.VLI VOR</Line>
      <Line Name="B474_0">MEPAB.B474.BARKR</Line>
      <Line Name="B586_0">BODEG.B586.LTO VOR</Line>
@@ -40,7 +40,7 @@
      <Line Name="B598_0">NIPOK.B598.RG VOR</Line>
      <Line Name="R599_0">ENDAL.R599.DUGAN</Line>
      <Line Name="R450_0">DUGOM.R450.SON VOR</Line>
-     <Line Name="B452_0">PUNOK.B452.NN VOR</Line>
+     <Line Name="B452_0">PONOK.B452.NN VOR</Line>
      <Line Name="B326_0">HN VOR.B326.NIXEE</Line>
      <Line Name="B589_0">TASAK.B589.ELNUR</Line>
      <Line Name="A578_0">FENSE.A578.AA VOR</Line>
@@ -654,11 +654,11 @@
       <Line Name="G329_0">DOVOM.G329.NF VOR</Line>
       <Line Name="A579_0">UBLIN.A579.CARRP</Line>
       <Line Name="B333_0">RUMIX.B333.SALAG</Line>
-      <Line Name="B601_0">VESUN.B601.APTEN</Line>
+      <Line Name="B601_0">VESUN.B601.ATPEN</Line>
       <Line Name="B580_0">VESUN.B580.BARKR</Line>
       <Line Name="B578_0">TEBUR.B578.TAF VOR</Line>
       <Line Name="B602_0">TEBUR.B602.ATPEN</Line>
-      <Line Name="G591_0">MEPAB.G591.FT NDB</Line>
+      <Line Name="G591_0">MEPAB.G591.KT NDB</Line>
       <Line Name="R587_0">MEPAB.R587.VLI VOR</Line>
       <Line Name="B474_0">MEPAB.B474.BARKR</Line>
       <Line Name="B586_0">BODEG.B586.LTO VOR</Line>
@@ -671,7 +671,7 @@
       <Line Name="B598_0">NIPOK.B598.RG VOR</Line>
       <Line Name="R599_0">ENDAL.R599.DUGAN</Line>
       <Line Name="R450_0">DUGOM.R450.SON VOR</Line>
-      <Line Name="B452_0">PUNOK.B452.NN VOR</Line>
+      <Line Name="B452_0">PONOK.B452.NN VOR</Line>
       <Line Name="B326_0">HN VOR.B326.NIXEE</Line>
       <Line Name="B589_0">TASAK.B589.ELNUR</Line>
       <Line Name="A578_0">FENSE.A578.AA VOR</Line>
@@ -710,7 +710,7 @@
       <Line Name="B455_0">TV NDB.B455.OGELA</Line>
       <Line Name="B596_0">RG VOR.B596.DOVRR</Line>
       <Line Name="T1_0">TBU VOR.T1.NFTO</Line> <!-- LOW ONLY TONGAN DOMESTIC ROUTES-->
-      <Line Name="T2_0">TV NDB.T2.NFTP</Line>
+     <!-- <Line Name="T2_0">TV NDB.T2.NFTP</Line> -->
       <Line Name="T3_0">NFTP.T3.NFTO </Line>
       <Line Name="T4_0">TV NDB.T4.NFTO</Line>
       <Line Name="T5_0">TBU VOR.T5.NFTE</Line>
