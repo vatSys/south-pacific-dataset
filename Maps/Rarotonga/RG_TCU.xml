@@ -34,10 +34,15 @@
       <!-- Airway G594-->
       BIXIT/
       RG VOR/
-      DALUN
-        <!-- Airway G594-->
+      DALUN/
+      KRILL
+    </Line>
+    <Line>
+      <!-- Airway G594-->
       BIXIT/
       RG VOR
+    </Line>
+    <Line>
       <!-- Airway B596-->
       PULOS/
       BIGAN/
