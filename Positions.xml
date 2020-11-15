@@ -144,8 +144,6 @@
       <Airport Name="NTTB"/>
       <Airport Name="NTTR"/>
       <Airport Name="NTTH"/>
-      <Airport Name="NTTG"/>
-      <Airport Name="NTTO"/>
     </ArrivalLists>
     <ControllerInfo>
       <Line>Tahiti Control</Line>
