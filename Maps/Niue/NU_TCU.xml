@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <Maps>
-  <Map Type="System" Name="TBU_TCU" Priority="1" Centre="-211430.700-1750825.590">
+  <Map Type="System" Name="NU_TCU" Priority="1" Centre="-211430.700-1750825.590">
     <!--NIUE-->
     <Runway Name="11/29">
       <Threshold Name="11" Position="-211404.050-1750939.250" />
@@ -27,8 +27,7 @@
       <Line>
       <!-- Airway A584-->
       DALDI/
-     NU VOR/
-     ISOBA
+     NU VOR
     </Line>
       <!-- Airway A212-->
       GUGET/
