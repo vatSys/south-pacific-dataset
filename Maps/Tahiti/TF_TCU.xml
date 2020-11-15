@@ -59,7 +59,7 @@
     <Line>
       <!-- Airway Q17-->
       PASTI/
-      RTNDB
+      RT NDB
     </Line>
     <Line>
       <!-- Airway Q18-->
@@ -102,7 +102,7 @@
     </Line>
       <Line>
       <!-- Airway G575 -->
-      RAN NDB/
+      RAN VOR/
       ORARE
     </Line>
     <Line>

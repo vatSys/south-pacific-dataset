@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <Maps>
-  <Map Type="System" Name="TF_RW22" Priority="1" Centre="-173324.000-1493641.000">
+  <Map Type="System" Name="TF_RWY22" Priority="1" Centre="-173324.000-1493641.000">
     <!--NTAA-->
     <Runway Name="04/22">
       <Threshold Name="04" Position="-173345.710-1493712.760" />
@@ -12,13 +12,15 @@
      <!-- Rwy 22 VAITE-->
      AA502/
      AA506/
-     AA503/
+     AA503/ 
      VAITE
     </Line>
+    <Line>
       <!-- Rwy 22 IKELO-->
       AA503/
       AA505/
       IKELO
+    </Line>
     <Line>
       <!-- Rwy 22 ONIDO-->
       AA506/
