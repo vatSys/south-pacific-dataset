@@ -58,18 +58,18 @@
       GOBIL/
       UGRAP/
       UPTUG/
-      BELTI
+      BETLI
     </Line>
     <Line>
       <!--TBU 29 EKEDI-->
       EKEDI/
       LEKIS/
-      BELTI
+      BETLI
     </Line>
     <Line>
       <!--TBU 29 DALDI-->
       DALDI/
-      BELTI
+      BETLI
     </Line>
     <Line>
       <!--TBU 29 AGEXO-->
@@ -97,7 +97,7 @@
       <!--TBU 29-->
       OLPER/
       DORNI/
-      BELTI
+      BETLI
     </Line>
 
     <Symbol Type="SolidTriangle">
@@ -114,7 +114,7 @@
       <Point>UGRAP</Point>
       <Point>UPTUG</Point>
       <Point>LEKIS</Point>
-      <Point>BELTI</Point>
+      <Point>BETLI</Point>
       <Point>DORNI</Point>
       <Point>IGEKO</Point>
       <Point>VIDUL</Point>
@@ -134,7 +134,7 @@
       <Point>UGRAP</Point>
       <Point>UPTUG</Point>
       <Point>LEKIS</Point>
-      <Point>BELTI</Point>
+      <Point>BETLI</Point>
       <Point>DORNI</Point>
       <Point>IGEKO</Point>
       <Point>VIDUL</Point>
