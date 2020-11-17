@@ -910,7 +910,7 @@
       PUNIX/
       PAKDA/
       RM NDB/
-      AKUMA/
+      AKUMO/
       BO NDB/
       VAVEE
     </Airway>
@@ -1493,6 +1493,7 @@
     <Point Name="D310K" Type="Fix">+195151.530-1550800.128</Point>
     <Point Name="D354P" Type="Fix">+195951.731-1560121.299</Point>
     <Point Name="DAFRE" Type="Fix">+192946.730-1573027.400</Point>
+    <Point Name="DAGDA" Type="Fix">-084921.990+1605019.961</Point>
     <Point Name="DARBB" Type="Fix">+194753.002-1562356.000</Point>
     <Point Name="DASNE" Type="Fix">+101216.999-1624729.000</Point>
     <Point Name="DATBE" Type="Fix">+174520.999-1593220.000</Point>
@@ -1633,6 +1634,7 @@
     <Point Name="LAGSE" Type="Fix">+074341.002+1670803.998</Point>
     <Point Name="LAVAS" Type="Fix">+202926.048-1562509.350</Point>
     <Point Name="LECWI" Type="Fix">+053836.668+1632151.480</Point>
+    <Point Name="LEDIM" Type="Fix">-083501.381+1593000.608</Point>
     <Point Name="LEKIY" Type="Fix">+063949.000+1653624.001</Point>
     <Point Name="LENIA" Type="Fix">+053547.000+1640517.002</Point>
     <Point Name="LICEP" Type="Fix">+200055.840-1553728.942</Point>
@@ -6203,6 +6205,7 @@
     <Point Name="IP" Type="Navaid" NavaidType="NDB" Frequency="332.000">-223524.000+1672703.899</Point>
     <Point Name="KO" Type="Navaid" NavaidType="NDB" Frequency="313.000">-203230.300+1641539.802</Point>
     <Point Name="KQ" Type="Navaid" NavaidType="NDB" Frequency="305.000">-210617.500+1645220.100</Point>
+    <Point Name="KT" Type="Navaid" NavaidType="NDB" Frequency="238.000">-350142.920+1731432.489</Point>
     <Point Name="LK" Type="Navaid" NavaidType="NDB" Frequency="391.000">-181218.000-1784847.999</Point>
     <Point Name="LOG" Type="Navaid" NavaidType="NDB" Frequency="242.000">-142113.500-1704456.198</Point>
     <Point Name="LU" Type="Navaid" NavaidType="NDB" Frequency="264.000">-204631.102+1671416.901</Point>
@@ -6256,6 +6259,7 @@
     <Point Name="HOI" Type="Navaid" NavaidType="VOR" Frequency="113.000">-131422.499-1761206.599</Point>
     <Point Name="ITA" Type="Navaid" NavaidType="VOR" Frequency="109.500">-744129.170+1640614.209</Point>
     <Point Name="IPA" Type="Navaid" NavaidType="VOR" Frequency="117.100">-270950.000-1092420.999</Point>
+    <Point Name="KT" Type="Navaid" NavaidType="VOR" Frequency="115.800">-350145.790+1731428.201</Point>
     <Point Name="LB" Type="Navaid" NavaidType="VOR" Frequency="115.100">-162505.999+1791852.999</Point>
     <Point Name="LFU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-204627.098+1671426.002</Point>
     <Point Name="LTO" Type="Navaid" NavaidType="VOR" Frequency="112.900">-220019.598+1661242.001</Point>

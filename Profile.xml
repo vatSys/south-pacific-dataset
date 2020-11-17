@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Profile Name="South Pacific" FullName="Eurocat South Pacific (NFFF/NTTT/NZZO/NZCM)">
-  <Version AIRAC="2012" Revision="a" PublishDate="20201115" UpdateURL="https://vatsys.sawbe.com/downloads/data/South%20Pacific"/>
+  <Version AIRAC="2012" Revision="a" PublishDate="20201115" UpdateURL="http://vatsys.sawbe.com/downloads/data/south-pacific"/>
   <Servers>
     <VATSIMStatus url="http://status.vatsim.net/"/>
     <GRIB url="http://sawbe.com/GRIB/"/>
