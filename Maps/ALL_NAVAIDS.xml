@@ -3,239 +3,243 @@
 <Maps>
     <Map Type="System" Name="ALL_NAVAIDS_NAMES" Priority="0" Center="-25.0-175.0">
       <Label HasLeader="true">
-        <Point Name="AA" >-173937.000-1452927.200</Point>
-        <Point Name="AA" >+003000.000+1735160.000</Point>
-        <Point Name="AI" >-181130.720-1591435.641</Point>
-        <Point Name="AN" >-091551.299-1396055.601</Point>
-        <Point Name="AT" >-206048.001-1585435.999</Point>
-        <Point Name="AV" >-230756.002-1472006.698</Point>
-        <Point Name="BA" >-171826.921+1681606.679</Point>
-        <Point Name="BB" >-163320.498-1511543.300</Point>
-        <Point Name="BL" >-191740.300+1634048.100</Point>
-        <Point Name="BO" >+012346.999+1730944.999</Point>
-        <Point Name="BSF" >+194648.082-1552420.318</Point>
-        <Point Name="CI" >-430334.721-1762601.169</Point>
-        <Point Name="FA" >-172749.240-1492310.298</Point>
-        <Point Name="FA" >-131025.478-1725956.579</Point>
-        <Point Name="FK" >-165745.802-1452144.599</Point>
-        <Point Name="FM" >-214500.601-1755119.001</Point>
-        <Point Name="FN" >-151144.299-1400749.900</Point>
-        <Point Name="FN" >-144119.100-1785649.901</Point>
-        <Point Name="FND" >-226059.100+1661115.400</Point>
-        <Point Name="FU" >-082931.001+1791252.001</Point>
-        <Point Name="GB" >-101734.000+1654750.999</Point>
-        <Point Name="HAO" >-185505.002-1400434.402</Point>
-        <Point Name="HH" >-161937.400-1515822.699</Point>
-        <Point Name="HK" >-421614.380+1705722.388</Point>
-        <Point Name="HL" >-214428.000+1653741.000</Point>
-        <Point Name="HN" >-093533.280+1600316.740</Point>
-        <Point Name="HO" >-134634.200-1764809.202</Point>
-        <Point Name="HV" >-091445.199-1395910.399</Point>
-        <Point Name="IP" >-222536.000+1672703.899</Point>
-        <Point Name="KO" >-202729.700+1641639.802</Point>
-        <Point Name="KQ" >-215442.500+1645220.100</Point>
-        <Point Name="LK" >-184842.000-1781112.001</Point>
-        <Point Name="LOG" >-143946.500-1701503.802</Point>
-        <Point Name="LU" >-201328.898+1671416.901</Point>
-        <Point Name="MA" >-163419.898-1524527.601</Point>
-        <Point Name="MAJ" >+070455.040+1711606.881</Point>
-        <Point Name="MD" >-223119.200+1662802.201</Point>
-        <Point Name="MG" >-235418.799-1340728.700</Point>
-        <Point Name="MG" >-224448.400+1662823.099</Point>
-        <Point Name="MH" >-143401.301-1465616.300</Point>
-        <Point Name="MH" >-103713.199-1616051.000</Point>
-        <Point Name="MI" >-170601.001+1772032.002</Point>
-        <Point Name="MK" >-162543.898-1432141.100</Point>
-        <Point Name="MO" >-173123.200-1491329.302</Point>
-        <Point Name="MR" >-213106.200+1680208.902</Point>
-        <Point Name="MT" >-161942.300-1790711.302</Point>
-        <Point Name="NA" >-185708.201+1783431.900</Point>
-        <Point Name="NDJ" >+084315.179+1674439.990</Point>
-        <Point Name="NF" >-296033.922+1675515.038</Point>
-        <Point Name="NH" >-081220.002-1404747.399</Point>
-        <Point Name="NI" >-002727.281+1665504.469</Point>
-        <Point Name="NO" >-185907.001+1782804.001</Point>
-        <Point Name="NP" >-144927.401-1414404.700</Point>
-        <Point Name="NU" >-195631.019-1690505.050</Point>
-        <Point Name="NW" >-210444.100+1660532.300</Point>
-        <Point Name="OA" >-202128.300+1663419.402</Point>
-        <Point Name="OA" >-140338.699-1472022.402</Point>
-        <Point Name="OI" >-202148.001-1781529.999</Point>
-        <Point Name="PY" >-080021.010-1585722.169</Point>
-        <Point Name="RE" >-183210.601-1363320.902</Point>
-        <Point Name="RG" >-214832.899-1591142.352</Point>
-        <Point Name="RM" >-123106.398+1770417.900</Point>
-        <Point Name="RT" >-223402.399-1513852.201</Point>
-        <Point Name="RU" >-161742.899-1513200.301</Point>
-        <Point Name="SON" >-153037.709+1671359.620</Point>
-        <Point Name="TB" >-233846.999-1492818.098</Point>
-        <Point Name="TH" >-201334.999+1651520.200</Point>
-        <Point Name="TP" >-141728.702-1454510.300</Point>
-        <Point Name="TUT" >-144004.300-1701749.760</Point>
-        <Point Name="TV" >-182551.998-1730249.001</Point>
-        <Point Name="VK" >-171355.001+1772510.200</Point>
-        <Point Name="WG" >-193219.680+1691328.628</Point>
-        <Point Name="XI" >+015959.819-1573942.911</Point>
-        <Point Name="AA" >-376043.300+1744949.100</Point>
-        <Point Name="CH" >-433045.200+1723152.700</Point>
-        <Point Name="CI" >-430334.721-1762601.169</Point>
-        <Point Name="FA" >-131016.500-1710025.409</Point>
-        <Point Name="FU" >-082931.519+1791251.079</Point>
-        <Point Name="HHN" >-161952.301-1515922.099</Point>
-        <Point Name="HN" >-093453.521+1600214.201</Point>
-        <Point Name="HNL" >+211829.909-1570410.481</Point>
-        <Point Name="HOI" >-134637.501-1764853.401</Point>
-        <Point Name="ITA" >-741930.830+1640614.209</Point>
-        <Point Name="IPA" >-275010.000-1093639.001</Point>
-        <Point Name="LB" >-163554.001+1791952.999</Point>
-        <Point Name="LFU" >-201432.902+1671426.002</Point>
-        <Point Name="LTO" >-226040.402+1661342.001</Point>
-        <Point Name="MAJ" >+070455.289+1711607.810</Point>
-        <Point Name="MGA" >-224104.600+1662823.401</Point>
-        <Point Name="NA" >-185727.698+1783442.998</Point>
-        <Point Name="NF" >-295709.562+1675655.762</Point>
-        <Point Name="NI" >-002722.370+1665514.722</Point>
-        <Point Name="NN" >-172143.001+1772444.999</Point>
-        <Point Name="NU" >-195633.319-1690502.760</Point>
-        <Point Name="NV" >-463518.380+1681903.389</Point>
-        <Point Name="OH" >-404725.400+1752431.099</Point>
-        <Point Name="QN" >-440157.190+1684757.529</Point>
-        <Point Name="RAN" >-140358.499-1472035.000</Point>
-        <Point Name="RG" >-214854.449-1591108.210</Point>
-        <Point Name="RO" >-385431.020+1761950.090</Point>
-        <Point Name="SON" >-153036.172+1671301.628</Point>
-        <Point Name="SW" >-451219.732+1702937.898</Point>
-        <Point Name="TA" >+012359.700+1730946.601</Point>
-        <Point Name="TAF" >-172710.372-1492454.571</Point>
-        <Point Name="TBU" >-214520.999-1755105.080</Point>
-        <Point Name="TUT" >-144002.680-1701830.199</Point>
-        <Point Name="VLI" >-172016.300+1681538.159</Point>
-        <Point Name="WN" >-414045.979+1744901.060</Point>
-        <Point Name="WP" >-361347.542+1743852.410</Point>
-        <Point Name="WR" >-351443.201+1742242.901</Point>
-        <Point Name="ZFX" >-770310.670+1664549.240</Point>
-        <Point Name="ZWD" >-770738.020+1670651.990</Point>
-        <Point Name="ZIR" >-775114.400+1662808.400</Point>
-        <Point Name="ZPG" >-775717.640+1663046.800</Point>
+        <Point Name="AA">-172123.000-1453032.800</Point>
+        <Point Name="AA">+003000.000+1735060.000</Point>
+        <Point Name="AI">-184929.280-1594624.359</Point>
+        <Point Name="AN">-094508.701-1390004.399</Point>
+        <Point Name="AT">-200011.999-1580624.001</Point>
+        <Point Name="AV">-235303.998-1473953.302</Point>
+        <Point Name="BA">-174133.079+1681606.679</Point>
+        <Point Name="BB">-162639.502-1514516.700</Point>
+        <Point Name="BL"> -194319.700+1633948.100</Point>
+        <Point Name="BO">+012246.999+1730844.999</Point>
+        <Point Name="BSF">+194548.082-1553539.682</Point>
+        <Point Name="CI">-435725.279-1763358.831</Point>
+        <Point Name="FA">-173310.760-1493649.702</Point>
+        <Point Name="FA">-134934.522-1720103.421</Point>
+        <Point Name="FK">-160314.198-1453915.401</Point>
+        <Point Name="FM">-211459.399-1750840.999</Point>
+        <Point Name="FN">-154915.701-1405310.100</Point>
+        <Point Name="FN">-141840.900-1780410.099</Point>
+        <Point Name="FND">-220000.900+1661115.400</Point>
+        <Point Name="FU">-083128.999+1791152.001</Point>
+        <Point Name="GB">-104326.000+1654650.999</Point>
+        <Point Name="HAO">-180454.998-1405625.598</Point>
+        <Point Name="HH">-164122.600-1510137.301</Point>
+        <Point Name="HK">-424345.620+1705722.388</Point>
+        <Point Name="HL">-211532.000+1653641.000</Point>
+        <Point Name="HN">-092526.720+1600316.740</Point>
+        <Point Name="HO">-131425.800-1761150.798</Point>
+        <Point Name="HV">-094614.801-1390049.601</Point>
+        <Point Name="IP">-223524.000+1672703.899</Point>
+        <Point Name="KO">-203230.300+1641539.802</Point>
+        <Point Name="KQ">-210617.500+1645220.100</Point>
+        <Point Name="KT" >-350142.920+1731432.489</Point>
+        <Point Name="KT">-350145.790+1731428.201</Point>
+        <Point Name="LK">-181218.000-1784847.999</Point>
+        <Point Name="LOG">-142113.500-1704456.198</Point>
+        <Point Name="LU">-204631.102+1671416.901</Point>
+        <Point Name="MA">-162540.102-1521432.399</Point>
+        <Point Name="MAJ">+070355.040+1711606.881</Point>
+        <Point Name="MD">-222840.800+1662802.201</Point>
+        <Point Name="MG">-230541.201-1345231.300</Point>
+        <Point Name="MG">-221611.600+1662823.099</Point>
+        <Point Name="MH">-142558.699-1460343.700</Point>
+        <Point Name="MH">-102246.801-1610009.000</Point>
+        <Point Name="MI">-175358.999+1771932.002</Point>
+        <Point Name="MK">-163516.102-1433918.900</Point>
+        <Point Name="MO">-172836.800-1494630.698</Point>
+        <Point Name="MR">-212853.800+1680208.902</Point>
+        <Point Name="MT">-164117.700-1795248.698</Point>
+        <Point Name="NA">-180251.799+1783331.900</Point>
+        <Point Name="NDJ">+084315.179+1674339.990</Point>
+        <Point Name="NF">-290026.078+1675515.038</Point>
+        <Point Name="NH">-084739.998-1401312.601</Point>
+        <Point Name="NI">-003232.719+1665504.469</Point>
+        <Point Name="NO">-180052.999+1782804.001</Point>
+        <Point Name="NP">-141032.599-1411555.300</Point>
+        <Point Name="NU">-190428.981-1695454.950</Point>
+        <Point Name="NW">-215615.900+1660432.300</Point>
+        <Point Name="OA">-203831.700+1663419.402</Point>
+        <Point Name="OA">-145721.301-1473937.598</Point>
+        <Point Name="OI">-203911.999-1784430.001</Point>
+        <Point Name="PY">-085938.990-1580237.831</Point>
+        <Point Name="RE">-182749.399-1362639.098</Point>
+        <Point Name="RG">-211227.101-1594917.648</Point>
+        <Point Name="RM">-122853.602+1770417.900</Point>
+        <Point Name="RT" >-222557.601-1512207.799</Point>
+        <Point Name="RU">-164317.101-1512759.699</Point>
+        <Point Name="SON">-153022.291+1671259.620</Point>
+        <Point Name="TB">-232213.001-1493141.902</Point>
+        <Point Name="TH">-204725.001+1651520.200</Point>
+        <Point Name="TP">-144231.298-1451449.700</Point>
+        <Point Name="TUT">-141955.700-1704310.240</Point>
+        <Point Name="TV">-183508.002-1735810.999</Point>
+        <Point Name="VK">-174704.999+1772510.200</Point>
+        <Point Name="WG">-192740.320+1691328.628</Point>
+        <Point Name="XI">+015859.819-1572117.089</Point>
+        <Point Name="AA">-370016.700+1744849.100</Point>
+        <Point Name="CH">-433014.800+1723052.700</Point>
+        <Point Name="CI">-435725.279-1763358.831</Point>
+        <Point Name="FA">-134943.500-1715934.591</Point>
+        <Point Name="FU">-083128.481+1791151.079</Point>
+        <Point Name="HHN">-164107.699-1510037.901</Point>
+        <Point Name="HN">-092606.479+1600214.201</Point>
+        <Point Name="HNL">+211829.909-1575549.519</Point>
+        <Point Name="HOI">-131422.499-1761206.599</Point>
+        <Point Name="ITA">-744129.170+1640614.209</Point>
+        <Point Name="IPA">-270950.000-1092420.999</Point>
+        <Point Name="LB">-162505.999+1791852.999</Point>
+        <Point Name="LFU">-204627.098+1671426.002</Point>
+        <Point Name="LTO">-220019.598+1661242.001</Point>
+        <Point Name="MAJ">+070355.289+1711607.810</Point>
+        <Point Name="MGA">-221855.400+1662823.401</Point>
+        <Point Name="NA">-180232.302+1783342.998</Point>
+        <Point Name="NF">-290250.438+1675555.762</Point>
+        <Point Name="NI">-003237.630+1665514.722</Point>
+        <Point Name="NN">-173916.999+1772344.999</Point>
+        <Point Name="NU">-190426.681-1695457.240</Point>
+        <Point Name="NV">-462441.620+1681903.389</Point>
+        <Point Name="OH">-401234.600+1752331.099</Point>
+        <Point Name="QN">-445902.810+1684657.529</Point>
+        <Point Name="RAN">-145701.501-1474025.000</Point>
+        <Point Name="RG">-211205.551-1594851.790</Point>
+        <Point Name="RO">-380628.980+1761850.090</Point>
+        <Point Name="SON">-153023.828+1671301.628</Point>
+        <Point Name="SW">-454740.268+1702837.898</Point>
+        <Point Name="TA">+012259.700+1730846.601</Point>
+        <Point Name="TAF">-173249.628-1493605.429</Point>
+        <Point Name="TBU">-211439.001-1750854.920</Point>
+        <Point Name="TUT">-141957.320-1704229.801</Point>
+        <Point Name="VLI">-173943.700+1681438.159</Point>
+        <Point Name="WN">-412014.021+1744901.060</Point>
+        <Point Name="WP">-364712.458+1743752.410</Point>
+        <Point Name="WR">-354616.799+1742142.901</Point>
+        <Point Name="ZFX">-775649.330+1664449.240</Point>
+        <Point Name="ZWD">-775321.980+1670551.990</Point>
+        <Point Name="ZIR">-775114.400+1662808.400</Point>
+        <Point Name="ZPG">-775717.640+1663046.800</Point>
       </Label>
     </Map>
     
     <Map Type="System" Name="ALL_NAVAIDS" Priority="0" Center="-25.0-175.0">
       <Symbol Type="DotFillCircle">
-        <Point>-173937.000-1452927.200</Point>
-        <Point>+003000.000+1735160.000</Point>
-        <Point>-181130.720-1591435.641</Point>
-        <Point>-091551.299-1396055.601</Point>
-        <Point>-206048.001-1585435.999</Point>
-        <Point>-230756.002-1472006.698</Point>
-        <Point>-171826.921+1681606.679</Point>
-        <Point>-163320.498-1511543.300</Point>
-        <Point>-191740.300+1634048.100</Point>
-        <Point>+012346.999+1730944.999</Point>
-        <Point>+194648.082-1552420.318</Point>
-        <Point>-430334.721-1762601.169</Point>
-        <Point>-172749.240-1492310.298</Point>
-        <Point>-131025.478-1725956.579</Point>
-        <Point>-165745.802-1452144.599</Point>
-        <Point>-214500.601-1755119.001</Point>
-        <Point>-151144.299-1400749.900</Point>
-        <Point>-144119.100-1785649.901</Point>
-        <Point>-226059.100+1661115.400</Point>
-        <Point>-082931.001+1791252.001</Point>
-        <Point>-101734.000+1654750.999</Point>
-        <Point>-185505.002-1400434.402</Point>
-        <Point>-161937.400-1515822.699</Point>
-        <Point>-421614.380+1705722.388</Point>
-        <Point>-214428.000+1653741.000</Point>
-        <Point>-093533.280+1600316.740</Point>
-        <Point>-134634.200-1764809.202</Point>
-        <Point>-091445.199-1395910.399</Point>
-        <Point>-222536.000+1672703.899</Point>
-        <Point>-202729.700+1641639.802</Point>
-        <Point>-215442.500+1645220.100</Point>
-        <Point>-184842.000-1781112.001</Point>
-        <Point>-143946.500-1701503.802</Point>
-        <Point>-201328.898+1671416.901</Point>
-        <Point>-163419.898-1524527.601</Point>
-        <Point>+070455.040+1711606.881</Point>
-        <Point>-223119.200+1662802.201</Point>
-        <Point>-235418.799-1340728.700</Point>
-        <Point>-224448.400+1662823.099</Point>
-        <Point>-143401.301-1465616.300</Point>
-        <Point>-103713.199-1616051.000</Point>
-        <Point>-170601.001+1772032.002</Point>
-        <Point>-162543.898-1432141.100</Point>
-        <Point>-173123.200-1491329.302</Point>
-        <Point>-213106.200+1680208.902</Point>
-        <Point>-161942.300-1790711.302</Point>
-        <Point>-185708.201+1783431.900</Point>
-        <Point>+084315.179+1674439.990</Point>
-        <Point>-296033.922+1675515.038</Point>
-        <Point>-081220.002-1404747.399</Point>
-        <Point>-002727.281+1665504.469</Point>
-        <Point>-185907.001+1782804.001</Point>
-        <Point>-144927.401-1414404.700</Point>
-        <Point>-195631.019-1690505.050</Point>
-        <Point>-210444.100+1660532.300</Point>
-        <Point>-202128.300+1663419.402</Point>
-        <Point>-140338.699-1472022.402</Point>
-        <Point>-202148.001-1781529.999</Point>
-        <Point>-080021.010-1585722.169</Point>
-        <Point>-183210.601-1363320.902</Point>
-        <Point>-214832.899-1591142.352</Point>
-        <Point>-123106.398+1770417.900</Point>
-        <Point>-223402.399-1513852.201</Point>
-        <Point>-161742.899-1513200.301</Point>
-        <Point>-153037.709+1671359.620</Point>
-        <Point>-233846.999-1492818.098</Point>
-        <Point>-201334.999+1651520.200</Point>
-        <Point>-141728.702-1454510.300</Point>
-        <Point>-144004.300-1701749.760</Point>
-        <Point>-182551.998-1730249.001</Point>
-        <Point>-171355.001+1772510.200</Point>
-        <Point>-193219.680+1691328.628</Point>
-        <Point>+015959.819-1573942.911</Point>
+        <Point>-172123.000-1453032.800</Point>
+        <Point>+003000.000+1735060.000</Point>
+        <Point>-184929.280-1594624.359</Point>
+        <Point>-094508.701-1390004.399</Point>
+        <Point>-200011.999-1580624.001</Point>
+        <Point>-235303.998-1473953.302</Point>
+        <Point>-174133.079+1681606.679</Point>
+        <Point>-162639.502-1514516.700</Point>
+        <Point> -194319.700+1633948.100</Point>
+        <Point>+012246.999+1730844.999</Point>
+        <Point>+194548.082-1553539.682</Point>
+        <Point>-435725.279-1763358.831</Point>
+        <Point>-173310.760-1493649.702</Point>
+        <Point>-134934.522-1720103.421</Point>
+        <Point>-160314.198-1453915.401</Point>
+        <Point>-211459.399-1750840.999</Point>
+        <Point>-154915.701-1405310.100</Point>
+        <Point>-141840.900-1780410.099</Point>
+        <Point>-220000.900+1661115.400</Point>
+        <Point>-083128.999+1791152.001</Point>
+        <Point>-104326.000+1654650.999</Point>
+        <Point>-180454.998-1405625.598</Point>
+        <Point>-164122.600-1510137.301</Point>
+        <Point>-424345.620+1705722.388</Point>
+        <Point>-211532.000+1653641.000</Point>
+        <Point>-092526.720+1600316.740</Point>
+        <Point>-131425.800-1761150.798</Point>
+        <Point>-094614.801-1390049.601</Point>
+        <Point>-223524.000+1672703.899</Point>
+        <Point>-203230.300+1641539.802</Point>
+        <Point>-210617.500+1645220.100</Point>
+        <Point>-350142.920+1731432.489</Point>
+        <Point>-181218.000-1784847.999</Point>
+        <Point>-142113.500-1704456.198</Point>
+        <Point>-204631.102+1671416.901</Point>
+        <Point>-162540.102-1521432.399</Point>
+        <Point>+070355.040+1711606.881</Point>
+        <Point>-222840.800+1662802.201</Point>
+        <Point>-230541.201-1345231.300</Point>
+        <Point>-221611.600+1662823.099</Point>
+        <Point>-142558.699-1460343.700</Point>
+        <Point>-102246.801-1610009.000</Point>
+        <Point>-175358.999+1771932.002</Point>
+        <Point>-163516.102-1433918.900</Point>
+        <Point>-172836.800-1494630.698</Point>
+        <Point>-212853.800+1680208.902</Point>
+        <Point>-164117.700-1795248.698</Point>
+        <Point>-180251.799+1783331.900</Point>
+        <Point>+084315.179+1674339.990</Point>
+        <Point>-290026.078+1675515.038</Point>
+        <Point>-084739.998-1401312.601</Point>
+        <Point>-003232.719+1665504.469</Point>
+        <Point>-180052.999+1782804.001</Point>
+        <Point>-141032.599-1411555.300</Point>
+        <Point>-190428.981-1695454.950</Point>
+        <Point>-215615.900+1660432.300</Point>
+        <Point>-203831.700+1663419.402</Point>
+        <Point>-145721.301-1473937.598</Point>
+        <Point>-203911.999-1784430.001</Point>
+        <Point>-085938.990-1580237.831</Point>
+        <Point>-182749.399-1362639.098</Point>
+        <Point>-211227.101-1594917.648</Point>
+        <Point>-122853.602+1770417.900</Point>
+        <Point >-222557.601-1512207.799</Point>
+        <Point>-164317.101-1512759.699</Point>
+        <Point>-153022.291+1671259.620</Point>
+        <Point>-232213.001-1493141.902</Point>
+        <Point>-204725.001+1651520.200</Point>
+        <Point>-144231.298-1451449.700</Point>
+        <Point>-141955.700-1704310.240</Point>
+        <Point>-183508.002-1735810.999</Point>
+        <Point>-174704.999+1772510.200</Point>
+        <Point>-192740.320+1691328.628</Point>
+        <Point>+015859.819-1572117.089</Point>
       </Symbol>
       <Symbol Type="Hexagon">
-        <Point>-376043.300+1744949.100</Point>
-        <Point>-433045.200+1723152.700</Point>
-        <Point>-430334.721-1762601.169</Point>
-        <Point>-131016.500-1710025.409</Point>
-        <Point>-082931.519+1791251.079</Point>
-        <Point>-161952.301-1515922.099</Point>
-        <Point>-093453.521+1600214.201</Point>
-        <Point>+211829.909-1570410.481</Point>
-        <Point>-134637.501-1764853.401</Point>
-        <Point>-741930.830+1640614.209</Point>
-        <Point>-275010.000-1093639.001</Point>
-        <Point>-163554.001+1791952.999</Point>
-        <Point>-201432.902+1671426.002</Point>
-        <Point>-226040.402+1661342.001</Point>
-        <Point>+070455.289+1711607.810</Point>
-        <Point>-224104.600+1662823.401</Point>
-        <Point>-185727.698+1783442.998</Point>
-        <Point>-295709.562+1675655.762</Point>
-        <Point>-002722.370+1665514.722</Point>
-        <Point>-172143.001+1772444.999</Point>
-        <Point>-195633.319-1690502.760</Point>
-        <Point>-463518.380+1681903.389</Point>
-        <Point>-404725.400+1752431.099</Point>
-        <Point>-440157.190+1684757.529</Point>
-        <Point>-140358.499-1472035.000</Point>
-        <Point>-214854.449-1591108.210</Point>
-        <Point>-385431.020+1761950.090</Point>
-        <Point>-153036.172+1671301.628</Point>
-        <Point>-451219.732+1702937.898</Point>
-        <Point>+012359.700+1730946.601</Point>
-        <Point>-172710.372-1492454.571</Point>
-        <Point>-214520.999-1755105.080</Point>
-        <Point>-144002.680-1701830.199</Point>
-        <Point>-172016.300+1681538.159</Point>
-        <Point>-414045.979+1744901.060</Point>
-        <Point>-361347.542+1743852.410</Point>
-        <Point>-351443.201+1742242.901</Point>
-        <Point>-770310.670+1664549.240</Point>
-        <Point>-770738.020+1670651.990</Point>
+        <Point>-370016.700+1744849.100</Point>
+        <Point>-433014.800+1723052.700</Point>
+        <Point>-435725.279-1763358.831</Point>
+        <Point>-134943.500-1715934.591</Point>
+        <Point>-083128.481+1791151.079</Point>
+        <Point>-164107.699-1510037.901</Point>
+        <Point>-092606.479+1600214.201</Point>
+        <Point>+211829.909-1575549.519</Point>
+        <Point>-131422.499-1761206.599</Point>
+        <Point>-744129.170+1640614.209</Point>
+        <Point>-270950.000-1092420.999</Point>
+        <Point>-350145.790+1731428.201</Point>
+        <Point>-162505.999+1791852.999</Point>
+        <Point>-204627.098+1671426.002</Point>
+        <Point>-220019.598+1661242.001</Point>
+        <Point>+070355.289+1711607.810</Point>
+        <Point>-221855.400+1662823.401</Point>
+        <Point>-180232.302+1783342.998</Point>
+        <Point>-290250.438+1675555.762</Point>
+        <Point>-003237.630+1665514.722</Point>
+        <Point>-173916.999+1772344.999</Point>
+        <Point>-190426.681-1695457.240</Point>
+        <Point>-462441.620+1681903.389</Point>
+        <Point>-401234.600+1752331.099</Point>
+        <Point>-445902.810+1684657.529</Point>
+        <Point>-145701.501-1474025.000</Point>
+        <Point>-211205.551-1594851.790</Point>
+        <Point>-380628.980+1761850.090</Point>
+        <Point>-153023.828+1671301.628</Point>
+        <Point>-454740.268+1702837.898</Point>
+        <Point>+012259.700+1730846.601</Point>
+        <Point>-173249.628-1493605.429</Point>
+        <Point>-211439.001-1750854.920</Point>
+        <Point>-141957.320-1704229.801</Point>
+        <Point>-173943.700+1681438.159</Point>
+        <Point>-412014.021+1744901.060</Point>
+        <Point>-364712.458+1743752.410</Point>
+        <Point>-354616.799+1742142.901</Point>
+        <Point>-775649.330+1664449.240</Point>
+        <Point>-775321.980+1670551.990</Point>
         <Point>-775114.400+1662808.400</Point>
         <Point>-775717.640+1663046.800</Point>
       </Symbol>
