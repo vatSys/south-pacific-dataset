@@ -1,26 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Sector FullName="Tasman Oceanic" Frequency="128.600" Callsign="BN-TSN_FSS" Name="TSN">
-    <Volumes>TSN</Volumes>
-  </Sector>
-  <Sector FullName="Lord Howe Oceanic" Frequency="124.600" Callsign="BN-HWE_FSS" Name="HWE">
-    <Volumes>HWE</Volumes>
-  </Sector>
-  <Sector FullName="Flinders Oceanic" Frequency="129.500" Callsign="BN-FLD_FSS" Name="FLD">
-    <Volumes>FLD</Volumes>
-  </Sector>
-  <Sector FullName="Coral Oceanic" Frequency="129.600" Callsign="BN-COL_FSS" Name="COL">
-    <Volumes>COL</Volumes>
-  </Sector>
-  <Sector FullName="Indian Oceanic" Frequency="122.400" Callsign="ML-IND_FSS" Name="IND">
 
-  </Sector>
-  <Sector FullName="Indian South Oceanic" Frequency="123.200" Callsign="ML-INS_FSS" Name="INS">
 
-  </Sector>
-  <Sector FullName="Indian East Oceanic" Frequency="123.650" Callsign="ML-INE_FSS" Name="INE">
-
-  </Sector>
   <Sector FullName="Auckland Oceanic" Frequency="128.900" Callsign="NZZO_FSS" Name="NZZO">
     <Volumes>NZZO</Volumes>
   </Sector>
@@ -99,6 +80,15 @@
   <Sector FullName="Pago Pago Tower" Frequency="122.900" Callsign="NSTU_TWR" Name="TUT ADC">
     <Volumes>NSTU_CTZ</Volumes>
   </Sector>
+  
+  <!-- Sectors for handoff -->
+    <Sector FullName="Tasman Oceanic" Frequency="128.600" Callsign="BN-TSN_FSS" Name="TSN"/>
+  <Sector FullName="Lord Howe Oceanic" Frequency="124.600" Callsign="BN-HWE_FSS" Name="HWE"/>
+  <Sector FullName="Flinders Oceanic" Frequency="129.500" Callsign="BN-FLD_FSS" Name="FLD"/>
+  <Sector FullName="Coral Oceanic" Frequency="129.600" Callsign="BN-COL_FSS" Name="COL"/>
+  <Sector FullName="Indian Oceanic" Frequency="122.400" Callsign="ML-IND_FSS" Name="IND"/>
+  <Sector FullName="Indian South Oceanic" Frequency="123.200" Callsign="ML-INS_FSS" Name="INS"/>
+  <Sector FullName="Indian East Oceanic" Frequency="123.650" Callsign="ML-INE_FSS" Name="INE"/>
   <Sector Fullname="Kauai Center" Frequency="126.500" Callsign="HNL_02_CTR" Name="HNLK"/>
   <Sector Fullname="Molokai Center" Frequency="124.100" Callsign="HNL_03_CTR" Name="HNLM"/>
   <Sector Fullname="Lanai Center" Frequency="119.300" Callsign="HNL_04_CTR" Name="HNLL"/>
