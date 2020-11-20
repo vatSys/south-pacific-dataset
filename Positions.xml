@@ -179,7 +179,7 @@
       <Line>ATIS available on 128.8</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="NTAA" Type="ASMGCS" ASMGCSAirport="NTAA" DefaultCenter="-37.673-144.843" DefaultRange="3" MagneticVariation="-13" Rotation="-70">
+  <Position Name="NTAA" Type="ASMGCS" ASMGCSAirport="NTAA" DefaultCenter="-173324.000-1493625.000" DefaultRange="3" MagneticVariation="-13" Rotation="+49">
     <Maps>
       <Map Name="Tahiti/ASMGCS_NTAA_RWY"/>
       <Map Name="Tahiti/ASMGCS_NTAA_TWY"/>
