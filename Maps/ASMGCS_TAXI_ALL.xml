@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="ASMGCS_TAXI_ALL" Priority="0" Center="-2380.8+13390.1">
+    <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+     <Point Name="S">-173326.250-1493639.150</Point>
+     <Point Name="N">-173322.000-1493643.000</Point>
+     <Point Name="W">-173326.000-1493648.000</Point>
+      <Point Name="G">-173320.800-1493633.300</Point>
+     <Point Name="L">-173323.200-1493634.500</Point>
+     <Point Name="H">-173317.600-1493629.000</Point>
+      <Point Name="Mil">-173344.000-1493654.000</Point>
+      <Point Name="Sud">-173333.500-1493641.250</Point>
+      <Point Name="Nord">-173318.000-1493649.000</Point>
+     <Point Name="Golf">-173325.200-1493629.800</Point>
+    </Label>
+  </Map>
+</Maps>
