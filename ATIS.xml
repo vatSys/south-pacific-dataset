@@ -14,26 +14,25 @@
     <Frequency Airport="NFTF" Frequency="121.9"/>
     <Frequency Airport="NFTV" Frequency="127.0"/>
     <Frequency Airport="NIUE" Frequency="127.5"/>
-    <Frequency Airport="NZWD" Frequency="122.6"/> 
+   <Frequency Airport="NZWD" Frequency="122.6"/> 
     
 
   </Frequencies>
   <Translations>
    <Translation String="NTAA" Spoken="Tahiti"/>
    <Translation String="NTTB" Spoken="Bora"/>
-   <Translation String="NTTR" Spoken="Raietea"/>
-   <Translation String="NTTH" Spoken="Huahine"/>
-   <Translation String="NTTG" Spoken="Rangiaroa"/>
-   <Translation String="NTTO" Spoken="Hao"/>
-   <Translation String="NTTM" Spoken="Moorea"/>
+    <Translation String="NTTR" Spoken="Raietea"/>
+    <Translation String="NTTH" Spoken="Huahine"/>
+    <Translation String="NTTG" Spoken="Rangiaroa"/>
+    <Translation String="NTTO" Spoken="Hao"/>
+    <Translation String="NTTM" Spoken="Moorea"/>
    <Translation String="NCRG" Spoken="Rarotonga"/>
    <Translation String="NSFA" Spoken="Faleolo"/>
    <Translation String="NSTU" Spoken="Pango Pango"/>
    <Translation String="NFTF" Spoken="Fua Amotu"/>
-   <Translation String="NFTV" Spoken="Vav au"/>
+   <Translation String="NFTV" Spoken="Vav 'au"/>
    <Translation String="NIUE" Spoken="Nooay"/>
    <Translation String="NZWD" Spoken="Williams"/>
-   
 
 
     <Translation String="ATIS" Spoken="terminal information"/>

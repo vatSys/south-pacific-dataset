@@ -1,16 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Maps>
-    <Map Type="System2" Name="UPPER_SECTOR_FREQS" Priority="1">
-      <Label HasLeader="false">
-        <Point Name="125.5">-100000.0-1400000.0</Point>
-        <Point Name="128.9">-140000.0-1650000.0</Point>
-        <Point Name="128.9">-350000.0+1670000.0</Point>
-        <Point Name="123.6">-150000.0+1740000.0</Point>
-        <Point Name="128.7">-600000.0+1710000.0</Point>
-        <Point Name="129.6">-190000.0+1580000.0</Point>
-        <Point Name="124.6">-320000.0+1610000.0</Point>
-        <Point Name="129.5">-380000.0+1610000.0</Point>
-        <Point Name="128.6">-310000.0+1550000.0</Point>
-      </Label>
-    </Map>
+  <Map Type="System2" Name="UPPER_SECTOR_FREQS" Priority="1">
+    <Label HasLeader="false">
+      <Point Name="125.5">-050000.0-1400000.0</Point>
+      <Point Name="125.5">-233000.0-1443000.0</Point>
+      <Point Name="129.0">-140000.0-1650000.0</Point>
+      <Point Name="129.0">-350000.0+1670000.0</Point>
+      <Point Name="123.6">-123000.0+1710000.0</Point>
+      <Point Name="123.6">-230000.0+1740000.0</Point>
+      <Point Name="128.7">-550000.0+1660000.0</Point>
+      <Point Name="129.6">-190000.0+1580000.0</Point>
+      <Point Name="124.6">-320000.0+1610000.0</Point>
+      <Point Name="129.5">-380000.0+1610000.0</Point>
+      <Point Name="128.6">-310000.0+1550000.0</Point>
+    </Label>
+  </Map>
 </Maps>

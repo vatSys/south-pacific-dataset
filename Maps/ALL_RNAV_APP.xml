@@ -354,6 +354,25 @@
       <Point>AF26N</Point>
       <Point>AF26S</Point>
       <Point>FF26</Point>
+      <Point>FKU14</Point>
+      <Point>FKU32</Point>
+      <Point>PIPIL</Point>
+      <Point>LIBKU</Point>
+      <Point>SOVGO</Point>
+      <Point>KU410</Point>
+      <Point>KULIA</Point>
+      <Point>ROBMU</Point>
+      <Point>KASDA</Point>
+      <Point>KU420</Point>
+      <Point>TURVA</Point>
+      <Point>GY410</Point>
+      <Point>AKOPO</Point>
+      <Point>DUMEK</Point>
+      <Point>FGY18</Point>
+      <Point>GY420</Point>
+      <Point>ATOPU</Point>
+      <Point>MAGIX</Point>
+      <Point>FGY36</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>FTB11</Point>
@@ -492,6 +511,14 @@
       <Point>+015910.800-1572133.730</Point>
       <Point>FF26</Point>
       <Point>+015910.640-1572025.650</Point>
+      <Point>FKU14</Point>
+      <Point>-204143.420-1430253.010</Point>
+      <Point>FKU32</Point>
+      <Point>-204218.860-1430235.650</Point>
+      <Point>FGY18</Point>
+      <Point>-204643.570-1383400.090</Point>
+      <Point>FGY36</Point>
+      <Point>-204724.930-1383409.390</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>BIDOP</Point>
@@ -750,6 +777,22 @@
       <Point>IF26</Point>
       <Point>AF26N</Point>
       <Point>AF26S</Point>
+      <Point>PIPIL</Point>
+      <Point>LIBKU</Point>
+      <Point>SOVGO</Point>
+      <Point>KU410</Point>
+      <Point>KULIA</Point>
+      <Point>ROBMU</Point>
+      <Point>KU420</Point>
+      <Point>KASDA</Point>
+      <Point>KU410</Point>
+      <Point>TURVA</Point>
+      <Point>GY410</Point>
+      <Point>AKOPO</Point>
+      <Point>DUMEK</Point>
+      <Point>GY420</Point>
+      <Point>ATOPU</Point>
+      <Point>MAGIX</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>TAVIS</Point>
@@ -976,5 +1019,15 @@
     <Line>AF26N/IF26/AF26S</Line>
     <Line>IF26/FF26/+015910.640-1572025.650</Line>
     <Line Pattern="Dashed" >+015910.640-1572025.650/IF08</Line>
+    <Line>PIPIL/LIBKU/SOVGO</Line>
+    <Line>LIBKU/FKU14/-204143.420-1430253.010</Line>
+    <Line Pattern="Dashed">-204143.420-1430253.010/KU410/SOVGO</Line>
+    <Line>KULIA/ROBMU/KASDA</Line>
+    <Line>ROBMU/FKU32/-204218.860-1430235.650</Line>
+    <Line>-204218.860-1430235.650/KU420/KASDA</Line>
+    <Line>TURVA/GY410/AKOPO/DUMEK/FGY18/-204643.570-1383400.090</Line>
+    <Line Pattern="Dashed">-204643.570-1383400.090/GY410</Line>
+    <Line>TURVA/GY420/ATOPU/MAGIX/FGY36/-204724.930-1383409.390</Line>
+    <Line Pattern="Dashed">-204724.930-1383409.390/GY420</Line>
   </Map>
 </Maps>
