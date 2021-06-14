@@ -811,6 +811,8 @@
     <Symbol Type="SolidTriangle">
       <Point>MEREV</Point>
     </Symbol>
+    <!-- RNAV APPROACHES TAHITI -->
+    <!-- RNAV APP NTTB RWY 11-->
     <Line>BAMBI/BIDOP</Line>
     <Line>BIDOP/NOMIS</Line>
     <Line>NOMIS/BOKAL</Line>
@@ -818,6 +820,7 @@
     <Line>FTB11/MTB11</Line>
     <Line Pattern="Dashed">BAMBI/TB418</Line>
     <Line Pattern="Dashed">TB418/NOMIS</Line>
+    <!-- RNAV APP NTTB RWY 29-->
     <Line>BAMBI/BELTI</Line>
     <Line>BELTI/BATOP</Line>
     <Line>BATOP/BELBO</Line>
@@ -825,18 +828,21 @@
     <Line>FTB29/-162653.490-1514443.710</Line>
     <Line Pattern="Dashed">-162653.490-1514443.710/TB422</Line>
     <Line Pattern="Dashed">TB422/BATOP</Line>
+    <!--RNAV APP NTGF RWY 05 -->
     <Line>VELDA/VIBOX</Line>
     <Line>VALMI/VIBOX</Line>
     <Line>VIBOX/GF401</Line>
     <Line>GF401/-160326.440-1453949.870</Line>
     <Line Pattern="Dashed">-160326.440-1453949.870/GF411</Line>
     <Line Pattern="Dashed">GF411/VELDA</Line>
+    <!-- RNAV APP NTGF RWY 23-->
     <Line>VISIT/VEXUS</Line>
     <Line>VARGO/VEXUS</Line>
     <Line>VEXUS/GF402</Line>
     <Line>GF402/-160306.890-1453907.280</Line>
     <Line Pattern="Dashed">-160306.890-1453907.280/GF412</Line>
     <Line Pattern="Dashed">GF412/VISIT</Line>
+    <!--RNAV APP NTTO RWY 30 -->
     <Line>OKATA/TO404</Line>
     <Line>OSRAN/TO404</Line>
     <Line>OLDIS/TO404</Line>
@@ -844,6 +850,7 @@
     <Line>TO402/-180507.860-1405604.840</Line>
     <Line Pattern="Dashed">-180507.860-1405604.840/TO412</Line>
     <Line Pattern="Dashed">TO412/OKATA</Line>
+    <!-- RNAV APP NTTO RWY 12-->
     <Line>OBLEK/TO403</Line>
     <Line>ODODO/TO403</Line>
     <Line>OREVA/TO403</Line>
@@ -851,6 +858,7 @@
     <Line>TO401/-180351.270-1405725.550</Line>
     <Line Pattern="Dashed">-180351.270-1405725.550/TO411</Line>
     <Line Pattern="Dashed">TO411/OBLEK</Line>
+    <!-- RNAV APP NTMN RWY 02-->
     <Line>ISBON/MN808</Line>
     <Line>IBULO/MN808</Line>
     <Line>IDADI/MN808</Line>
@@ -858,6 +866,7 @@
     <Line>MN810/MN812</Line>
     <Line Pattern="Dashed">MN812/MN814</Line>
     <Line Pattern="Dashed">MN814/IDADI</Line>
+    <!-- RNAV APP NTMN RWY 20-->
     <Line>IKAMI/MN707</Line>
     <Line>INTOD/MN707</Line>
     <Line>IGIGO/MN707</Line>
@@ -866,6 +875,7 @@
     <Line Pattern="Dashed">-094534.090-1390021.760/MN713</Line>
     <Line Pattern="Dashed">MN713/MN715</Line>
     <Line Pattern="Dashed">MN715/IGIGO</Line>
+    <!-- RNAV APP NTTH RWY 07-->
     <Line>UBKIM/UKALA</Line>
     <Line>UKALA/UDINI</Line>
     <Line>UDINI/UXINO</Line>
@@ -873,75 +883,123 @@
     <Line>FTH07/MTH07</Line>
     <Line Pattern="Dashed">MTH07/TH438</Line>
     <Line Pattern="Dashed">TH438/UDINI</Line>
+    <!-- RNAV APP NTTH RWY 25-->
     <Line>UBKIM/UGANI/UDUMA/NIVAL/FTH25/-164109.010-1510053.040</Line>
     <Line Pattern="Dashed">-164109.010-1510053.040/TH440/UDUMA</Line>
+    <!-- RNAV APP NTGM RWY 11-->
     <Line>MAKOM/GM403/AKUSA/AKARI/GM401/-163448.290-1433951.250</Line>
     <Line Pattern="Dashed">-163448.290-1433951.250/GM403</Line>
+    <!-- RNAV APP NTGM RWY 29-->
     <Line>MAKOM/GM404/EGOVA/IBUKI/GM402/-163515.130-1433908.980</Line>
     <Line Pattern="Dashed">-163515.130-1433908.980/GM404</Line>
+    <!-- RNAV APP NTGI RWY 04-->
     <Line>MIDEM/GI403/NISUD/ARIVA/GI401/-142618.920-1460424.120</Line>
     <Line Pattern="Dashed">-142618.920-1460424.120/GI403</Line>
+    <!-- RNAV APP NTGI RWY 22-->
     <Line>MIDEM/GI404/NONAS/MINIT/GI402/-142555.330-1460347.890</Line>
     <Line Pattern="Dashed">-142555.330-1460347.890/GI404</Line>
+    <!-- RNAV APP NTTP RWY 26-->
     <Line>MUSIL/MANAX</Line>
     <Line>MEREV/MANAX/TP402/TP404</Line>
     <Line Pattern="Dashed">TP404/TP406/MUSIL</Line>
+    <!-- RNAV APP NTTP RWY 08-->
     <Line>MEKES/TP403/MULER/MOXUL/TP401/-162535.770-1521453.330</Line>
     <Line Pattern="Dashed">-162535.770-1521453.330/TP403</Line>
+    <!-- RNAV APP NTTM RWY 12-->
     <Line>MOSMA/MORNI/FTM12/MTM12</Line>
     <Line Pattern="Dashed">MTM12/TM410/MOSMA</Line>
+    <!-- RNAV APP NTMD RWY 06 -->
     <Line>NONOK/MD403/MD405/NODIL/MD401/-084754.560-1401409.660</Line>
     <Line Pattern="Dashed">-084754.560-1401409.660/MD403</Line>
+    <!-- RNAV APP NTMD RWY 24 -->
     <Line>NUSTI/NISAK/MD402/-084734.050-1401319.070</Line>
     <Line>NONOK/MD404/MD406/NISAK</Line>
     <Line Pattern="Dashed">-084734.050-1401319.070/MD404</Line>
+    <!-- RNAV APP NTTR RWY 07 -->
     <Line>RULOM/TR410/RUTIX/REVKO/FTR07/MTR07</Line>
     <Line Pattern="Dashed">MTR07/TR430/TR431/TR432/TR433/REVKO</Line>
+    <!-- RNAV APP NTTR RWY 25-->
     <Line>RULOM/REDOK/RIBRA/REVRI/FTR25/MTR25</Line>
     <Line Pattern="Dashed">MTR25/TR434/TR435/TR432/TR431/TR436/REVRI</Line>
+    <!-- RNAV APP NTAV RWY 06-->
     <Line>VALSA/AV405/AV407/VORSY/AV401/AV403</Line>
     <Line>VEKRO/VORSY</Line>
     <Line Pattern="Dashed">AV403/AV405</Line>
+    <!-- RNAV APP NTAV RWY 24-->
     <Line>VALSA/AV406/AV408/VETAL/AV402/AV404</Line>
     <Line>VAPLU/VETAL</Line>
     <Line Pattern="Dashed">AV404/AV406</Line>
+    <!-- RNAV APP NTTG RWY 27-->
     <Line>GOBER/TG404/TG402/-145719.980-1473923.540</Line>
     <Line>GIVIX/TG404</Line>
     <Line>GULEM/TG404</Line>
     <Line Pattern="Dashed">-145719.980-1473923.540/TG406/GULEM</Line>
+    <!-- RNAV APP NTTG RWY 09 -->
     <Line>GUMTI/TG401/-145705.000-1474012.850</Line>
     <Line>GODOL/GUMTI</Line>
     <Line>GITUL/GUMTI</Line>
     <Line Pattern="Dashed">-145705.000-1474012.850/TG403/GODOL</Line>
+    <!-- RNAV APP NTAM RWY 07-->
     <Line>TARIR/AM410/AM412/ADKUP/FAM07/-223814.670-1524846.070</Line>
     <Line Pattern="Dashed">-223814.670-1524846.070/AM410</Line>
+    <!-- RNAV APP NTAM RWY 25-->
     <Line>TARIR/AM420/AM422/MALYC/FAM25/-223813.540-1524757.050</Line>
     <Line Pattern="Dashed">-223813.540-1524757.050/AM420</Line>
+    <!-- RNAV APP NTAR RWY 09-->
     <Line>RUXAR/AR405/RAXON/REKEK/AR401/AR403</Line>
     <Line Pattern="Dashed">AR403/AR405</Line>
+    <!-- RNAV APP NTAR RWY 27-->
     <Line>RUXAR/AR406/AR408/RISKI/AR402/AR404</Line>
     <Line Pattern="Dashed">AR406/AR406</Line>
+    <!-- RNAV APP NTAA RWY 04-->
     <Line>DUBAK/KARNO/VEDRI</Line>
     <Line>KARNO/IAA04/FAA04/-173345.710-1493712.760</Line>
     <Line Pattern="Dashed">-173345.710-1493712.760/AA414/AA416/VEDRI</Line>
+    <!-- RNAV APP NTTAA RWY 22-->
     <Line>SALUT/MOANA</Line>
     <Line>TAVIS/MOANA/FAA22/-173240.720-1493538.600</Line>
     <Line Pattern="Dashed">-173240.720-1493538.600/OVINI</Line>
+    <!-- RNAV APP NTTE All Runways-->
     <Line>ARITI/TE401/TE402/TE403</Line>
     <Line Pattern="Dashed">TE403/TE404/TE405/TE406/TE401</Line>
+    <!-- RNAV APP NTGC RWY 06-->
     <Line>OLKID/GC403/KABLU/KEVOL/GC401/-150716.360-1481413.160</Line>
     <Line Pattern="Dashed">-150716.360-1481413.160/GC403</Line>
     <Line>KILIL/KEVOL</Line>
+    <!-- RNAV APP NTGJ RWY 12-->
     <Line>TONED/KAMVO/FGJ12/-230429.320-1345343.510</Line>
     <Line Pattern="Dashed">-230429.320-1345343.510/GJ410/TONED</Line>
+    <!-- RNAV APP NTGJ RWY 30-->
     <Line>REPAS/GJ420/ESGAN/MANVU/FGJ30/-230510.400-1345301.460</Line>
     <Line Pattern="Dashed">-230510.400-1345301.460/GJ420</Line>
+    <!-- RNAV APP NTAT RWY 03-->
     <Line>IGAMA/IKOVA/AT401/-232211.430-1493146.980</Line>
     <Line>IBELI/IKOVA</Line>
     <Line Pattern="Dashed">-232211.430-1493146.980/AT403/IBELI</Line>
+    <!-- RNAV APP NTAT RWY 21-->
     <Line>IGENO/IDOPI/AT402/-232138.930-1493107.590</Line>
     <Line>IBAKO/IDOPI</Line>
     <Line Pattern="Dashed">-232138.930-1493107.590/AT404/IBAKO</Line>
+       <!-- RNAV APP NTKU RWY 14-->
+    <Line>PIPIL/LIBKU/SOVGO</Line>
+    <Line>LIBKU/FKU14/-204143.420-1430253.010</Line>
+    <Line Pattern="Dashed">-204143.420-1430253.010/KU410/SOVGO</Line>
+    <!-- RNAV APP NTKU RWY 32-->
+    <Line>KULIA/ROBMU/KASDA</Line>
+    <Line>ROBMU/FKU32/-204218.860-1430235.650</Line>
+    <Line Pattern ="Dashed">-204218.860-1430235.650/KU420/KASDA</Line>
+    <!-- RNAV APP NTGY RWY 18-->
+    <Line>TURVA/GY410/AKOPO/DUMEK/FGY18/-204643.570-1383400.090</Line>
+    <Line Pattern="Dashed">-204643.570-1383400.090/GY410</Line>
+    <!-- RNAV APP NTGY RWY 36-->
+    <Line>TURVA/GY420/ATOPU/MAGIX/FGY36/-204724.930-1383409.390</Line>
+    <Line Pattern="Dashed">-204724.930-1383409.390/GY420</Line>
+    <!-- RNAV APP NTKR RWY 07-->
+    <Line>TAVOR/KR410/KAPTU/IDIKA/FKR07/-142722.330-1450145.840</Line>
+    <Line Pattern="Dashed">-142722.330-1450145.840/KR410</Line>
+    
+    
+    
     <Line>APABU/MEGUD/IBVON</Line>
     <Line>MEGUD/UE901/-190431.410-1695610.250</Line>
     <Line Pattern="Dashed">-190431.410-1695610.250/GUGAG</Line>
@@ -1019,15 +1077,6 @@
     <Line>AF26N/IF26/AF26S</Line>
     <Line>IF26/FF26/+015910.640-1572025.650</Line>
     <Line Pattern="Dashed" >+015910.640-1572025.650/IF08</Line>
-    <Line>PIPIL/LIBKU/SOVGO</Line>
-    <Line>LIBKU/FKU14/-204143.420-1430253.010</Line>
-    <Line Pattern="Dashed">-204143.420-1430253.010/KU410/SOVGO</Line>
-    <Line>KULIA/ROBMU/KASDA</Line>
-    <Line>ROBMU/FKU32/-204218.860-1430235.650</Line>
-    <Line>-204218.860-1430235.650/KU420/KASDA</Line>
-    <Line>TURVA/GY410/AKOPO/DUMEK/FGY18/-204643.570-1383400.090</Line>
-    <Line Pattern="Dashed">-204643.570-1383400.090/GY410</Line>
-    <Line>TURVA/GY420/ATOPU/MAGIX/FGY36/-204724.930-1383409.390</Line>
-    <Line Pattern="Dashed">-204724.930-1383409.390/GY420</Line>
+ 
   </Map>
 </Maps>
