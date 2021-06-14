@@ -373,8 +373,36 @@
       <Point>ATOPU</Point>
       <Point>MAGIX</Point>
       <Point>FGY36</Point>
+      
+      <Point>TAVOR</Point>
+      <Point>KR410</Point>
+      <Point>KAPTU</Point>
+      <Point>IDIKA</Point>
+      <Point>FKR07</Point>
+      <Point>KR420</Point>
+      <Point>TUPRO</Point>
+      <Point>DADAX</Point>
+      <Point>FKR25</Point>
+      <Point>RAXIP</Point>
+      <Point>KO410</Point>
+      <Point>ESNAD</Point>
+      <Point>FITYO</Point>
+      <Point>FKO16</Point>
+      <Point>RAXIP</Point>
+      <Point>KO420</Point>
+      <Point>GUSED</Point>
+      <Point>IKONU</Point>
+      <Point>FKO34</Point>
     </Label>
     <Symbol Type="MalteseCross">
+      <Point>FKO34</Point>
+      <Point>-160320.330-1422833.820</Point>
+      <Point>FKO16</Point>
+      <Point>-160243.120-1422837.670</Point>
+      <Point>FKR25</Point>
+      <Point>-142719.990-1450110.790</Point>
+      <Point>FKR07</Point>
+      <Point>-142722.330-1450145.840</Point>
       <Point>FTB11</Point>
       <Point>MTB11</Point>
       <Point>FTB29</Point>
@@ -521,6 +549,21 @@
       <Point>-204724.930-1383409.390</Point>
     </Symbol>
     <Symbol Type="HollowStar">
+      <Point>KO420</Point>
+      <Point>GUSED</Point>
+      <Point>IKONU</Point>
+      <Point>FKO34</Point>
+      <Point>RAXIP</Point>
+      <Point>KO410</Point>
+      <Point>ESNAD</Point>
+      <Point>FITYO</Point>
+      <Point>TAVOR</Point>
+      <Point>KR410</Point>
+      <Point>KAPTU</Point>
+      <Point>IDIKA</Point>
+      <Point>KR420</Point>
+      <Point>TUPRO</Point>
+      <Point>DADAX</Point>
       <Point>BIDOP</Point>
       <Point>NOMIS</Point>
       <Point>BOKAL</Point>
@@ -997,8 +1040,15 @@
     <!-- RNAV APP NTKR RWY 07-->
     <Line>TAVOR/KR410/KAPTU/IDIKA/FKR07/-142722.330-1450145.840</Line>
     <Line Pattern="Dashed">-142722.330-1450145.840/KR410</Line>
-    
-    
+    <!-- RNAV APP NTKU RWY 25 -->
+    <Line>TAVOR/KR420/TUPRO/DADAX/FKR25/-142719.990-1450110.790</Line>
+    <Line Pattern="Dashed">-142719.990-1450110.790/KR420</Line>
+    <!-- RNAV APP NTKO RWY 16 -->
+    <Line>RAXIP/KO410/ESNAD/FITYO/FKO16/-160243.120-1422837.670</Line>
+    <Line Pattern="Dashed">-160243.120-1422837.670/KO410</Line>
+    <!-- RNAV APP NTKO RWY 34 -->
+    <Line>RAXIP/KO420/GUSED/IKONU/FKO34/-160320.330-1422833.820</Line>
+    <Line Pattern="Dashed">-160320.330-1422833.820/KO420</Line>
     
     <Line>APABU/MEGUD/IBVON</Line>
     <Line>MEGUD/UE901/-190431.410-1695610.250</Line>
