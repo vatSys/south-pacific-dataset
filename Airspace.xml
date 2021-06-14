@@ -6174,6 +6174,24 @@
     <Point Name="ZORBA" Type="Fix">-370855.579+1745619.871</Point>
     <Point Name="ZUKKY" Type="Fix">-390839.001+1743750.999</Point>
     <Point Name="ZULU" Type="Fix">-174744.761+1682756.318</Point>
+    <Point Name="TAVOR" Type ="Fix">-142721.600-1450134.500</Point>
+    <Point Name="KAPTU" Type ="Fix">-142300.700-1451153.000</Point>
+    <Point Name="IDIKA" Type ="Fix">-142801.300-1451132.100</Point>
+    <Point Name="FKR07" Type ="Fix">-142740.800-1450623.600</Point>
+    <Point Name="KR420" Type ="Fix">-142208.900-1445654.800</Point>
+    <Point Name="KR410" Type ="Fix">-142248.700-1450655.500</Point>
+    <Point Name="TUPRO" Type ="Fix">-142140.100-1445146.300</Point>
+    <Point Name="DADAX" Type ="Fix">-142640.700-1445125.000</Point>
+    <Point Name="FKR25" Type ="Fix">-142701.400-1445633.400</Point>
+    <Point Name="RAXIP" Type ="Fix">-160242.400-1422837.600</Point>
+    <Point Name="KO410" Type ="Fix">-155721.400-1422404.900</Point>
+    <Point Name="ESNAD" Type ="Fix">-155241.900-1422425.500</Point>
+    <Point Name="FITYO" Type ="Fix">-155311.200-1422935.300</Point>
+    <Point Name="FKO16" Type ="Fix">-155811.100-1422905.000</Point>
+    <Point Name="KO420" Type ="Fix">-160705.100-1422306.900</Point>
+    <Point Name="GUSED" Type ="Fix">-161222.600-1422225.800</Point>
+    <Point Name="IKONU" Type ="Fix">-161252.000-1422736.100</Point>
+    <Point Name="FKO34" Type ="Fix">-160752.200-1422806.400</Point>
     <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="332.500">-172123.000-1453032.800</Point>
     <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="396.000">+003000.000+1735060.000</Point>
     <Point Name="AI" Type="Navaid" NavaidType="NDB" Frequency="320.000">-184929.280-1594624.359</Point>
