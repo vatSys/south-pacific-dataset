@@ -373,7 +373,6 @@
       <Point>ATOPU</Point>
       <Point>MAGIX</Point>
       <Point>FGY36</Point>
-      
       <Point>TAVOR</Point>
       <Point>KR410</Point>
       <Point>KAPTU</Point>
@@ -552,7 +551,6 @@
       <Point>KO420</Point>
       <Point>GUSED</Point>
       <Point>IKONU</Point>
-      <Point>FKO34</Point>
       <Point>RAXIP</Point>
       <Point>KO410</Point>
       <Point>ESNAD</Point>
@@ -1049,84 +1047,121 @@
     <!-- RNAV APP NTKO RWY 34 -->
     <Line>RAXIP/KO420/GUSED/IKONU/FKO34/-160320.330-1422833.820</Line>
     <Line Pattern="Dashed">-160320.330-1422833.820/KO420</Line>
-    
+    <!-- RNAV APPROACHES NIUE -->
+    <!-- RNAV APP NIUE RWY 10--> 
     <Line>APABU/MEGUD/IBVON</Line>
     <Line>MEGUD/UE901/-190431.410-1695610.250</Line>
     <Line Pattern="Dashed">-190431.410-1695610.250/GUGAG</Line>
+    <!-- RNAV APP NIUE RWY 28-->
     <Line>EXOPU/GUGAG/IBADO</Line>
     <Line>GUGAG/UE928/-190457.170-1695455.090</Line>
     <Line Pattern="Dashed">-190457.170-1695455.090/MEGUD</Line>
+    <!-- RNAV APPROACHES TONGA -->
+    <!-- RNAV APP NSFA RWY 11--> 
     <Line>LEMAS/LURGA/KILEK</Line>
     <Line>LURGA/TF762/-211404.050-1750939.250</Line>
     <Line Pattern="Dashed">-211404.050-1750939.250/DORNI</Line>
+    <!-- RNAV APP NSFA RWY 29--> 
     <Line>OLPER/DORNI/BETLI</Line>
     <Line>DORNI/TF982/-211449.950-1750820.610</Line>
     <Line Pattern="Dashed">-211449.950-1750820.610/LURGA</Line>
+    <!-- RNAV APP NFTL RWY 11--> 
     <Line>PILUR/SEKDA/ELDIL</Line>
     <Line>SEKDA/TL546/-194627.230-1742046.340</Line>
+    <!-- RNAV APP NTFL RWY 29--> 
     <Line>VIDEB/AVNOX/UPDIG</Line>
     <Line>AVNOX/TL837/-194646.950-1742010.760</Line>
+    <!-- RNAV APP NTTO ALL RWYS--> 
     <Line>ARIES/ORION/VIRGO</Line>
     <Line>ORION/FF303/MA303</Line>
     <Line Pattern="Dashed">MA303/VENUS</Line>
+    <!-- RNAV APP NFTP RWY 11--> 
     <Line>SUNBA/POSUS/GUVOS</Line>
     <Line>POSUS/TP689/-155825.580-1734745.570</Line>
+    <!-- RNAV APP NFTV RWY 08--> 
     <Line>LIKVA/EKVUK/BIVAD</Line>
     <Line>EKVUK/TV843/-183506.600-1735758.030</Line>
     <Line Pattern="Dashed">-183506.600-1735758.030/DOXUS</Line>
+    <!-- RNAV APP NFTV RWY 26--> 
     <Line>GOGUL/DOXUS/LAMIP</Line>
     <Line>DOXUS/TV683/-183509.750-1735727.640</Line>
     <Line Pattern="Dashed">-183509.750-1735727.640/EKVUK</Line>
+    <!-- RNAV APPROACHES COOK ISLANDS -->
+    <!-- RNAV APP NCAI RWY 14-->
     <Line>MORKA/AROKO/TEREN</Line>
     <Line>AROKO/AI751/AI511</Line>
+    <!-- RNAV APP NCAI RWY 32-->
     <Line>TORIX/IKIPO/MANET</Line>
     <Line>IKIPO/AI615/AI804</Line>
+    <!-- RNAV APP NCAT RWY 09-->
     <Line>MANIS/ARUSU/KIMIR</Line>
     <Line>ARUSU/AT934/-195800.310-1580732.140</Line>
+    <!-- RNAV APP NCMG RWY 13-->
     <Line>MANOM/TUMPI/ORASU</Line>
     <Line>TUMPI/MG934/-215331.740-1575433.660</Line>
+    <!-- RNAV APP NCMH RWY 14-->
     <Line>LIMSA/BUNTU/GUMBI</Line>
     <Line>BUNTU/MH401/-102232.400-1610008.99</Line>
+    <!-- RNAV APP NCAI RWY 32-->
     <Line>MATSO/LEBEN/SUKEL</Line>
     <Line>SUKEL/MH501/-102311.400-1605945.650</Line>
+    <!-- RNAV APP NCAI RWY 10-->
     <Line>ASAMO/MEKUX/ENDAK</Line>
     <Line>MEKUX/MK934/-200801.220-1572106.830</Line>
+    <!-- RNAV APP NCMR RWY 09-->
     <Line>AKENI/TANOU/LEKOM</Line>
     <Line>TANOU/MR934/-195027.530-1574231.380</Line>
+    <!-- RNAV APP NCPY RWY 32-->
     <Line>VIRUS/TAMEV/RIKSA</Line>
     <Line>AKLEN/TAMEV/PY405/-090125.030-1580138.300</Line>
+    <!-- RNAV APP NCPK RWY 25-->
     <Line>POLOD/SAPAS/OSEKA</Line>
     <Line>SAPAS/PK401/-105449.620-1654959.150</Line>
+    <!-- RNAV APP NCRG RWY 08-->
     <Line>OPUNA/ADLIS/-211209.300-1594856.550</Line>
     <Line>RAKIA/OPUNA/TOKEA</Line>
     <Line Pattern="Dashed">-211209.300-1594856.550/RG597/RG732/RG656/ANGAI</Line>
+    <!-- RNAV APP NCAI RWY 26-->
     <Line>MOAKE/ANGAI/MURIA</Line>
     <Line>ANGAI/PEXIS/-211209.310-1594743.610</Line>
     <Line Pattern="Dashed">-211209.310-1594743.610/RG483/OPUNA</Line>
+    <!-- RNAV APPROACHES SAMOA-->
+    <!-- RNAV APP NSMA RWY 08-->
     <Line>MAPTA/IBIMA/MA401/MA602</Line>
     <Line Pattern="Dashed">MA602/MAPTA</Line>
+    <!-- RNAV APP NSFA RWY 08-->
     <Line>SHMPA/DINAR/TAFUA</Line>
     <Line>DINAR/FA406/-134948.770-1720120.200</Line>
     <Line Pattern="Dashed">-134948.770-1720120.200/FA411/SHMPA</Line>
+    <!-- RNAV APP NSFA RWY 26-->
     <Line>LAVEK/FALFA/MAUGA</Line>
     <Line>FALFA/FA515/-134947.59-1715940.130</Line>
     <Line>-134947.59-1715940.130/FA502/LAVEK</Line>
+    <!-- RNAV APPROACHES AMERICAN SAMOA-->
+    <!-- RNAV APP NSTU RWY 05-->
     <Line>SETTS/GRUPY/BLUJA/CAXEB/HOPID</Line>
     <Line Pattern="Dashed" >HOPID/DRAWN</Line>
+    <!-- RNAV APP NSTU RWY 23-->
     <Line>SUMLE/HUMTU/NOTSE/WUTEB/-141936.476-1704202.612</Line>
     <Line Pattern="Dashed" >-141936.476-1704202.612/DRAWN</Line>
+    <!-- RNAV APPROACHES NORFOLK ISLAND-->
+    <!-- RNAV APP YSNF RWY 29-->
     <Line>SNZEC/SNZEF/SNZEM</Line>
     <Line Pattern="Dashed" >SNZEM/SNZEH</Line>
+    <!-- RNAV APP YSNF RWY 11-->
     <Line>PINKY/SNFWF/-290211.710+1675548.011</Line>
     <Line Pattern="Dashed" >-290211.710+1675548.011/SNFWH</Line>
+    <!-- RNAV APP YSNF RWY 04-->
     <Line>SNFSA/SNFSF/SNFSM</Line>
     <Line Pattern="Dashed" >SNFSM/SNFSH</Line>
+    <!-- RNAV APPROACHES KIRIBATI-->
+    <!-- RNAV APP PLCH RWY 08-->
     <Line>AF08N/IF08/AF08S</Line>
     <Line>IF08/FF08/+015910.800-1572133.730</Line>
     <Line Pattern="Dashed" >+015910.800-1572133.730/IF26</Line>
+    <!-- RNAV APP PLCH RWY 26-->
     <Line>AF26N/IF26/AF26S</Line>
     <Line>IF26/FF26/+015910.640-1572025.650</Line>
     <Line Pattern="Dashed" >+015910.640-1572025.650/IF08</Line>
- 
-  </Map>
+   </Map>
 </Maps>
