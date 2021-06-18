@@ -88,7 +88,7 @@
       <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="Williams Tower" Type="ASD" DefaultCenter="-775203.000+1670324.000" DefaultRange="80" MagneticVariation="-140.9">
+  <Position Name="Phoenix Tower" Type="ASD" DefaultCenter="-775203.000+1670324.000" DefaultRange="80" MagneticVariation="-140.9">
     <Sectors>
       <Sector Name="WD ADC"/>
     </Sectors>
@@ -101,7 +101,7 @@
       <Window Airport="NZWD"/>
     </ATIS>
     <Strips Mode="Beacon" Sort="Alpha">
-      <Window Type="ADEP" Beacon="NZWD" Visible="true"/>
+      <Window Type="ADEP" Beacon="NZFX" Visible="true"/>
     </Strips>
     <CFL QuickLevel="5500">
       <AdditionalLevels>3200,5800,6300</AdditionalLevels>
@@ -113,7 +113,7 @@
       <Airport Name="NZPX"/>
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Williams Tower</Line>
+      <Line>Phoenix Tower</Line>
       <Line>ATIS available on 122.6</Line>
     </ControllerInfo>
   </Position>
