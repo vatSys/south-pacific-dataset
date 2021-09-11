@@ -16,12 +16,12 @@
       <Point>VELDA</Point>
       <Point>VALMI</Point>
       <Point>VIBOX</Point>
-      <Point>GF401</Point>
+      <Point>FGF05</Point>
       <Point>GF411</Point>
       <Point>VISIT</Point>
       <Point>VEXUS</Point>
       <Point>VARGO</Point>
-      <Point>GF402</Point>
+      <Point>FGF23</Point>
       <Point>GF412</Point>
       <Point>OSRAN</Point>
       <Point>OKATA</Point>
@@ -37,16 +37,15 @@
       <Point>TO411</Point>
       <Point>ISBON</Point>
       <Point>IBULO</Point>
-      <Point>IDADI</Point>
-      <Point>MN808</Point>
-      <Point>MN810</Point>
-      <Point>MN812</Point>
+      <Point>MN816</Point>
+      <Point>IMN02</Point>
+      <Point>FMN02</Point>
+      <Point>MMN02</Point>
       <Point>MN814</Point>
-      <Point>INTOD</Point>
       <Point>IKAMI</Point>
-      <Point>IGIGO</Point>
-      <Point>MN707</Point>
-      <Point>MN709</Point>
+      <Point>MN717</Point>
+      <Point>IMN20</Point>
+      <Point>FMN20</Point>
       <Point>MN713</Point>
       <Point>MN715</Point>
       <Point>UBKIM</Point>
@@ -59,6 +58,7 @@
       <Point>UDUMA</Point>
       <Point>NIVAL</Point>
       <Point>FTH25</Point>
+      <Point>TH438</Point>
       <Point>TH440</Point>
       <Point>MAKOM</Point>
       <Point>GM403</Point>
@@ -95,15 +95,18 @@
       <Point>MTM12</Point>
       <Point>TM410</Point>
       <Point>NODIL</Point>
-      <Point>MD401</Point>
-      <Point>NONOK</Point>
+      <Point>NOGES</Point>
+      <Point>NUBSI</Point>
+      <Point>NITOR</Point>
+      <Point>FMD06</Point>
+      <Point>MD420</Point>
       <Point>MD403</Point>
       <Point>MD405</Point>
       <Point>MD404</Point>
       <Point>MD406</Point>
       <Point>NISAK</Point>
-      <Point>NUSTI</Point>
-      <Point>MD402</Point>
+      <Point>NITOR</Point>
+      <Point>FMD24</Point>
       <Point>RULOM</Point>
       <Point>TR410</Point>
       <Point>RUTIX</Point>
@@ -406,17 +409,17 @@
       <Point>MTB11</Point>
       <Point>FTB29</Point>
       <Point>-162653.490-1514443.710</Point>
-      <Point>GF401</Point>
+      <Point>FGF05</Point>
       <Point>-160326.440-1453949.870</Point>
-      <Point>GF402</Point>
+      <Point>FGF23</Point>
       <Point>-160306.890-1453907.280</Point>
       <Point>TO402</Point>
       <Point>-180507.860-1405604.840</Point>
       <Point>TO401</Point>
       <Point>-180351.270-1405725.550</Point>
-      <Point>MN810</Point>
-      <Point>MN812</Point>
-      <Point>MN709</Point>
+      <Point>FMN02</Point>
+      <Point>MMN02</Point>
+      <Point>FMN20</Point>
       <Point>-094534.090-1390021.760</Point>
       <Point>FTH07</Point>
       <Point>MTH07</Point>
@@ -548,6 +551,10 @@
       <Point>-204724.930-1383409.390</Point>
     </Symbol>
     <Symbol Type="HollowStar">
+    <Point>MD420</Point>
+    <Point>NOGES</Point>
+    <Point>NUBSI</Point>
+    <Point>NITOR</Point>
       <Point>KO420</Point>
       <Point>GUSED</Point>
       <Point>IKONU</Point>
@@ -577,7 +584,7 @@
       <Point>VISIT</Point>
       <Point>VEXUS</Point>
       <Point>VARGO</Point>
-      <Point>GF402</Point>
+      <Point>FGF23</Point>
       <Point>GF412</Point>
       <Point>OSRAN</Point>
       <Point>OKATA</Point>
@@ -591,13 +598,12 @@
       <Point>TO411</Point>
       <Point>ISBON</Point>
       <Point>IBULO</Point>
-      <Point>IDADI</Point>
-      <Point>MN808</Point>
+      <Point>MN816</Point>
+      <Point>IMN02</Point>
       <Point>MN814</Point>
-      <Point>INTOD</Point>
       <Point>IKAMI</Point>
-      <Point>IGIGO</Point>
-      <Point>MN707</Point>
+      <Point>MN717</Point>
+      <Point>IMN20</Point>
       <Point>MN713</Point>
       <Point>MN715</Point>
       <Point>UKALA</Point>
@@ -606,6 +612,7 @@
       <Point>UGANI</Point>
       <Point>UDUMA</Point>
       <Point>NIVAL</Point>
+      <Point>TH438</Point>
       <Point>TH440</Point>
       <Point>MAKOM</Point>
       <Point>GM403</Point>
@@ -631,12 +638,12 @@
       <Point>MOSMA</Point>
       <Point>MORNI</Point>
       <Point>TM410</Point>
-      <Point>MD401</Point>
+      <Point>FMD06</Point>
       <Point>MD403</Point>
       <Point>MD405</Point>
       <Point>MD404</Point>
       <Point>MD406</Point>
-      <Point>MD402</Point>
+      <Point>FMD24</Point>
       <Point>TR410</Point>
       <Point>RUTIX</Point>
       <Point>REVKO</Point>
@@ -844,9 +851,8 @@
       <Point>UBKIM</Point>
       <Point>MEKES</Point>
       <Point>NODIL</Point>
-      <Point>NONOK</Point>
       <Point>NISAK</Point>
-      <Point>NUSTI</Point>
+      <Point>NITOR</Point>
       <Point>RULOM</Point>
     </Symbol>
     <Symbol Type="SolidTriangle">
@@ -872,15 +878,15 @@
     <!--RNAV APP NTGF RWY 05 -->
     <Line>VELDA/VIBOX</Line>
     <Line>VALMI/VIBOX</Line>
-    <Line>VIBOX/GF401</Line>
-    <Line>GF401/-160326.440-1453949.870</Line>
+    <Line>VIBOX/FGF05</Line>
+    <Line>FGF05/-160326.440-1453949.870</Line>
     <Line Pattern="Dashed">-160326.440-1453949.870/GF411</Line>
     <Line Pattern="Dashed">GF411/VELDA</Line>
     <!-- RNAV APP NTGF RWY 23-->
     <Line>VISIT/VEXUS</Line>
     <Line>VARGO/VEXUS</Line>
-    <Line>VEXUS/GF402</Line>
-    <Line>GF402/-160306.890-1453907.280</Line>
+    <Line>VEXUS/FGF23</Line>
+    <Line>FGF23/-160306.890-1453907.280</Line>
     <Line Pattern="Dashed">-160306.890-1453907.280/GF412</Line>
     <Line Pattern="Dashed">GF412/VISIT</Line>
     <!--RNAV APP NTTO RWY 30 -->
@@ -900,22 +906,21 @@
     <Line Pattern="Dashed">-180351.270-1405725.550/TO411</Line>
     <Line Pattern="Dashed">TO411/OBLEK</Line>
     <!-- RNAV APP NTMN RWY 02-->
-    <Line>ISBON/MN808</Line>
-    <Line>IBULO/MN808</Line>
-    <Line>IDADI/MN808</Line>
-    <Line>MN808/MN810</Line>
-    <Line>MN810/MN812</Line>
-    <Line Pattern="Dashed">MN812/MN814</Line>
-    <Line Pattern="Dashed">MN814/IDADI</Line>
+    <Line>ISBON/IMN02</Line>
+    <Line>IBULO/IMN02</Line>
+    <Line>MN816/IMN02</Line>
+    <Line>IMN02/FMN02</Line>
+    <Line>FMN02/MMN02</Line>
+    <Line Pattern="Dashed">MMN02/MN814</Line>
+    <Line Pattern="Dashed">MN814/MN816</Line>
     <!-- RNAV APP NTMN RWY 20-->
-    <Line>IKAMI/MN707</Line>
-    <Line>INTOD/MN707</Line>
-    <Line>IGIGO/MN707</Line>
-    <Line>MN707/MN709</Line>
-    <Line>MN709/-094534.090-1390021.760</Line>
+    <Line>IKAMI/IMN20</Line>
+    <Line>MN717/IMN20</Line>
+    <Line>IMN20/FMN20</Line>
+    <Line>FMN20/-094534.090-1390021.760</Line>
     <Line Pattern="Dashed">-094534.090-1390021.760/MN713</Line>
     <Line Pattern="Dashed">MN713/MN715</Line>
-    <Line Pattern="Dashed">MN715/IGIGO</Line>
+    <Line Pattern="Dashed">MN715/MN717</Line>
     <!-- RNAV APP NTTH RWY 07-->
     <Line>UBKIM/UKALA</Line>
     <Line>UKALA/UDINI</Line>
@@ -950,12 +955,13 @@
     <Line>MOSMA/MORNI/FTM12/MTM12</Line>
     <Line Pattern="Dashed">MTM12/TM410/MOSMA</Line>
     <!-- RNAV APP NTMD RWY 06 -->
-    <Line>NONOK/MD403/MD405/NODIL/MD401/-084754.560-1401409.660</Line>
-    <Line Pattern="Dashed">-084754.560-1401409.660/MD403</Line>
+    <Line>NUBSI/MD420/NODIL/FMD06/-084754.560-1401409.660</Line>
+    <Line>NOGES/NODIL</Line>
+    <Line Pattern="Dashed">-084754.560-1401409.660/MD403/MD405/NODIL</Line>
     <!-- RNAV APP NTMD RWY 24 -->
-    <Line>NUSTI/NISAK/MD402/-084734.050-1401319.070</Line>
-    <Line>NONOK/MD404/MD406/NISAK</Line>
-    <Line Pattern="Dashed">-084734.050-1401319.070/MD404</Line>
+    <Line>NITOR/NISAK/FMD24/-084734.050-1401319.070</Line>
+    <Line Pattern="Dashed">-084734.050-1401319.070/MD404/MD406</Line>
+    <Line>MD406/NISAK</Line>
     <!-- RNAV APP NTTR RWY 07 -->
     <Line>RULOM/TR410/RUTIX/REVKO/FTR07/MTR07</Line>
     <Line Pattern="Dashed">MTR07/TR430/TR431/TR432/TR433/REVKO</Line>
