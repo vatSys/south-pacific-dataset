@@ -3860,8 +3860,8 @@
     <Point Name="GC403" Type="Fix">-150346.199-1482009.301</Point>
     <Point Name="GENDA" Type="Fix">-391040.930+1763328.058</Point>
     <Point Name="GEWNY" Type="Fix">-370201.720+1740833.299</Point>
-    <Point Name="GF401" Type="Fix">-160539.401-1454439.800</Point>
-    <Point Name="GF402" Type="Fix">-160054.202-1453418.401</Point>
+    <Point Name="FGF05" Type="Fix">-160539.401-1454439.800</Point>
+    <Point Name="FGF23" Type="Fix">-160054.202-1453418.401</Point>
     <Point Name="GF411" Type="Fix">-160747.798-1453758.300</Point>
     <Point Name="GF412" Type="Fix">-160716.201-1453648.301</Point>
     <Point Name="GI401" Type="Fix">-142849.102-1460814.899</Point>
@@ -4038,7 +4038,7 @@
     <Point Name="IBULO" Type="Fix">-095623.500-1391219.501</Point>
     <Point Name="IBVON" Type="Fix">-185553.000-1700547.692</Point>
     <Point Name="IBVUK" Type="Fix">-451618.779+1682514.700</Point>
-    <Point Name="IDADI" Type="Fix">-100119.200-1390329.599</Point>
+    <Point Name="MN816" Type="Fix">-100119.200-1390329.599</Point>
     <Point Name="IDADO" Type="Fix">-460045.090+1694410.219</Point>
     <Point Name="IDARA" Type="Fix">-440318.652+1715947.929</Point>
     <Point Name="IDBAD" Type="Fix">-411907.331+1662643.462</Point>
@@ -4081,7 +4081,7 @@
     <Point Name="IGEKO" Type="Fix">-212852.849-1752156.930</Point>
     <Point Name="IGENO" Type="Fix">-231823.900-1491902.899</Point>
     <Point Name="IGETO" Type="Fix">-330531.999-1750000.000</Point>
-    <Point Name="IGIGO" Type="Fix">-093750.902-1385010.500</Point>
+    <Point Name="MN717" Type="Fix">-093750.902-1385010.500</Point>
     <Point Name="IGIMA" Type="Fix">-003955.919+1670205.881</Point>
     <Point Name="IGLET" Type="Fix">-322823.650+1664211.002</Point>
     <Point Name="IGLIS" Type="Fix">-431846.958+1722523.750</Point>
@@ -4108,7 +4108,6 @@
     <Point Name="INGLE" Type="Fix">-391019.762+1741730.818</Point>
     <Point Name="INTIB" Type="Fix">-300000.000-1790553.999</Point>
     <Point Name="INTID" Type="Fix">-165129.999+1755147.999</Point>
-    <Point Name="INTOD" Type="Fix">-093100.401-1385206.301</Point>
     <Point Name="INTOX" Type="Fix">-383212.851+1755916.469</Point>
     <Point Name="INTUS" Type="Fix">-455941.359+1684248.640</Point>
     <Point Name="INVAS" Type="Fix">-180423.160-1650000.000</Point>
@@ -4588,12 +4587,13 @@
     <Point Name="MD33" Type="Fix">-401334.540+1752335.138</Point>
     <Point Name="MD34" Type="Fix">-412140.990+1744830.121</Point>
     <Point Name="MD35" Type="Fix">-221701.039+1662821.220</Point>
-    <Point Name="MD401" Type="Fix">-085030.401-1402041.899</Point>
-    <Point Name="MD402" Type="Fix">-084455.100-1400638.498</Point>
+    <Point Name="FMD06" Type="Fix">-085030.401-1402041.899</Point>
+    <Point Name="FMD24" Type="Fix">-084455.100-1400638.498</Point>
     <Point Name="MD403" Type="Fix">-084455.298-1401942.600</Point>
     <Point Name="MD404" Type="Fix">-084117.300-1401041.099</Point>
     <Point Name="MD405" Type="Fix">-084742.202-1402715.700</Point>
     <Point Name="MD406" Type="Fix">-083823.302-1400349.799</Point>
+    <Point Name="MD420" Type="Fix">-085702.100-1402331.000</Point>
     <Point Name="MEBKA" Type="Fix">-451646.211+1683652.402</Point>
     <Point Name="MEBMU" Type="Fix">-433227.431+1722613.340</Point>
     <Point Name="MEEDA" Type="Fix">-412926.560+1743545.380</Point>
@@ -4673,13 +4673,13 @@
     <Point Name="ML27" Type="Fix">-401252.549+1752500.188</Point>
     <Point Name="ML34" Type="Fix">-412125.189+1744817.521</Point>
     <Point Name="MN219" Type="Fix">-290433.420+1674847.250</Point>
-    <Point Name="MN707" Type="Fix">-093523.100-1385435.201</Point>
-    <Point Name="MN709" Type="Fix">-094034.702-1385731.900</Point>
+    <Point Name="IMN20" Type="Fix">-093523.100-1385435.201</Point>
+    <Point Name="FMN20" Type="Fix">-094034.702-1385731.900</Point>
     <Point Name="MN713" Type="Fix">-095045.100-1385809.300</Point>
     <Point Name="MN715" Type="Fix">-094934.702-1385521.400</Point>
-    <Point Name="MN808" Type="Fix">-095851.398-1390754.599</Point>
-    <Point Name="MN810" Type="Fix">-095428.800-1390525.400</Point>
-    <Point Name="MN812" Type="Fix">-094805.231-1390147.550</Point>
+    <Point Name="IMN02" Type="Fix">-095851.398-1390754.599</Point>
+    <Point Name="FMN0" Type="Fix">-095428.800-1390525.400</Point>
+    <Point Name="MMN02" Type="Fix">-094805.231-1390147.550</Point>
     <Point Name="MN814" Type="Fix">-095136.900-1385759.101</Point>
     <Point Name="MO552" Type="Fix">-453153.198+1673832.640</Point>
     <Point Name="MO633" Type="Fix">-452448.409+1674532.220</Point>
@@ -4921,7 +4921,9 @@
     <Point Name="NURLA" Type="Fix">-450454.019+1710944.831</Point>
     <Point Name="NURNI" Type="Fix">-423726.461+1714108.740</Point>
     <Point Name="NURTA" Type="Fix">-205820.510-1591922.800</Point>
-    <Point Name="NUSTI" Type="Fix">-084111.101-1395716.099</Point>
+    <Point Name="NOGES" Type="Fix">-090509.000-1403117.800</Point>
+    <Point Name="NUBSI" Type="Fix">-090211.700-1401450.800</Point>
+    <Point Name="NITOR"  Type="Fix">-085310.800-1395208.500</Point>
     <Point Name="NUTGO" Type="Fix">-400932.872+1751235.280</Point>
     <Point Name="NUTMI" Type="Fix">-390934.319+1735556.881</Point>
     <Point Name="NUTRA" Type="Fix">-374760.000+1734800.000</Point>
