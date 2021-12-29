@@ -6951,7 +6951,7 @@
       <Runway Name="10" Position="-151444.110-1463719.36"/>
       <Runway Name="28" Position="-151503.000-1463640.370"/>
     </Airport>
-    <Airport ICAO="NTBB" Position="-162637.000-1514509.000" Elevation="11">
+    <Airport ICAO="NTTB" Position="-162637.000-1514509.000" Elevation="11">
       <Runway Name="11" Position="-162625.760-1514525.530"/>
       <Runway Name="29" Position="-162653.490-1514443.710"/>
     </Airport>
