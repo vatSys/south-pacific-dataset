@@ -6194,6 +6194,16 @@
     <Point Name="GUSED" Type ="Fix">-161222.600-1422225.800</Point>
     <Point Name="IKONU" Type ="Fix">-161252.000-1422736.100</Point>
     <Point Name="FKO34" Type ="Fix">-160752.200-1422806.400</Point>
+    <Point Name="NOLEB" Type ="Fix">-154322.300-1404333.100</Point>
+    <Point Name="TEBED" Type ="Fix">-154822.500-1404307.100</Point>
+    <Point Name="SUGOV" Type ="Fix">-155322.700-1404241.000</Point>
+    <Point Name="FBG25" Type ="Fix">-154847.900-1404817.100</Point>
+    <Point Name="GB420" Type ="Fix">-154354.000-1404821.200</Point>
+    <Point Name="SAGUP" Type ="Fix">-155501.400-1410257.100</Point>
+    <Point Name="TASOV" Type ="Fix">-155001.100-1410323.000</Point>
+    <Point Name="NIRUX" Type ="Fix">-154500.900-1410348.800</Point>
+    <Point Name="FGB07" Type ="Fix">-154445.200-1405812.900</Point>
+    <Point Name="GB410" Type ="Fix">-154445.200-1405900.300</Point>
     <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="332.500">-172123.000-1453032.800</Point>
     <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="396.000">+003000.000+1735060.000</Point>
     <Point Name="AI" Type="Navaid" NavaidType="NDB" Frequency="320.000">-184929.280-1594624.359</Point>
