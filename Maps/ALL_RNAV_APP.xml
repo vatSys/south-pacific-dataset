@@ -395,8 +395,22 @@
       <Point>GUSED</Point>
       <Point>IKONU</Point>
       <Point>FKO34</Point>
+      <Point>NOLEB</Point>
+      <Point>TEBED</Point>
+      <Point>SUGOV</Point>
+      <Point>FBG25</Point>
+      <Point>GB420</Point>
+      <Point>SAGUP</Point>
+      <Point>TASOV</Point>
+      <Point>NIRUX</Point>
+      <Point>FGB07</Point>
+      <Point>GB410</Point>
     </Label>
     <Symbol Type="MalteseCross">
+      <Point>FBG25</Point>
+      <Point>-154910.640-1405257.490</Point>
+      <Point>FGB07</Point>
+      <Point>-154913.490-1405332.660</Point>
       <Point>FKO34</Point>
       <Point>-160320.330-1422833.820</Point>
       <Point>FKO16</Point>
@@ -841,6 +855,14 @@
       <Point>GY420</Point>
       <Point>ATOPU</Point>
       <Point>MAGIX</Point>
+      <Point>NOLEB</Point>
+      <Point>TEBED</Point>
+      <Point>SUGOV</Point>
+      <Point>GB420</Point>
+      <Point>SAGUP</Point>
+      <Point>TASOV</Point>
+      <Point>NIRUX</Point>
+      <Point>GB410</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>TAVIS</Point>
@@ -875,6 +897,14 @@
     <Line>FTB29/-162653.490-1514443.710</Line>
     <Line Pattern="Dashed">-162653.490-1514443.710/TB422</Line>
     <Line Pattern="Dashed">TB422/BATOP</Line>
+    <!--RNAV APP NTGB RWY 07 -->
+    <Line>SAGUP/TASOV/NIRUX</Line>
+    <Line>TASOV/FGB07/-154913.490-1405332.660</Line>
+    <Line Pattern="Dashed">-154913.490-1405332.660/GB410/NIRUX</Line>
+    <!--RNAV APP NTGB RWY 25 -->
+    <Line>SUGOV/TEBED/NOLEB</Line>
+    <Line>TEBED/FGB25/-154910.640-1405257.490</Line>
+    <Line Pattern="Dashed">-154910.640-1405257.490/GB420/NOLEB</Line>
     <!--RNAV APP NTGF RWY 05 -->
     <Line>VELDA/VIBOX</Line>
     <Line>VALMI/VIBOX</Line>
