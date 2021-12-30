@@ -6202,7 +6202,7 @@
     <Point Name="SAGUP" Type ="Fix">-155501.400-1410257.100</Point>
     <Point Name="TASOV" Type ="Fix">-155001.100-1410323.000</Point>
     <Point Name="NIRUX" Type ="Fix">-154500.900-1410348.800</Point>
-    <Point Name="FGB07" Type ="Fix">-154445.200-1405812.900</Point>
+    <Point Name="FGB07" Type ="Fix">-154936.200-1405812.900</Point>
     <Point Name="GB410" Type ="Fix">-154445.200-1405900.300</Point>
     <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="332.500">-172123.000-1453032.800</Point>
     <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="396.000">+003000.000+1735060.000</Point>
