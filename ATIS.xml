@@ -21,16 +21,16 @@
   <Translations>
    <Translation String="NTAA" Spoken="Tahiti"/>
    <Translation String="NTTB" Spoken="Bora"/>
-    <Translation String="NTTR" Spoken="Raietea"/>
-    <Translation String="NTTH" Spoken="Huahine"/>
-    <Translation String="NTTG" Spoken="Rangiaroa"/>
-    <Translation String="NTTO" Spoken="Hao"/>
-    <Translation String="NTTM" Spoken="Moorea"/>
-   <Translation String="NCRG" Spoken="Rarotonga"/>
-   <Translation String="NSFA" Spoken="Faleolo"/>
-   <Translation String="NSTU" Spoken="Pango Pango"/>
+    <Translation String="NTTR" Spoken="Ray ee tay uh"/>
+    <Translation String="NTTH" Spoken="Who a hee nee"/>
+    <Translation String="NTTG" Spoken="Rang ee uh rower"/>
+    <Translation String="NTTO" Spoken="Hay o"/>
+    <Translation String="NTTM" Spoken="Moo ray uh"/>
+   <Translation String="NCRG" Spoken="Raro tonga"/>
+   <Translation String="NSFA" Spoken="Fay lee olo"/>
+   <Translation String="NSTU" Spoken="Pango"/>
    <Translation String="NFTF" Spoken="Fua Amotu"/>
-   <Translation String="NFTV" Spoken="Vav 'au"/>
+   <Translation String="NFTV" Spoken="Vav ow"/>
    <Translation String="NIUE" Spoken="Nooay"/>
    <Translation String="NZWD" Spoken="Williams"/>
 
@@ -60,7 +60,7 @@
     <Translation String="U" Spoken="uniform"/>
     <Translation String="V" Spoken="victor"/>
     <Translation String="W" Spoken="whiskey"/>
-    <Translation String="X" Spoken="x-ray"/>
+    <Translation String="X" Spoken="x ray"/>
     <Translation String="Y" Spoken="yankee"/>
     <Translation String="Z" Spoken="zulu"/>
 
@@ -116,10 +116,14 @@
     <Translation String="OTLED" Spoken="OTLEDD"/>
     <Translation String="DEG" Spoken="degrees"/>
 
-    <Translation String="RWY" Spoken="runway"/>
-    <Translation String="RWYS" Spoken="runways"/>
+    <Translation String="RWY" Spoken="runway" />
+    <Translation String="RWYS" Spoken="runways" />
+	
+    <!--Changes xxx.xxx to xxx decimal xxx for frequencies -->
+    <Translation Regex="(\d{3})\.(\d{1,3})" Spoken="$1 decimal $2" />
+	  
     <!--Changes L to Left when it is associated with a two digit runway identifier-->
-	<Translation Regex="([012]\d|[3][0123456])L AND R" Spoken="$1 left and right"/>
+    <Translation Regex="([012]\d|[3][0123456])L AND R" Spoken="$1 left and right"/>
     <Translation Regex="([012]\d|[3][0123456])L AND C" Spoken="$1 left and centre"/>
     <Translation Regex="([012]\d|[3][0123456])C AND R" Spoken="$1 centre and right"/>
     <Translation Regex="([012]\d|[3][0123456])L" Spoken="$1 left"/>
