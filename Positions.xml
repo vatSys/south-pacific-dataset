@@ -25,7 +25,8 @@
     <ControllerInfo>
       <Line>Tahiti Control | CPDLC available on NTTT</Line>
       <Line>Oceanic Reporting  www.vatnz.net/pilots/oceanic-report-tool</Line>
-      <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+      <Line>Squawk 2000 entering OCEANIC region. </Line>
+      <Line>Check your Sim Zulu time is correct.</Line>
     </ControllerInfo>
   </Position>
   <Position Name="Auckland Oceanic" Type="ASD" DefaultCenter="-300000.000-1750000.000" DefaultRange="4500">
