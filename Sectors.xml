@@ -37,7 +37,7 @@
   <Sector FullName="Bora Bora Tower" Frequency="118.900" Callsign="NTTB_TWR" Name="TB ADC">
     <Volumes>NTTB_CTZ</Volumes>
   </Sector>
-  <Sector FullName="Raietea Tower" Frequency="118.500" Callsign="NTTR_TWR" Name="TR ADC">
+  <Sector FullName="Raiatea Tower" Frequency="118.500" Callsign="NTTR_TWR" Name="TR ADC">
     <Volumes>NTTR_CTZ</Volumes>
   </Sector>
   <Sector FullName="Huahine Tower" Frequency="119.300" Callsign="NTTH_TWR" Name="TH ADC">
@@ -46,7 +46,7 @@
   <Sector FullName="Moorea Tower" Frequency="118.700" Callsign="NTTM_TWR" Name="TM ADC">
     <Volumes>NTTM_CTZ</Volumes>
   </Sector>
-  <Sector FullName="Rangiaroa Tower" Frequency="118.300" Callsign="NTTG_TWR" Name="TG ADC">
+  <Sector FullName="Rangiroa Tower" Frequency="118.300" Callsign="NTTG_TWR" Name="TG ADC">
     <Volumes>NTTG_CTZ</Volumes>
   </Sector>
   <Sector FullName="Hao Tower" Frequency="119.100" Callsign="NTTO_TWR" Name="TO ADC">
