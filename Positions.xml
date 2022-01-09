@@ -215,15 +215,15 @@
       <Line>ATIS available on 121.5</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="Raietea Tower" Type="ASD" DefaultCenter="-164323.000-1512801.000" DefaultRange="80" MagneticVariation="-13">
+  <Position Name="Raiatea Tower" Type="ASD" DefaultCenter="-164323.000-1512801.000" DefaultRange="80" MagneticVariation="-13">
     <Sectors>
       <Sector Name="TR ADC"/>
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA"/>
       <Map Name="ISLV_COAST"/>
-      <Map Name="Raietea/TR_TCU"/>
-      <Map Name="Raietea/TR_RWY07"/>
+      <Map Name="Raiatea/TR_TCU"/>
+      <Map Name="Raiatea/TR_RWY07"/>
     </Maps>
     <ATIS>
       <Editor Airport="NTTR" Frequency="119.6"/>
@@ -271,15 +271,15 @@
       <Line>ATIS available on 123.3</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="Rangiaroa Tower" Type="ASD" DefaultCenter="-145719.000-1473928.000" DefaultRange="80" MagneticVariation="-13">
+  <Position Name="Rangiroa Tower" Type="ASD" DefaultCenter="-145719.000-1473928.000" DefaultRange="80" MagneticVariation="-13">
     <Sectors>
       <Sector Name="TG ADC"/>
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA"/>
-      <Map Name="Rangiaroa/TG_COAST"/>
-      <Map Name="Rangiaroa/TG_TCU"/>
-      <Map Name="Rangiaroa/TG_RWY09"/>
+      <Map Name="Rangiroa/TG_COAST"/>
+      <Map Name="Rangiroa/TG_TCU"/>
+      <Map Name="Rangiroa/TG_RWY09"/>
     </Maps>
     <ATIS>
       <Editor Airport="NTTG" Frequency="122.7"/>
