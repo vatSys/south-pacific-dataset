@@ -22,18 +22,20 @@
   </Sector>
   <Sector FullName="Tahiti Oceanic" Frequency="125.500" Callsign="NTTT_FSS" Name="NTTT">
     <Volumes>NTTT</Volumes>
+    <ResponsibleSectors>TAC,TAA</ResponsibleSectors>
   </Sector>
   <Sector FullName="Tahiti Control" Frequency="134.700" Callsign="NTTT_CTR" Name="TAC">
     <Volumes>NTAA_CTL</Volumes>
     <Volumes>NTTL</Volumes>
-    <ResponsibleSectors>NTTT</ResponsibleSectors>
+    <ResponsibleSectors>TAA,TB ADC,TR ADC,TH ADC</ResponsibleSectors>
   </Sector>
   <Sector FullName="Tahiti Approach" Frequency="121.300" Callsign="NTAA_APP" Name="TAA">
     <Volumes>NTAA_TMA</Volumes>
-    <ResponsibleSectors>TAC,NTTT</ResponsibleSectors>
+    <ResponsibleSectors>TA ADC</ResponsibleSectors>
   </Sector>
   <Sector FullName="Tahiti Tower" Frequency="118.100" Callsign="NTAA_TWR" Name="TA ADC">
     <Volumes>NTAA_CTZ</Volumes>
+    <ResponsibleSectors>TM ADC</ResponsibleSectors>
   </Sector>
   <Sector FullName="Tahiti Ground" Frequency="121.900" Callsign="NTAA_GND" Name="TA SMC"/>
   <Sector FullName="Bora Bora Tower" Frequency="118.900" Callsign="NTTB_TWR" Name="TB ADC">
