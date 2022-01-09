@@ -23,7 +23,7 @@
   <Sector FullName="Tahiti Oceanic" Frequency="125.500" Callsign="NTTT_FSS" Name="NTTT">
     <Volumes>NTTT</Volumes>
   </Sector>
-  <Sector FullName="Tahiti Control" Frequency="134.700" Callsign="NTAA_CTR" Name="TAC">
+  <Sector FullName="Tahiti Control" Frequency="134.700" Callsign="NTTT_CTR" Name="TAC">
     <Volumes>NTAA_CTL</Volumes>
     <Volumes>NTTL</Volumes>
   </Sector>
