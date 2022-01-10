@@ -118,7 +118,7 @@
       <Line>ATIS available on 122.6</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="Tahiti Control" Type="ASD" DefaultCenter="-173324.000-1493641.000" DefaultRange="450">
+  <Position Name="Tahiti Control" Type="ASD" DefaultCenter="-173324.000-1493641.000" DefaultRange="450" MagneticVariation="-13">
     <Sectors>
       <Sector Name="TAC"/>
       <Sector Name="TAA"/>
