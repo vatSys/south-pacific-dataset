@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+ 
+      <Map Type="System" Name="TF_VFR_NTAA_NTTE" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowSquare">
+      <Point>TE</Point>
+      <Point>TF</Point>
+    </Symbol>
+    <Symbol Type="Reticle">
+      <Point>NTTE</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TORAL</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>TAF</Point>
+    </Symbol>
+    <Label>
+      <Point>TE</Point>
+      <Point>TF</Point>
+      <Point>NTTE</Point>
+      <Point>TORAL</Point>
+      <Point>TAF</Point>
+    </Label>
+    <Line Pattern="Dashed">TAF/TORAL</Line>
+    <Line>TORAL/TF/TE</Line>
+    <Line Pattern="Dashed">TE/NTTE</Line>
+  </Map>
+
+</Maps>

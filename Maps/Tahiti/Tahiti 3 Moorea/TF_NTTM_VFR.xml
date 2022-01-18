@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TF_AA04_TM_VIA_TORAL" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowStar">
+      <Point>TORAL</Point>
+    </Symbol>
+    <Symbol Type="DotFillCircle">
+      <Point>MO</Point>
+    </Symbol>
+    <Label>
+      <Point>TORAL</Point>
+      <Point>MO</Point>
+    </Label>
+    <Line>
+      -173240.720-1493538.600/
+      -173144.292-1493419.920/
+      TORAL/
+      MO
+    </Line>
+  </Map>
+  <Map Type="System" Name="TF_AA04_TM_VIA_BOBIX" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowStar">  
+      <Point>BOBIX</Point>
+    </Symbol>
+    <Symbol Type="DotFillCircle">
+      <Point>MO</Point>
+    </Symbol>
+    <Label>
+      <Point>BOBIX</Point>
+      <Point>MO</Point>
+    </Label>
+    <Line>
+      -173240.720-1493538.600/
+      -173144.292-1493419.920/
+      -173121.215-1493357.960/
+      -173050.831-1493351.119/
+      -173021.276-1493401.200/
+      -173000.503-1493425.680/
+      -172954.059-1493457.360/
+      -173003.636-1493528.319/
+      -173141.664-1493806.719/
+      BOBIX/
+      MO
+    </Line>
+  </Map>
+  <Map Type="System" Name="TF_AA22_TM_VIA_DOFIN" Priority="3" Centre="-173324.000-1493641.000">
+   <Symbol Type="HollowSquare">
+      <Point>PW</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+     <Point>DOFIN</Point>
+    </Symbol>
+    <Symbol Type="DotFillCircle">
+     <Point>MO</Point> 
+    </Symbol>
+    <Label>
+     <Point>PW</Point> 
+     <Point>DOFIN</Point>
+      <Point>MO</Point>
+    </Label>
+    <Line>
+      -173345.710-1493712.760/
+      DOFIN/
+      MO
+    </Line>
+  </Map>
+  <Map Type="System" Name="TF_AA22_TM_VIA_ATANU" Priority="3" Centre="-173324.000-1493641.000">
+   <Symbol Type="HollowSquare">
+      <Point>PW</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+     <Point>ATANU</Point>
+    </Symbol>
+    <Symbol Type="DotFillCircle">
+     <Point>MO</Point> 
+    </Symbol>
+    <Label>
+     <Point>PW</Point> 
+     <Point>ATANU</Point>
+      <Point>MO</Point>
+    </Label>
+    <Line>
+      -173345.710-1493712.760/
+      ATANU/
+      MO
+    </Line>
+  </Map>
+  <Map Type="System" Name="TF_TM_AA04_VIA_ATANU" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowStar">
+      <Point>ATANU</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>PW</Point>
+    </Symbol>
+    <Label>
+      <Point>ATANU</Point>
+      <Point>PW</Point>
+    </Label>
+    <Line>
+      -172937.380-1494527.590/
+      ATANU/
+      PW/
+      -173345.710-1493712.760
+    </Line> 
+  </Map>
+  <Map Type="System" Name="TF_TM_AA22_VIA_BOBIX" Priority="3" Centre="-173324.000-1493641.000">
+  <Symbol Type="HollowStar">
+      <Point>BOBIX</Point>
+    </Symbol>
+    <Label>
+      <Point>BOBIX</Point>
+    </Label>
+    <Line>
+    -172937.380-1494527.590/
+      BOBIX/
+      -173141.664-1493806.719/
+      -173003.636-1493528.319/
+      -172954.059-1493457.360/
+      -173000.503-1493425.680/
+      -173021.276-1493401.200/
+      -173050.831-1493351.119/
+      -173121.215-1493357.960/
+      -173144.292-1493419.920/
+      -173240.720-1493538.600
+   </Line>
+  </Map>
+  <Map Type="System" Name="TF_TM_AA04_VIA_DOFIN" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="DotFillCircle">
+      <Point>MO</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>DOFIN</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>PW</Point>
+    </Symbol>
+    <Label>
+      <Point>MO</Point>
+      <Point>DOFIN</Point>
+      <Point>PW</Point>
+    </Label>
+    <Line>
+      -172908.960-1494556.900/
+      MO/
+      DOFIN/
+      -173545.959-1494019.920/
+      PW
+    </Line>
+  </Map>
+  <Map Type="System" Name="TF_TM_AA22_VIA_TORAL" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="DotFillCircle">
+      <Point>MO</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TORAL</Point>
+    </Symbol>
+    <Label>
+      <Point>MO</Point>
+      <Point>TORAL</Point>
+    </Label>
+    <Line>
+      -172908.960-1494556.900/
+      MO/
+      TORAL/
+      -173007.632-1493243.079/
+      -173025.019-1493236.599/
+      -173035.424-1493236.599/
+      -173240.720-1493538.600
+    </Line>
+  </Map>  
+</Maps>

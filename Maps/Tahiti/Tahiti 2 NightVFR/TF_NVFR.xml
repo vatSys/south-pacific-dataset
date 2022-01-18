@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+ 
+  <Map Type="System" Name="TF_NVFR1" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowSquare">
+      <Point>MU</Point>
+      <Point>NT</Point>
+      <Point>NE</Point>
+      <Point>EC</Point>
+      <Point>EB</Point>
+      <Point>EA</Point>
+      <Point>ET</Point>
+    </Symbol>   
+    <Label>
+      <Point>MU</Point>
+      <Point>NT</Point>
+      <Point>NE</Point>
+      <Point>EC</Point>
+      <Point>EB</Point>
+      <Point>EA</Point>
+      <Point>ET</Point>
+    </Label>
+    <Line>
+      MU/NT/NE/EC/EB/EA/ET
+    </Line>
+  </Map>
+  <Map Type="System" Name="TF_NVFR2" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowSquare">
+      <Point>PW</Point>
+      <Point>SC</Point>
+      <Point>SB</Point>
+      <Point>SA</Point>
+      <Point>ST</Point>
+    </Symbol>
+    <Label>
+      <Point>PW</Point>
+      <Point>SC</Point>
+      <Point>SB</Point>
+      <Point>SA</Point>
+      <Point>ST</Point>
+    </Label>
+    <Line>
+      PW/SC/SB/SA/ST
+    </Line>
+  </Map>
+ <Map Type="System" Name="TF_NVFR3" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="Hexagon">
+      TAF
+    </Symbol>
+    <Symbol Type="DotFillCircle">
+      <Point>MO</Point>
+    </Symbol>
+    <Label>
+      <Point>MO</Point>
+      <Point>TAF</Point>
+    </Label>
+    <Line>
+      TAF/MO
+    </Line>
+  </Map>
+
+</Maps>
