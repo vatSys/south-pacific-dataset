@@ -162,7 +162,7 @@
       <Map Name="Tahiti/TF_RWY04"/>
     </Maps>
     <ATIS>
-      <Editor Airport="NTAA" Frequency="134.5"/>
+      <Editor Airport="NTAA" Frequency="128.8"/>
       <Window Airport="NTAA"/>
     </ATIS>
     <Strips Mode="Beacon" Sort="Alpha">
