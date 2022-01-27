@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Maps>
+  <Map Type="System" Name="TF_VFR_ALL" Priority="3" Centre="-173324.000-1493641.000">
+    <!--NTAA-->
+     <Symbol Type="HollowSquare">
+      <Point>MU</Point>
+      <Point>NT</Point>
+      <Point>NE</Point>
+      <Point>EC</Point>
+      <Point>EB</Point>
+      <Point>EA</Point>
+      <Point>ET</Point>
+      <Point>PW</Point>
+      <Point>SC</Point>
+      <Point>SB</Point>
+      <Point>SA</Point>
+      <Point>ST</Point>
+      <Point>TF</Point>
+      <Point>TE</Point>
+      <Point>NM</Point>
+      <Point>S1</Point>
+      <Point>SM</Point>
+      <Point>W1</Point>
+      <Point>WM</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TORAL</Point>
+      <Point>BOBIX</Point>
+      <Point>ATANU</Point>
+      <Point>DOFIN</Point>
+    </Symbol>
+    <Symbol Type="Reticle">
+      <Point>NTTE</Point>
+    </Symbol>
+    
+  </Map>
+ <Map Type="System" Name="TF_VFR_NAMES_ALL" Priority="3" Centre="-173324.000-1493641.000">
+    <Label>
+      <Point>MU</Point>
+      <Point>NT</Point>
+      <Point>NE</Point>
+      <Point>EC</Point>
+      <Point>EB</Point>
+      <Point>EA</Point>
+      <Point>ET</Point>
+      <Point>PW</Point>
+      <Point>SC</Point>
+      <Point>SB</Point>
+      <Point>SA</Point>
+      <Point>ST</Point>
+      <Point>TF</Point>
+      <Point>TE</Point>
+      <Point>NM</Point>
+      <Point>S1</Point>
+      <Point>SM</Point>
+      <Point>W1</Point>
+      <Point>WM</Point>
+      <Point>TORAL</Point>
+      <Point>BOBIX</Point>
+      <Point>ATANU</Point>
+      <Point>DOFIN</Point>
+      <Point>NTTE</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="TF_VFR_HELO" Priority="3" Centre="-173324.000-1493641.000">
+    <Symbol Type="HollowSquare">
+      <Point>SC</Point>
+      <Point>HA</Point>
+      <Point>HB</Point>
+      <Point>HS</Point>
+      <Point>HW</Point>
+      <Point>HZ</Point>
+    </Symbol>
+    <Label>
+      <Point>SC</Point>
+      <Point>HA</Point>
+      <Point>HB</Point>
+      <Point>HS</Point>
+      <Point>HW</Point>
+      <Point>HZ</Point>
+    </Label>
+    <Line>
+      SC/
+      HA/
+      HB/
+      TAF/
+    </Line>
+    <Line>
+      HB/
+      HS/
+      HW/
+      HZ
+    </Line>
+  </Map>
+</Maps>

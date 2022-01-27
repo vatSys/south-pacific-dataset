@@ -9,21 +9,30 @@
     <!--SIDs-->
     <Line>
       <!--NTTR 25 BELBO-->
+      -164324.980-1512820.540/
      TR502/
+     TR508/
      BELBO
     </Line>
     <Line>
       <!--NTTR 25 SALAN-->
+      -164324.980-1512820.540/
       TR502/
       TR504/
       SALAN
     </Line>
     <Line>
       <!--NTTR 25 UBKIM-->
+      -164324.980-1512820.540/
       TR502/
-      /TR506
+      TR506/
       UBKIM
     </Line>
+    <!-- NTTR 25 MEREV -->
+      -164324.980-1512820.540/
+      TR502/
+      TB504/
+      MEREV
     <!--STARs-->
     <Line>
       <!--NTTR MA-->
@@ -52,6 +61,9 @@
       <Point>TR502</Point>
       <Point>TR504</Point>
       <Point>TR506</Point>
+      <Point>TR508</Point>
+      <Point>TB504</Point>
+      <Point>MEREV</Point>
       <Point>BELBO</Point>
     </Symbol>
   </Map>
@@ -63,6 +75,9 @@
       <Point>TR502</Point>
       <Point>TR504</Point>
       <Point>TR506</Point>
+     <Point>TR508</Point>
+      <Point>TB504</Point>
+      <Point>MEREV</Point>
       <Point>BELBO</Point>
       <Point>BB NDB</Point>
       <Point>RU MDB</Point>

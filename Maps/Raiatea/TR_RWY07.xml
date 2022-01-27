@@ -9,19 +9,33 @@
     <!--SIDs-->
     <Line>
       <!--NTTR 07 BAMBI-->
+      -164320.110-1512733.590/
      TR501/
      RUPAL/
+     TR509/
      BAMBI
     </Line>
     <Line>
       <!--NTTR 07 IDUTA-->
+       -164320.110-1512733.590/
       TR501/
       IDUTA
     </Line>
     <Line>
       <!--NTTR 07 UXINO-->
+       -164320.110-1512733.590/
       TR501/
       UXINO
+    </Line>
+    <!-- NTTR 07 MEKES -->
+    <Line>
+     -164320.110-1512733.590/
+     TR501/
+     RUPAL/
+     TR509/
+     TB503/
+     TB504/
+     MEKES
     </Line>
     <!--STARs-->
     <Line>
@@ -51,6 +65,11 @@
       <Point>TR501</Point>
       <Point>UXINO</Point>
       <Point>RUPAL</Point>
+      <Point>TR501</Point>
+      <Point>TR509</Point>
+      <Point>TB503</Point>
+      <Point>TB504</Point>
+      <Point>MEKES</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="TR_RWY07_NAMES" Priority="2" Centre="-164323.000-1512801.000">
@@ -59,6 +78,10 @@
       <Point>IDUTA</Point>
       <Point>MEREV</Point>
       <Point>TR501</Point>
+      <Point>TR509</Point>
+      <Point>TB503</Point>
+      <Point>TB504</Point>
+      <Point>MEKES</Point>
       <Point>UXINO</Point>
       <Point>RUPAL</Point>
       <Point>BB NDB</Point>

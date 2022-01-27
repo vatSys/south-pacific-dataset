@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Maps>
   <Map Type="System" Name="TB_RWY29" Priority="1" Centre="-162637.000-1514509.000">
-    <!--YBAS-->
+    <!--NTTB-->
     <Runway Name="11/29">
       <Threshold Name="11" Position="-162625.760-1514525.530" />
       <Threshold Name="29" Position="-162653.490-1514443.710" ExtendedCentrelineTrack="304.657" ExtendedCentrelineLength="8" ExtendedCentrelineTickInterval="1"/>
@@ -18,17 +18,22 @@
       RELAK
     </Line>
     <Line>
-       <!--NTTB 11 RULOM-->
+       <!--NTTB 29 RULOM-->
        -162625.760-1514525.530/
        TB504/
        RULOM
     </Line>
     <Line>
-      <!--NTTB 11 UBKIM-->
+      <!--NTTB 29 UBKIM-->
       -162625.760-1514525.530/
       TB502/
       UDOLO/
       UBKIM
+    </Line>
+    <!-- NTTB 29 MANAX -->
+    <Line>
+      -162625.760-1514525.530/
+      MANAX
     </Line>
     <!--STARs-->
     <Line>
@@ -68,6 +73,8 @@
      <Point>TB504</Point>
      <Point>RELAK</Point>
      <Point>UDOLO</Point>
+     <Point>MEKES</Point>
+     <Point>MANAX</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="TB_RWY29_NAMES" Priority="2" Centre="-162637.000-1514509.000">
@@ -78,6 +85,8 @@
       <Point>SUDOR</Point>
       <Point>RULOM</Point>
       <Point>UBKIM</Point>
+     <Point>MEKES</Point>
+     <Point>MANAX</Point>
       <Point>TB502</Point>
       <Point>TB504</Point>
       <Point>RELAK</Point>

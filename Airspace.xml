@@ -37,11 +37,12 @@
       <Runway Name="11" DataRunway="11">
         <SID Name="RU3A"/>
         <SID Name="HHN3A"/>
-        <SID Name="MA3A"/>
+       <SID Name="MA3A"/>
         <SID Name="ROBN1A"/>
         <SID Name="SUDO1A"/>
         <SID Name="UDIN1A"/>
         <SID Name="RUTI1A"/>
+        <SID Name="MEK1A"/>
         <STAR Name="HHN1B"/>
         <STAR Name="MA1B"/>
         <STAR Name="RAN1B"/>
@@ -55,6 +56,7 @@
         <SID Name="SUDO1B"/>
         <SID Name="UBKI1B"/>
         <SID Name="RULO1B"/>
+        <SID Name="MAN1B"/>
         <STAR Name="HHN1B"/>
         <STAR Name="MA1B"/>
         <STAR Name="RAN1B"/>
@@ -105,11 +107,15 @@
     </Airport>
     <Airport Name="NTTP">
       <Runway Name="08" DataRunway="08">
+        <SID Name="BOK1G"/>
+        <SID Name="REV1G"/>
         <SID Name="BB3G"/>
         <SID Name="RU3G"/>
       </Runway>
       <Runway Name="26" DataRunway="26">
-        <SID Name="BB3H"/>
+        <SID Name="BAM1H"/>
+        <SID Name="RUL1H"/>
+       <SID Name="BB3H"/>
         <SID Name="RU3H"/>
       </Runway>
     </Airport>
@@ -118,6 +124,7 @@
         <SID Name="IDUT1C"/>
         <SID Name="UXNO1C"/>
         <SID Name="BAMB1C"/>
+        <SID Name="MEK1C"/>
         <SID Name="ONUR3C"/>
         <SID Name="TEAN3C"/>
         <SID Name="HHN3C"/>
@@ -125,12 +132,13 @@
         <SID Name="MA3C"/>
         <STAR Name="BB1R"/>
         <STAR Name="HHN1R"/>
-        <STAR Name="MA1R"/>
+        <STAR Name="MA1R"/> 
       </Runway>
       <Runway Name="25" DataRunway="25">
         <SID Name="SALA1D"/>
         <SID Name="BELB1D"/>
         <SID Name="UBKI1D"/>
+        <SID Name="MER1D"/>
         <SID Name="ONUR3D"/>
         <SID Name="TEAN3D"/>
         <SID Name="HHN3D"/>
@@ -138,7 +146,7 @@
         <SID Name="MA3D"/>
         <STAR Name="BB1R"/>
         <STAR Name="HHN1R"/>
-        <STAR Name="MA1R"/>
+        <STAR Name="MA1R"/> 
       </Runway>
     </Airport>
     <Airport Name="NCRG">
@@ -5683,6 +5691,7 @@
     <Point Name="TAPAT" Type="Fix">-363834.580+1732553.479</Point>
     <Point Name="TARAO" Type="Fix">-040759.999-1300000.000</Point>
     <Point Name="TARIB" Type="Fix">-340358.111+1764453.081</Point>
+    <Point Name="TARIR" Type="Fix">-223841.100-1524819.100</Point>
     <Point Name="TARON" Type="Fix">-170530.998+1773141.002</Point>
     <Point Name="TARUA" Type="Fix">-392717.932+1760934.819</Point>
     <Point Name="TARUM" Type="Fix">-431142.940+1722956.378</Point>
@@ -5808,6 +5817,8 @@
     <Point Name="TP403" Type="Fix">-162054.899-1521937.301</Point>
     <Point Name="TP404" Type="Fix">-162532.632-1521241.288</Point>
     <Point Name="TP406" Type="Fix">-162051.799-1520953.100</Point>
+    <Point Name="TP501" Type="Fix">-162856.400-1520943.600</Point>
+    <Point Name="TP502" Type="Fix">-162341.900-1521114.000</Point>
     <Point Name="TP689" Type="Fix">-155603.660-1735106.901</Point>
     <Point Name="TPAPA" Type="Fix">-404219.469+1742723.170</Point>
     <Point Name="TR410" Type="Fix">-163857.800-1513406.499</Point>
@@ -5823,6 +5834,8 @@
     <Point Name="TR502" Type="Fix">-164356.330-1513323.681</Point>
     <Point Name="TR504" Type="Fix">-165418.439-1513214.471</Point>
     <Point Name="TR506" Type="Fix">-164207.600-1512802.500</Point>
+    <Point Name="TR508" Type="Fix">-163746.700-1513439.600</Point>
+    <Point Name="TR509" Type="Fix">-163100.000-1513213.900</Point>
     <Point Name="TR901" Type="Fix">-023620.768+1764357.490</Point>
     <Point Name="TRYTO" Type="Fix">-410652.070+1743801.259</Point>
     <Point Name="TU411" Type="Fix">-442431.000+1705447.999</Point>
@@ -6320,6 +6333,32 @@
     <Point Name="ZWD" Type="Navaid" NavaidType="TAC" Frequency="114.300">-775321.980+1670551.990</Point>
     <Point Name="ZIR" Type="Navaid" NavaidType="TAC" Frequency="112.800">-775114.400+1662808.400</Point>
     <Point Name="ZPG" Type="Navaid" NavaidType="TAC" Frequency="113.300">-775717.640+1663046.800</Point>
+    <!-- NTAA VFR POINTS -->
+      <Point Name="MU" Type="Fix">-173200.000-1493439.000</Point>
+      <Point Name="NT" Type="Fix">-172925.000-1492941.000</Point>
+      <Point Name="NE" Type="Fix">-173033.000-1492456.000</Point>
+      <Point Name="EC" Type="Fix">-173118.000-1492313.000</Point>
+      <Point Name="EB" Type="Fix">-173218.000-1492043.000</Point>
+      <Point Name="EA" Type="Fix">-173341.000-1491857.000</Point>
+      <Point Name="ET" Type="Fix">-173634.000-1491739.000</Point>
+      <Point Name="PW" Type="Fix">-173405.000-1493741.000</Point>
+      <Point Name="SC" Type="Fix">-173808.000-1493716.000</Point>
+      <Point Name="SB" Type="Fix">-174132.000-1493527.000</Point>
+      <Point Name="SA" Type="Fix">-174437.000-1493448.000</Point>
+      <Point Name="ST" Type="Fix">-174532.000-1493147.000</Point>
+      <Point Name="TF" Type="Fix">-172241.000-1493543.000</Point>
+      <Point Name="TE" Type="Fix">-171246.000-1493522.000</Point>
+      <Point Name="NM" Type="Fix">-172008.000-1494307.000</Point>
+      <Point Name="W1" Type="Fix">-172838.000-1494931.000</Point>
+      <Point Name="WM" Type="Fix">-172933.000-1495511.000</Point>
+      <Point Name="S1" Type="Fix">-173322.000-1494651.000</Point>
+      <Point Name="SM" Type="Fix">-173516.000-1494804.000</Point>
+      <Point Name="HA" Type="Fix">-173435.000-1493650.000</Point>
+      <Point Name="HB" Type="Fix">-173330.000-1493541.000</Point>
+      <Point Name="HS" Type="Fix">-173402.000-1493428.000</Point>
+      <Point Name="HW" Type="Fix">-173342.000-1493356.000</Point>
+      <Point Name="HZ" Type="Fix">-173352.000-1493152.000</Point>
+    
   </Intersections>
   <SIDSTARs>
     <SID Name="VAIT4E" Airport="NTAA" Runways="04">
@@ -6408,6 +6447,9 @@
     </SID>
     <SID Name="MA3A" Airport="NTTB" Runways="11">
       <Route Runway="11">MA</Route>
+      </SID>
+    <SID Name="MEK1A" Airport="NTTB" Runways="11">
+  <Route Runway="11">TB501 TB503 TB504 MEKES</Route>    
     </SID>
     <SID Name="ROBN1A" Airport="NTTB" Runways="11">
       <Route Runway="11">ROBNA</Route>
@@ -6437,6 +6479,9 @@
       <Route Runway="11">RU</Route>
       <Route Runway="29">RU</Route>
     </STAR>
+    <SID Name="MAN1B" Airport="NTTB" Runways="29">
+  <Route Runway="29">MANAX</Route>    
+    </SID>
     <SID Name="RU3B" Airport="NTTB" Runways="29">
       <Route Runway="29">RU</Route>
     </SID>
@@ -6530,17 +6575,29 @@
     <SID Name="SALU4N" Airport="NTTM" Runways="30">
       <Route Runway="30">TM501 BOBIX TORAL SALUT</Route>
     </SID>
+    <SID Name="BOK1G" Airport="NTTP" Runways="08">
+      <Route Runway="08">BOKAL</Route>
+    </SID>
+    <SID Name="REV1G" Airport="NTTP" Runways="08">
+      <Route Runway="08">TP501 SUDOR REVKO</Route>
+    </SID>
     <SID Name="BB3G" Airport="NTTP" Runways="08">
       <Route Runway="08">BB</Route>
     </SID>
     <SID Name="RU3G" Airport="NTTP" Runways="08">
       <Route Runway="08">RU</Route>
     </SID>
-    <SID Name="BB3H" Airport="NTTP" Runways="26">
-      <Route Runway="26">BB</Route>
+    <SID Name="RUL1H" Airport="NTTP" Runways="26">
+      <Route Runway="26">TP502 TB504 RULOM</Route>
+    </SID>
+    <SID Name="BAM1H" Airport="NTTP" Runways="26">
+      <Route Runway="26">TP502 BAMBI</Route>
+    </SID>
+      <SID Name="BB3H" Airport="NTTP" Runways="26">
+      <Route Runway="08">BB</Route>
     </SID>
     <SID Name="RU3H" Airport="NTTP" Runways="26">
-      <Route Runway="26">RU</Route>
+      <Route Runway="08">RU</Route>
     </SID>
     <SID Name="IDUT1C" Airport="NTTR" Runways="07">
       <Route Runway="07">TR501 IDUTA</Route>
@@ -6549,7 +6606,10 @@
       <Route Runway="07">TR501 UXINO</Route>
     </SID>
     <SID Name="BAMB1C" Airport="NTTR" Runways="07">
-      <Route Runway="07">TR501 RUPAL BAMBI</Route>
+      <Route Runway="07">TR501 RUPAL TR509 BAMBI</Route>
+    </SID>
+    <SID Name="MEK1C" Airport="NTTR" Runways="07">
+      <Route Runway="07">TR501 RUPAL TR509 TB503 TB504 MEKES</Route>
     </SID>
     <SID Name="ONUR3C" Airport="NTTR" Runways="07">
       <Route Runway="07">ONURI</Route>
@@ -6582,10 +6642,13 @@
       <Route Runway="25">TR502 TR504 SALAN</Route>
     </SID>
     <SID Name="BELB1D" Airport="NTTR" Runways="25">
-      <Route Runway="25">TR502 BELBO</Route>
+      <Route Runway="25">TR502 TR508 BELBO</Route>
     </SID>
     <SID Name="UBKI1D" Airport="NTTR" Runways="25">
       <Route Runway="25">TR502 TR506 UBKIM</Route>
+    </SID>
+    <SID Name="MER1D" Airport="NTTR" Runways="25">
+      <Route Runway="25">TR502 TB504 MEREV</Route>
     </SID>
     <SID Name="ONUR3D" Airport="NTTR" Runways="25">
       <Route Runway="25">ONURI</Route>
