@@ -27,9 +27,15 @@
     </Line>
     <Line>
       <!--NTTB 11 UDINI-->
+      -162653.490-1514443.710/
       TB501/
       UDINI
     </Line>
+    <!-- NTTB 11 MEKES -->
+      TB501/
+      TB503/
+      TB504/
+      MEKES
     <!--STARs-->
     <Line>
       <!--NTTB 11 RAN-->
@@ -68,6 +74,8 @@
      <Point>RUTIX</Point>
      <Point>UDINI</Point>
      <Point>MALBO</Point>
+     <Point>MEKES</Point>
+     <Point>MANAX</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="TB_RWY11_NAMES" Priority="2" Centre="-162637.000-1514509.000">
@@ -81,6 +89,8 @@
      <Point>ROBNA</Point>
      <Point>RUTIX</Point>
      <Point>UDINI</Point>
+     <Point>MEKES</Point>
+     <Point>MANAX</Point>
      <Point>MALBO</Point>
       <Point>BB NDB</Point>
       <Point>RU MDB</Point>
