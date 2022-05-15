@@ -7194,7 +7194,7 @@
       <Runway Name="03" Position="-232211.430-1493146.980"/>
       <Runway Name="21" Position="-232138.930-1493107.590"/>
     </Airport>
-    <Airport ICAO="NTGY" Position="-204648.000-1383401.000" Elevation="">
+    <Airport ICAO="NTGY" Position="-204648.000-1383401.000" Elevation="10">
       <Runway Name="18" Position="-204643.570-1383400.090"/>
       <Runway Name="36" Position="-204724.930-1383409.390"/>
     </Airport>
