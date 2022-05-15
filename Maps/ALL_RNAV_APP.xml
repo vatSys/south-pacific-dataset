@@ -406,8 +406,22 @@
       <Point>NIRUX</Point>
       <Point>FGB07</Point>
       <Point>GB410</Point>
+      <Point>GIVEG</Point>
+      <Point>GOMEM</Point>
+      <Point>GOSBU</Point>
+      <Point>GUNDA</Point>
+      <Point>GUKEV</Point>
+      <Point>GULKI</Point>
+      <Point>FGT07</Point>
+      <Point>FGT25</Point>
+      <Point>GT401</Point>
+      <Point>GT402</Point>
     </Label>
     <Symbol Type="MalteseCross">
+      <Point>-144236.800-1451500.220</Point>
+      <Point>-144231.740-1451429.840</Point>
+      <Point>FGT07</Point>
+      <Point>FGT25</Point>
       <Point>FBG25</Point>
       <Point>-154910.640-1405257.490</Point>
       <Point>FGB07</Point>
@@ -566,10 +580,18 @@
       <Point>-204724.930-1383409.390</Point>
     </Symbol>
     <Symbol Type="HollowStar">
-    <Point>MD420</Point>
-    <Point>NOGES</Point>
-    <Point>NUBSI</Point>
-    <Point>NITOR</Point>
+      <Point>GIVEG</Point>
+      <Point>GOMEM</Point>
+      <Point>GOSBU</Point>
+      <Point>GUNDA</Point>
+      <Point>GUKEV</Point>
+      <Point>GULKI</Point> 
+      <Point>GT401</Point>
+      <Point>GT402</Point>
+      <Point>MD420</Point>
+      <Point>NOGES</Point>
+      <Point>NUBSI</Point>
+      <Point>NITOR</Point>
       <Point>KO420</Point>
       <Point>GUSED</Point>
       <Point>IKONU</Point>
@@ -3976,6 +3998,30 @@
       -155825.967-1423015.119/
       -160052.596-1422704.680
      </Line> 
+    <!-- RNAV APP NTGT RWY 07 -->
+    <Line>GOMEM/GUDNA/GULKI</Line>
+    <Line>
+      GUDNA/
+      FGT07/
+      -144236.800-1451500.220
+    </Line>
+    <Line Pattern="Dashed">
+       -144236.800-1451500.220/
+      GT401/
+      GOMEM
+    </Line>
+    <!-- RNAV APP NTGT RWY 25 -->
+    <Line>GIVEG/GOSBU/GUKEV</Line>
+    <Line>
+      GOSBU/
+      FGT25/
+      -144231.740-1451429.840
+    </Line>
+    <Line Pattern="Dashed">
+      -144231.740-1451429.840/
+      GT402/
+      GUKEV
+    </Line>
     <!-- RNAV APPROACHES NIUE -->
     <!-- RNAV APP NIUE RWY 10--> 
     <Line>APABU/MEGUD/IBVON</Line>
