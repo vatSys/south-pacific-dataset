@@ -3986,6 +3986,16 @@
     <Point Name="GUVOS" Type="Fix">-154950.149-1735319.169</Point>
     <Point Name="GY410" Type="Fix">-204100.301-1383801.799</Point>
     <Point Name="GY420" Type="Fix">-205235.101-1383001.001</Point>
+    <Point Name="GIVEG" Type="Fix">-143557.900-1450541.700</Point>
+    <Point Name="GOMEM" Type="Fix">-144910.100-1452348.100</Point>
+    <Point Name="GOSBU" Type="Fix">-144054.900-1450449.500</Point>
+    <Point Name="GUNDA" Type="Fix">-144431.100-1452440.200</Point>
+    <Point Name="GUKEV" Type="Fix">-144551.800-1450357.200</Point>
+    <Point Name="GULKI" Type="Fix">-143916.100-1452532.200</Point>
+    <Point Name="FGT07" Type="Fix">-144322.500-1451935.000</Point>
+    <Point Name="FGT25" Type="Fix">-144145.900-1450954.500</Point>
+    <Point Name="GT401" Type="Fix">-144817.000-1451908.000</Point>
+    <Point Name="GT402" Type="Fix">-144632.500-1450839.900</Point>
     <Point Name="HA522" Type="Fix">-393252.778+1740644.921</Point>
     <Point Name="HA893" Type="Fix">-393037.390+1741451.691</Point>
     <Point Name="HA906" Type="Fix">-393811.090+1741822.921</Point>
